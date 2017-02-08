@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% include page-header.html %}
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-10 col-sm-offset-1">
+            {{content}}
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: "NKJV"
+        }
+    };
+    (function(d, t) {
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = "https://api.reftagger.com/v2/RefTagger.js";
+        s.parentNode.insertBefore(g, s);
+    }(document, "script"));
+</script>

@@ -1,0 +1,36 @@
+---
+layout: 
+---
+
+[
+  {% for sermon in site.sermons %}
+    {
+      "title"    : "{{ sermon.title | escape }}",
+      "category" : "{{ sermon.category }}",
+      "tags"     : "{{ sermon.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ sermon.url }}",
+      "date"     : "{{ sermon.date }}",
+      "content"  : "{{ sermon.content | strip_html | strip_newlines }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  {% for teaching in site.teachings %}
+    {
+      "title"    : "{{ teaching.title | escape }}",
+      "category" : "{{ teaching.category }}",
+      "tags"     : "{{ teaching.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ teaching.url }}",
+      "date"     : "{{ teaching.date }}",
+      "content"  : "{{ teaching.content | strip_html | strip_newlines }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}",
+      "content"  : "{{ post.content | strip_html | strip_newlines }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

@@ -1,0 +1,99 @@
+---
+title: River Rochester
+timezone: UTC
+collections:
+  events:
+    title: Events
+    output: true
+  posts:
+    title: Posts
+    output: true
+  sermons:
+    title: Sermons
+    output: true
+  teachings:
+    title: Teachings
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: sermons
+  values:
+    layout: sermon
+    image: 
+    video_id:
+    - none
+    audio_id:
+    - none
+    verses:
+    - 
+- scope:
+    path: ''
+    type: events
+  values:
+    description: Awesome Event!
+    image: ''
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    header-image: ''
+- scope:
+    path: ''
+    type: teachings
+  values:
+    layout: blog
+    author: Jeremiah Thomas
+    subtitle: Subtitle
+    image: ''
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: blog
+    author: Jeremiah Thomas
+    subtitle: Subtitle
+    image: ''
+description: We are a church located in Brockport, NY that is impacting the greater
+  Rochester area with the gospel of Jesus Christ. Come join us! We would love to have
+  you come and be a part of what God is doing here
+url: https://riverrochester.com
+baseurl: 
+logo: assets/img/logos/black-background.png
+image: assets/img/logos/black-background.png
+email: contact@riverrochester.com
+social:
+- title: facebook
+  url: https://facebook.com/TheRiverAtRochester/
+- title: youtube-play
+  url: https://youtube.com/riverrochester
+- title: instagram
+  url: https://instagram.com/riverrochester
+- title: podcast
+  url: https://geo.itunes.apple.com/us/podcast/river-rochester/id1182211082?mt=2
+address:
+- line: 3723 Sweden Walker Rd
+- line: Brockport, NY 14420
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+sass:
+  sass_dir: assets/css/_sass
+  style: compressed
+future: true
+permalink: none
+gems:
+- jekyll-archives
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+- LICENCE

@@ -1,0 +1,29 @@
+<html lang="{{ page.lang | default: site.lang | default: "en-us" }}">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="description" content="{{ site.description }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="../assets/img/head/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="../assets/img/head/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="../assets/img/head/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="../assets/img/head/manifest.json">
+<link rel="mask-icon" href="../assets/img/head/safari-pinned-tab.svg" color="#000000">
+<link rel="shortcut icon" href="../assets/img/head/favicon.ico">
+<meta name="msapplication-config" content="../assets/img/head/browserconfig.xml">
+<meta name="theme-color" content="#000000">
+{% seo %}
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Church",
+  "name": "River Rochester",
+  "description": "We are a church located in Brockport, NY that is impacting the greater Rochester area with the gospel of Jesus Christ. Come join us! We would love to have you come and be a part of what God is doing here",
+  "url": "https://riverrochester.com/"
+}
+</script>
+
+<link rel="stylesheet" href="/assets/css/main.css">

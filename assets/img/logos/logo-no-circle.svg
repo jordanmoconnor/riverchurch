@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="125.65015"
+   inkscape:export-xdpi="125.65015"
+   inkscape:export-filename="C:\Users\Jordan\Documents\GitHub\riverrochester.github.io\img\logo-dark.png"
+   sodipodi:docname="logo-no-circle.svg"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg2"
+   height="716.27454"
+   width="716.31372">
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="style3053">@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);</style>
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showborder="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="837"
+     inkscape:window-width="1600"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="321.32085"
+     inkscape:cx="82.187691"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     style="opacity:1">
+    <rect
+       style="opacity:1"
+       id="rect3355"
+       width="885.71429"
+       height="842.85712"
+       x="-57.142857"
+       y="-53.725464" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.274505,-159.22982)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0;stroke:none"
+       x="149.17679"
+       y="433.65851"
+       id="text2997"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="149.17679"
+         y="433.65851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:14px;fill:#ffffff;fill-opacity:1"
+         dx="0">THE</tspan><tspan
+         sodipodi:role="line"
+         x="149.17679"
+         y="565.65851"
+         id="tspan3001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:14px;fill:#ffffff;fill-opacity:1">RIVER</tspan><tspan
+         sodipodi:role="line"
+         x="149.17679"
+         y="697.65851"
+         id="tspan3003"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110px;line-height:120.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:14px;fill:#ffffff;fill-opacity:1">CHURCH</tspan></text>
+  </g>
+</svg>

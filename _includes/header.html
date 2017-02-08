@@ -1,0 +1,30 @@
+    <!-- Header -->
+    <style media="screen">
+    header {
+        background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('..{{ page.header-image}}');
+        background-repeat: none;
+        background-attachment: scroll;
+        background-position: center center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        text-align: center;
+        letter-spacing: 5px;
+        color: white;
+        height: 100vh;
+    }
+    </style>
+    <header>
+        <div class="container-flex flex-container">
+            <div class="row">
+                <div class="intro-text editable"><div class="intro-lead-in"></div>
+                <div class="intro-heading">
+                    <strong>{{ page.header-text-bold }} </strong> {{ page.header-text }}
+                </div>
+                <div id="header-scroll" class="scroll">
+                    <a class="page-scroll" href="#about"><span></span></a>
+                </div>
+            </div>
+        </div>
+    </header>

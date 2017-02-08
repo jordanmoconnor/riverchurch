@@ -1,0 +1,24 @@
+<!-- Services Section -->
+    <section id="events">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h1 class="section-heading">Events</h1>
+                </div>
+            </div>
+            <div class="row text-center">
+                <!--<div class="col-sm-4 col-xs-6">
+                    <img src="assets/img/events/soul-winning.jpg" alt="" />
+                </div>-->
+              {% assign counter = 0 %}{% assign items = site.events | sort: 'date' | reverse %}{% for item in items limit: 6 %}{% if item.title != "Soul Winning" %}{% if item.title != "Coffee & Donuts" %}{% assign counter = counter | plus: 1 %}
+                        <div class="col-sm-4 col-xs-6">
+                            <img src="{{ item.image }}" alt="" />
+                        </div>{% endif %}{% endif %}{% endfor %}
+              {% if counter < 5 %}
+                <div class="col-sm-4 col-xs-6">
+                     <img src="../assets/img/events/more-coming-soon-min.jpg" alt="" />
+                </div>
+              {% endif %}
+            </div>
+        </div>
+    </section>
