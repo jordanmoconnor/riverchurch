@@ -1,6 +1,6 @@
 ---
 title: River Rochester
-timezone: UTC
+timezone: America/New_York
 collections:
   events:
     title: Events
