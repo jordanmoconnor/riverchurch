@@ -8,9 +8,9 @@
     <image>
       <url>http://riverrochester.com/assets/img/logos/podcast-logo.png</url>
       <title>River Rochester</title>
-      <link>http://riverrochester.com</link>
+      <link>{{ site.url }}</link>
     </image>
-    <atom:link href="{{ "/podcast" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ "/podcast" | absolute_url }}" rel="self" type="application/rss+xml" />
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
@@ -30,7 +30,7 @@
       {% if sermon.audio_id[0] != "none" %}
       <item>
         <title>{{ sermon.title | xml_escape }}</title>
-        <description>{{ sermon.content | xml_escape }}</description>
+        <description>{{ sermon.summary | xml_escape }}</description>
         <pubDate>{{ sermon.date | date_to_rfc822 }}</pubDate>
         <link>{{ sermon.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid>https://a.clyp.it/{{ sermon.audio_id }}.mp3</guid>
@@ -47,7 +47,7 @@
         {% endif %}
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>{{ sermon.subtitle | xml_escape }}</itunes:subtitle>
-        <itunes:summary>{{ sermon.content | xml_escape }}</itunes:summary>
+        <itunes:summary>{{ sermon.summary | xml_escape }}</itunes:summary>
         <itunes:keywords>River Rochester, The River Church, Rochester, Church, Funny, Jeremiah Thomas, Sermon, Pastor Jeremiah, Jesus, Rochester New York, Preaching, Teaching, Good Sermon</itunes:keywords>
       </item>
       {% endif %}
