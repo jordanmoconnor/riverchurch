@@ -10,7 +10,7 @@
       <title>River Rochester</title>
       <link>{{ site.url }}</link>
     </image>
-    <atom:link href="{{ "/podcast" | absolute_url }}" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ '/podcast.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
