@@ -5,9 +5,9 @@
                   <span class="copyright">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</span>
               </div>
               <div class="col-md-4">
-                  <ul class="list-inline social-buttons">
+                  <ul class="list-inline d-inline-flex">
                       {% for network in site.social %}
-                      <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                      <li><a class="btn" href="{{ network.url }}"><i class="fa fa-{{ network.title }} fa-2x"></i></a>
                       </li>
                       {% endfor %}
                   </ul>

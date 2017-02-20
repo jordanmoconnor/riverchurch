@@ -1,26 +1,29 @@
 <!-- About Section -->
-    <section id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 text-center">
-                  <img class="about" src="../assets/img/logos/logo-black.png" alt="" />
-                <ul class="list-inline text-center">
-                    {% for network in site.social %}
-                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }} fa-3x"></i></a>
-                    </li>
-                    {% endfor %}
-                </ul>
-                  <hr>
-                  <h2 class="section-heading editable">Impacting This Region</h2>
-                </div>
+<section id="about">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-sm-4 text-center">
+                <img class="about" src="../assets/img/logos/logo-black.png" alt="" />
             </div>
-            <div class="row text-center">
-              <div class="col-sm-10 col-sm-offset-1 text-center">
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-sm-6 text-center">
+            <ul class="list-inline d-inline-flex text-center">
+                {% for network in site.social %}
+                <li><a class="btn" href="{{ network.url }}"><i class="fa fa-{{ network.title }} fa-3x"></i></a>
+                </li>
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-sm-10 text-center">
+                <h2 class="section-heading editable">Impacting This Region</h2>
                 <p class="large editable">
                     We are a church located in Brockport, NY that is impacting the greater Rochester area with the gospel of Jesus Christ. We would love to have you come and be a part of what God is doing here.
                 </p>
                 <a href="{{site.baseurl}}/beliefs"><button class="btn btn-xl-dark">What we believe.</button></a>
-                </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
