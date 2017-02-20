@@ -1,7 +1,6 @@
 ---
 title: Love, Sex, and Marriage | Part 3
 date: 2017-02-19 10:30:00 -05:00
-published: false
 video_id:
 - p4hadDxtDUY
 audio_id:
