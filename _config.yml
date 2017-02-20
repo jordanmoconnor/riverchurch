@@ -30,7 +30,7 @@ defaults:
     - none
     verses:
     - none
-    summary: "Check us out online at https://riverrochester.com!"
+    summary: Check us out online at https://riverrochester.com!
 - scope:
     path: ''
     type: events
