@@ -5,7 +5,7 @@ image: "/uploads/maxresdefault (2)-min.jpg"
 video_id:
 - hQdNZ1SQF_U
 audio_id:
-- https://a.clyp.it/x2nvqkdr.mp3
+- http://a.clyp.it/x2nvqkdr.mp3
 verses:
 - Acts 3:1-8
 - Acts 4:1

@@ -10,7 +10,7 @@ tags:
 video_id:
 - coHCiY54Xm4
 audio_id:
-- https://a.clyp.it/2qm0dwd3.mp3
+- http://a.clyp.it/2qm0dwd3.mp3
 verses:
 - none
 ---

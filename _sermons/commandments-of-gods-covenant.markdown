@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - FFDDRVu8exo
 audio_id:
-- https://a.clyp.it/g0lsrvgk.mp3
+- http://a.clyp.it/g0lsrvgk.mp3
 verses:
 - Hebrews 5:12-14
 - 1 Corinthians 3:1-3

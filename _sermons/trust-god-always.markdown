@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - LDfqRhQZBZw
 audio_id:
-- https://a.clyp.it/is23jx3h.mp3
+- http://a.clyp.it/is23jx3h.mp3
 verses:
 - Romans 8:28
 - Hebrews 2:14

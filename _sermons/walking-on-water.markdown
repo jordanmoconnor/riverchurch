@@ -4,7 +4,7 @@ date: 2016-12-03 19:00:00 -05:00
 video_id:
 - ShHQS58hl6Q
 audio_id:
-- https://a.clyp.it/u45pcik1.mp3
+- http://a.clyp.it/u45pcik1.mp3
 verses:
 - Matthew 14:22-33
 - Daniel 3:25
