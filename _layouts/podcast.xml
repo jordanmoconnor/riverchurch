@@ -33,8 +33,8 @@
         <description>{{ sermon.summary | xml_escape }}</description>
         <pubDate>{{ sermon.date | date_to_rfc822 }}</pubDate>
         <link>{{ sermon.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid>https://a.clyp.it/{{ sermon.audio_id }}.mp3</guid>
-        <enclosure url="http://a.clyp.it/{{ sermon.audio_id }}.mp3" type="audio/mpeg" length="1" />
+        <guid>{{ sermon.audio_id }}</guid>
+        <enclosure url="{{ sermon.audio_id }}" type="audio/mpeg" length="1" />
         {% for tag in sermon.tags %}
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
