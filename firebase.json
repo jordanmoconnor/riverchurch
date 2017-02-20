@@ -4,6 +4,11 @@
   },
   "hosting": {
     "public": "_site",
+    "redirects": [ {
+      "source" : "/podcast",
+      "destination" : "/podcast.xml",
+      "type" : 301
+    } ],
     "headers": [ {
       "source" : "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
       "headers" : [ {
