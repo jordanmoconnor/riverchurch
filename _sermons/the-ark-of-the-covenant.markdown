@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - PRf-YFh1AMI
 audio_id:
-- snywthty
+- https://a.clyp.it/snywthty.mp3
 verses:
 - 2 Samuel 6
 - 1 Chronicles 15:11

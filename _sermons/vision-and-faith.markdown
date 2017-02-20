@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - qoTgMS-1UY8
 audio_id:
-- mh3vk1f0
+- https://a.clyp.it/mh3vk1f0.mp3
 verses:
 - none
 ---

@@ -2,7 +2,7 @@
 title: The Violent Take It By Force
 date: 2016-12-19 16:53:00 Z
 audio_id:
-- 5vblndjo
+- https://a.clyp.it/5vblndjo.mp3
 verses:
 - Matthew 11:12
 ---

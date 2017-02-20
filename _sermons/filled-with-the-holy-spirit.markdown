@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - 3SmrFdNZylI
 audio_id:
-- zipo2myl
+- https://a.clyp.it/zipo2myl.mp3
 verses:
 - Ephesians 4:15-21
 - Ephesians 4:22-31

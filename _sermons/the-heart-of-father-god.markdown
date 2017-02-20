@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - kulnpwELPUo
 audio_id:
-- 4ooiijqx
+- https://a.clyp.it/4ooiijqx.mp3
 verses:
 - John 3:16
 - Matthew 6:25

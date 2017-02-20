@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - awjQ-FpXauk
 audio_id:
-- kfbizmdd
+- https://a.clyp.it/kfbizmdd.mp3
 verses:
 - none
 ---

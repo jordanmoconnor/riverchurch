@@ -8,7 +8,7 @@ layout: sermon
 video_id:
 - bZEUV2OcrF0
 audio_id:
-- irye0gy4
+- https://a.clyp.it/irye0gy4.mp3
 verses:
 - none
 ---

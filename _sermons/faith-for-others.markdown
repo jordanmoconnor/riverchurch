@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - yZXV8Yd7EUo
 audio_id:
-- f0qgpmag
+- https://a.clyp.it/f0qgpmag.mp3
 verses:
 - Mark 1:14
 - Psalms 150

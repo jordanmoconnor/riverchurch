@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - dWaRzxwFHWM
 audio_id:
-- 2o3dgjfq
+- https://a.clyp.it/2o3dgjfq.mp3
 verses:
 - Isaiah 55:8
 - Numbers 22

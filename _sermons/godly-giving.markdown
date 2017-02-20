@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - EFzFNgNIs4A
 audio_id:
-- seie3ckg
+- https://a.clyp.it/seie3ckg.mp3
 verses:
 - none
 ---

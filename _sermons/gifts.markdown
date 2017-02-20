@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - _cDgEEZCfto
 audio_id:
-- 2x1rpidc
+- https://a.clyp.it/2x1rpidc.mp3
 verses:
 - none
 ---

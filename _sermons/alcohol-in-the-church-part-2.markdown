@@ -8,7 +8,7 @@ tags:
 video_id:
 - mdJHETt_kw0
 audio_id:
-- vi1qcjop
+- https://a.clyp.it/vi1qcjop.mp3
 verses:
 - none
 ---

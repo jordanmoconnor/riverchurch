@@ -5,7 +5,7 @@ image: "/uploads/love-sex-dating.jpg"
 video_id:
 - xaLygd6YJ1M
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/kg7sifw0jwcx085/Love%2C%20Sex%2C%20and%20Marriage%20-%20Part%201%20-%20from%20YouTube.mp3
 verses:
 - none
 ---
