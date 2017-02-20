@@ -29,7 +29,7 @@ defaults:
     audio_id:
     - none
     verses:
-    - 
+    - none
 - scope:
     path: ''
     type: events
