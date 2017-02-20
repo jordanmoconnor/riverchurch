@@ -1,6 +1,6 @@
 ---
 title: The Gifts of the Spirit
-date: 2016-07-28 00:00:00 Z
+date: 2016-07-27 20:00:00 -04:00
 categories:
 - media
 layout: sermon

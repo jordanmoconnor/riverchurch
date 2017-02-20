@@ -1,6 +1,6 @@
 ---
 title: Walking on Water
-date: 2016-12-04 00:00:00 Z
+date: 2016-12-03 19:00:00 -05:00
 video_id:
 - ShHQS58hl6Q
 audio_id:

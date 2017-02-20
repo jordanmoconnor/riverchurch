@@ -1,6 +1,6 @@
 ---
 title: The Heart of Father God
-date: 2016-11-27 00:00:00 Z
+date: 2016-11-26 19:00:00 -05:00
 categories:
 - media
 layout: sermon

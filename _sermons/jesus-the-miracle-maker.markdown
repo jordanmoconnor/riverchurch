@@ -1,6 +1,6 @@
 ---
 title: Jesus the Miracle Maker
-date: 2016-08-07 10:30:00 Z
+date: 2016-08-07 06:30:00 -04:00
 categories:
 - media
 layout: sermon

@@ -1,6 +1,6 @@
 ---
 title: Godly Giving | Get Ready
-date: 2016-07-12 00:00:00 Z
+date: 2016-07-11 20:00:00 -04:00
 categories:
 - media
 layout: sermon

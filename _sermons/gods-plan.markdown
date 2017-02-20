@@ -1,6 +1,6 @@
 ---
 title: God's Plan
-date: 2016-09-25 00:00:00 Z
+date: 2016-09-24 20:00:00 -04:00
 categories:
 - media
 layout: sermon

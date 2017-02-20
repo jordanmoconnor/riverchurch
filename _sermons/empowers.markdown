@@ -1,6 +1,6 @@
 ---
 title: The Holy Spirit Empowers You
-date: 2016-07-17 00:00:00 Z
+date: 2016-07-16 20:00:00 -04:00
 categories:
 - media
 layout: sermon

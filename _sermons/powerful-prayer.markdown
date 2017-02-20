@@ -1,6 +1,6 @@
 ---
 title: Powerful Prayer
-date: 2017-01-03 01:03:00 Z
+date: 2017-01-02 20:03:00 -05:00
 image: "/uploads/maxresdefault (2)-min.jpg"
 video_id:
 - hQdNZ1SQF_U

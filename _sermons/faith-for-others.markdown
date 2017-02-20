@@ -1,6 +1,6 @@
 ---
 title: Faith for Others
-date: 2016-08-14 10:30:00 Z
+date: 2016-08-14 06:30:00 -04:00
 categories:
 - media
 layout: sermon

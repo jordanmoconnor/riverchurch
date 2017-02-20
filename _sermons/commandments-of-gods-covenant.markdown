@@ -1,6 +1,6 @@
 ---
 title: Commandments of God's Covenant
-date: 2016-09-18 00:00:00 Z
+date: 2016-09-17 20:00:00 -04:00
 categories:
 - media
 layout: sermon

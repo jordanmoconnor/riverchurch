@@ -1,6 +1,6 @@
 ---
 title: Surrender To Jesus
-date: 2016-07-11 00:00:00 Z
+date: 2016-07-10 20:00:00 -04:00
 categories:
 - media
 layout: sermon

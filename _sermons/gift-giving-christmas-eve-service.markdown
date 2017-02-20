@@ -1,6 +1,6 @@
 ---
 title: Gift Giving | Christmas Eve Service
-date: 2016-12-24 18:00:00 Z
+date: 2016-12-24 13:00:00 -05:00
 image: "/uploads/maxresdefault (1)-min.jpg"
 video_id:
 - bHU-ov0esz8

@@ -1,6 +1,6 @@
 ---
 title: Church Vision and Faith
-date: 2016-11-20 00:00:00 Z
+date: 2016-11-19 19:00:00 -05:00
 categories:
 - media
 layout: sermon

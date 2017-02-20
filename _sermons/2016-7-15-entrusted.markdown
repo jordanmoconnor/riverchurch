@@ -1,7 +1,7 @@
 ---
 title: Keeping what God has Entrusted to You | The Heart of a Giver | The Will Of
   God
-date: 2016-07-15 00:00:00 Z
+date: 2016-07-14 20:00:00 -04:00
 categories:
 - media
 layout: sermon

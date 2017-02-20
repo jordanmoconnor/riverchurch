@@ -1,6 +1,6 @@
 ---
 title: Trust God Always
-date: 2016-10-09 00:00:00 Z
+date: 2016-10-08 20:00:00 -04:00
 categories:
 - media
 layout: sermon

@@ -1,6 +1,6 @@
 ---
 title: Praise, Worship, and Thanksgiving
-date: 2016-12-13 14:13:00 Z
+date: 2016-12-13 09:13:00 -05:00
 video_id:
 - PUmHfM0-z_U
 audio_id:
