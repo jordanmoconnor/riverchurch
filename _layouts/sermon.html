@@ -38,10 +38,10 @@ layout: post
         {% for item in page.verses %}
         <a class="rtBibleRef" href="http://biblia.com/bible/nkjv/{{ item }}" data-reference="{{ item }}" data-version="nkjv" data-purpose="bible-reference" target="_blank"><button class="btn btn-xl-dark">{{ item }}</button></a>
         {% endfor %}
+        <hr>
     </div>
     {% endif %}
     <div class="col-sm-12">
-      <hr>
       <div class="post-content" itemprop="articleBody">
         {{ content }}
       </div>
@@ -51,7 +51,7 @@ layout: post
     <div class="col-sm-6 ">
       <div class="share-page">
         <h3>Download</h3>
-        <a href="https://a.clyp.it/{{ page.audio_id }}.mp3" download="{{ page.title }}.mp3"><button class="btn btn-xl-dark" type="button" name="button">Right-click<br>'Save link as...'</button></a>
+        <a href="{{ page.audio_id }}" download="{{ page.title }}.mp3"><button class="btn btn-xl-dark" type="button" name="button">Right-click<br>'Save link as...'</button></a>
       </div>
     </div>
     <div class="col-sm-6 ">
