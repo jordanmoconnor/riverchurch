@@ -2,7 +2,9 @@
   "database": {
     "rules": "database.rules.json"
   },
-  "headers": [ {
+  "hosting": {
+    "public": "_site",
+    "headers": [ {
       "source" : "**/*.@(eot|otf|ttf|ttc|woff|font.css)",
       "headers" : [ {
         "key" : "Access-Control-Allow-Origin",
@@ -21,8 +23,7 @@
         "value" : "max-age=300"
       } ]
     } ],
-  "hosting": {
-    "public": "_site",
-    "cleanUrls": true
+    "cleanUrls": true,
+    "trailingSlash": false
   }
 }
