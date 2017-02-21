@@ -4,15 +4,24 @@ layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
 ---
-
-<h1>{{ page.title }}</h1>  
-{% for teaching in site.teachings reversed %}
-{% capture currentyear %}{{teaching.date | date: "%Y"}}{% endcapture %}
-{% if currentyear != year %}
-{% unless forloop.first %}</ul>{% endunless %}
-<h5>{{ currentyear }}</h5>
-<ul class="posts">
-{% capture year %}{{currentyear}}{% endcapture %}
-{% endif %}
-<li><a href="{{ teaching.url | prepend: site.baseurl }}"><h3>{{ teaching.title }}</h3></a><span class="post-meta">{{ teaching.date | date: "%b %-d, %Y" }}</span></li>
-{% endfor %}
+<div class="row justify-content-center">
+    <div class="col-md-10 text-center">
+        <h1>{{ page.title }}</h1>  
+    </div>
+</div>
+<div class="row justify-content-center">
+  {% assign items = site.teachings | sort: 'date' | reverse %}
+  {% for item in items %}
+  <div class="col-md-4">
+    <div class="card">
+      <div class="thumb-crop">
+        <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}" /></a>
+      </div>
+      <div class="card-block">
+        <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
+        <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

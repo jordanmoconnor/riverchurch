@@ -1,20 +1,21 @@
 ---
 layout: default
 ---
+<section>
+	<div class="container">
+		{{ content }}
+	</div>
+</section>
 
-      <div class="container-fluid">
-        {{ content }}
-      </div>
-
-    <script>
-    	var refTagger = {
-    		settings: {
-    			bibleVersion: "NKJV"
-    		}
-    	};
-    	(function(d, t) {
-    		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-    		g.src = "https://api.reftagger.com/v2/RefTagger.js";
-    		s.parentNode.insertBefore(g, s);
-    	}(document, "script"));
-    </script>
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: "NKJV"
+		}
+	};
+	(function(d, t) {
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = "https://api.reftagger.com/v2/RefTagger.js";
+		s.parentNode.insertBefore(g, s);
+	}(document, "script"));
+</script>

@@ -4,15 +4,29 @@ layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
 ---
-
-<h1>{{ page.title }}</h1>  
-{% for post in site.sermons reversed %}
-{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
-{% if currentyear != year %}
-{% unless forloop.first %}</ul>{% endunless %}
-<h5>{{ currentyear }}</h5>
-<ul class="posts">
-{% capture year %}{{currentyear}}{% endcapture %}
-{% endif %}
-<li><a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></li>
+<div class="row justify-content-center">
+    <div class="col-md-10 text-center">
+        <h1>{{ page.title }}</h1>  
+    </div>
+</div>
+<div class="row justify-content-center">
+{% for item in site.sermons reversed %}
+<div class="col-md-4">
+    <div class="card">
+      {% if item.video_id[0] != "none" %}
+      <div class="thumb-crop">
+        <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="https://img.youtube.com/vi/{{ item.video_id[0] }}/maxresdefault.jpg" alt="{{ item.title }}" /></a>
+      </div>
+      {% else %}
+      <div class="thumb-crop">
+        <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}" /></a>
+      </div>
+      {% endif %}
+      <div class="card-block">
+        <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
+        <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+      </div>
+    </div>
+</div>
 {% endfor %}
+</div>

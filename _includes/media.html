@@ -18,7 +18,7 @@
             <div class="row">
               {% assign items = site.sermons | sort: 'date' | reverse %}
               {% for item in items  limit:3 %}
-              <div class="col-sm-4">
+              <div class="col-md-4">
                 <div class="card">
                   {% if item.video_id[0] != "none" %}
                   <div class="thumb-crop">
@@ -26,11 +26,11 @@
                   </div>
                   {% else %}
                   <div class="thumb-crop">
-                    <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="../assets/img/logos/black-background.png" alt="{{ item.title }}" /></a>
+                    <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}" /></a>
                   </div>
                   {% endif %}
                   <div class="card-block">
-                    <h3 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h3>
+                    <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
                     <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
                   </div>
                 </div>
