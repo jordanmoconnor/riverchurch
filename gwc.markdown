@@ -3,6 +3,7 @@ title: Godly Woman Conf. 2016
 header-image: assets/img/gwc-bg.jpg
 layout: page
 ---
+
 <div class="row justify-content-center">
 	<div class="col media">
 		<iframe src="https://www.youtube.com/embed/tcNdY91-s38?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>

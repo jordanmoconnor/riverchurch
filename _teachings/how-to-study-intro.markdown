@@ -1,6 +1,6 @@
 ---
 title: 'Intro: How to study the Bible'
-date: 2016-11-03 00:00:00 Z
+date: 2016-11-02 20:00:00 -04:00
 categories:
 - media
 video_id:

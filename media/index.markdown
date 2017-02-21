@@ -2,6 +2,7 @@
 title: Media
 layout: post
 ---
+
 <div class="row justify-content-center">
   <div class="col-md-8 text-center">
     <h2>Sermon Podcast</h2>

@@ -4,6 +4,7 @@ layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
 ---
+
 <div class="row justify-content-center">
     <div class="col-md-10 text-center">
         <h1>{{ page.title }}</h1>  
