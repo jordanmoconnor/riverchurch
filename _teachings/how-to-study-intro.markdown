@@ -9,5 +9,6 @@ audio_id:
 - vjp154iu
 verses: none
 layout: sermon
+image: "/uploads/bible%202.jpg"
 ---
 

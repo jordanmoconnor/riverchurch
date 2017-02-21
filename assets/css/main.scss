@@ -43,6 +43,7 @@ a.active {
 h1, h2, h3, h4, h5, h6 {
 	@include heading-font;
 	font-weight: 200;
+	margin: 30px 0;
 }
 
 .img-centered {
@@ -126,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
 			background-color: $gray-darkest;
 		}
 	}
-    .nav {
+    .navbar-nav {
     	li {
     		a {
     			@include heading-font;
@@ -171,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
 	        -moz-transition: all 0.3s;
 	        transition: all 0.3s;
 			}
-			.nav {
+			.navbar-nav {
 						li {
 							a {
 								@include heading-font;
@@ -182,7 +183,6 @@ h1, h2, h3, h4, h5, h6 {
 								color: $white;
 								&:hover,
 								&:focus {
-									color: white;
 									outline: none;
 								}
 							line-height: 50px;
@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6 {
 			background-color: $gray-darkest;
 		}
 	}
-    .nav {
+    .navbar-nav {
     	li {
     		a {
     			@include heading-font;
@@ -247,6 +247,17 @@ h1, h2, h3, h4, h5, h6 {
     			}
 				line-height: 50px;
     		}
+			.dropdown-menu {
+				color: $brand-primary;
+				background-color: $gray-darkest;
+				.dropdown-item {
+					&:hover,
+					&:focus {
+						color: white;
+						background-color: $gray-darkest;
+					}
+				}
+			}
     	}
     }
 	.navbar-nav>.active>a {
@@ -294,9 +305,6 @@ h1, h2, h3, h4, h5, h6 {
 		display: flex;
 		align-items: center;
 		justify-content: center;
-}
-.row {
-		width: auto;
 }
 
 header {
@@ -690,25 +698,6 @@ ul.social-buttons {
 	}
 }
 
-.modal {
-  text-align: center;
-  padding: 0!important;
-}
-
-.modal:before {
-  content: '';
-  display: inline-block;
-  height: 100%;
-  vertical-align: middle;
-  margin-right: -4px;
-}
-
-.modal-dialog {
-  display: inline-block;
-  text-align: center;
-  vertical-align: middle;
-}
-
 ul.post-list {
     margin-left: 0;
     padding-left: 0;
@@ -878,14 +867,4 @@ article {
     padding: 0px;
 }
 
-.navbar {
-     margin-bottom: 0px;
-}
-
-.dropdown-menu {
-	background: black;
-	li a:hover {
-		background: black;
-	}
-}
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);

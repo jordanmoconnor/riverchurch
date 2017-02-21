@@ -5,6 +5,7 @@ audio_id:
 - http://a.clyp.it/5vblndjo.mp3
 verses:
 - Matthew 11:12
+image: "/assets/img/blog/01_bg.jpg"
 ---
 
 # The Violent Take It By Force

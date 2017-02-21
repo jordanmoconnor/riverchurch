@@ -7,12 +7,10 @@ layout: compress
     <head>
         {% include head.html %}
     </head>
-    <body>
-        {% include nav.html %}
-        <section>   
+    <body id="page-top" class="index">
+        {% include nav-page.html %}
         {{ content }}
         {% include footer.html %}
         {% include js.html %} 
-        </section>
     </body>
 </html>
