@@ -1,6 +1,7 @@
 ---
 title: Media
-layout: post
+layout: page
+header-image: "assets/img/header-bg.jpg"
 ---
 
 <section>
