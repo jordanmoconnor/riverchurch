@@ -1,7 +1,7 @@
 ---
 title: Media
 layout: page
-header-image: "assets/img/header-bg.jpg"
+header-image: assets/img/header-bg.jpg
 ---
 
 <section>
