@@ -225,7 +225,8 @@
 // White links against a dark background
 .navbar-inverse {
   .navbar-brand,
-  .navbar-toggler {
+  .navbar-toggler,
+  .dropdown-menu {
     color: $navbar-inverse-active-color;
 
     @include hover-focus {
@@ -234,7 +235,8 @@
   }
 
   .navbar-nav {
-    .nav-link {
+    .nav-link,
+    .dropdown-item {
       color: $navbar-inverse-color;
 
       @include hover-focus {

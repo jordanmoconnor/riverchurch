@@ -82,7 +82,7 @@ header-image: assets/img/help-bg.jpg
   </div>
   <input type="hidden" name="_to" value="contact@riverrochester.com">
   <input type="text" name="_gotcha" style="display: none;">
-  <div class="col-sm-6 col-sm-offset-3 text-center">
+  <div class="col text-center">
     <button type="submit" class="btn btn-xl-dark">Send Message</button>
   </div>
 </form>

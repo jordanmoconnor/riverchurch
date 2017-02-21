@@ -7,7 +7,7 @@ var feed = new Instafeed({
     accessToken: '1552586115.1677ed0.17116ea7ebeb4286b9c72f02477966c3',
     target: 'instagram',
     resolution: 'standard_resolution',
-    template: '<div class="col-sm-4"><a href="{{link}}"><img src="{{image}}"/></a></div>',
+    template: '<div class="col-md-4 col-6"><a href="{{link}}"><img src="{{image}}"/></a></div>',
     limit: 6, 
     after: function() {
         if (!this.hasNext()) {
