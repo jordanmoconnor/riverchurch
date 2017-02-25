@@ -21,14 +21,69 @@ layout: post
     </section>
 </div>
 
+<style>
+    img {
+        width: 100%;
+    }
+</style>
+
 <!-- Post Content -->
 <article>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-sm-10">
+            <div class="col-md-9">
                 {{ content }}
                 <hr>
                 {% include comments.html %}
+            </div>
+            <div class="col-md-3">
+                <div class="h-30"></div>
+                {% if page.tags[0] != 'none' %}
+                <h3>Tags</h3>
+                <ul class="cat-ul">
+                    {% for item in page.tags %}
+                    <li><i class="ion-ios-circle-filled"></i>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                <div class="h-10"></div>
+                <div class="share-page">
+                    <h3>Share</h3>
+                    <a href="https://facebook.com/sharer.php?u={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><button class="btn btn-xl-dark" name="button"><i class="fa fa-facebook" aria-hidden="true"></i></button></a>
+                    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Twitter"><button class="btn btn-xl-dark" name="button"><i class="fa fa-twitter" aria-hidden="true"></i></button></a>
+                    <a href="mailto:?subject=River Rochester - {{ page.title }}&amp;body=Check out this message from River Rochester: {{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" title="Share with Email"><button class="btn btn-xl-dark" name="button"><i class="fa fa-envelope" aria-hidden="true"></i></button></a>
+                </div>
+                <div class="col-md-12 container-fluid text-center">
+                    <h3>Subscribe to the Newletter</h3>
+                    <form action="//riverrochester.us12.list-manage.com/subscribe/post?u=1d0416f8c0b7462dd3e442271&amp;id=6ecb4d81c9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="input-contact">
+                                    <input type="text" name="EMAIL" placeholder="YOUR EMAIL" id="mce-EMAIL">
+                                </div>
+                                <div class="input-contact">
+                                    <input type="text" name="FNAME" placeholder="YOUR FIRST NAME" id="mce-FNAME">
+                                </div>
+                                <div class="input-contact">
+                                    <input type="text" name="LNAME" placeholder="YOUR LAST NAME" id="mce-LNAME">
+                                </div>
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_dd47ccc168c795028708b2e2a_b51706ad3b" tabindex="-1" value=""></div>
+                                <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-xl-dark">Subscribe</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-md-12 container-fluid">
+                <hr>
+                    <h3 class="page-heading">Other Posts</h3>
+                    <ul class="cat-ul">
+                        {% for post in site.posts limit: 5%}
+                        <li>
+                            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
