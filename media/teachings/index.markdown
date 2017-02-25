@@ -3,6 +3,7 @@ title: Teachings
 layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
+navigation_weight: 3
 ---
 
 <div class="row justify-content-center">

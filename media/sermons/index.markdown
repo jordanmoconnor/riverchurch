@@ -3,6 +3,7 @@ title: Sermons
 layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
+navigation_weight: 4
 ---
 
 <div class="row justify-content-center">

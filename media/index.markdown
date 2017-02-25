@@ -1,7 +1,7 @@
 ---
 title: Media
-layout: page
-header-image: assets/img/header-bg.jpg
+layout: media-page
+navigation_weight: 2
 ---
 
 <section>

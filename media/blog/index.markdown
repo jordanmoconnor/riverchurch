@@ -3,6 +3,7 @@ title: Blog Posts
 layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
+navigation_weight: 5
 ---
 
 <div class="row justify-content-center">
