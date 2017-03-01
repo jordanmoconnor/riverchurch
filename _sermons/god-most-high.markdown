@@ -9,7 +9,7 @@ tags:
 video_id:
 - Z4ST0-aitto
 audio_id:
-- https://dl.dropboxusercontent.com/s/vdhzkepcsjlfjx5/God%20Most%20High.mp3?dl=0
+- https://dl.dropboxusercontent.com/s/vdhzkepcsjlfjx5/God%20Most%20High.mp3
 summary: |-
   Pastor Jeremiah Thomas brings a powerful message about Jehovah Elyon, The Lord Most High, and how it is through Him that we can accomplish anything.
 
