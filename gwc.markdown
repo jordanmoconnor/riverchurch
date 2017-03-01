@@ -6,7 +6,9 @@ layout: page
 
 <div class="row justify-content-center">
 	<div class="col media">
-		<iframe src="https://www.youtube.com/embed/tcNdY91-s38?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		<div class="iframe-container iframe-container-16x9" padding-bottom="30px">
+			<iframe src="https://www.youtube.com/embed/tcNdY91-s38?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		</div>
 	</div>
 </div>
 <div class="row justify-content-center">
@@ -41,27 +43,39 @@ layout: page
 </div>
 <div class="row media justify-content-center text-center">
 	<div class="col-md-6">
-		<iframe src="https://www.youtube.com/embed/czc__zANVJc?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		<div class="iframe-container iframe-container-16x9">
+			<iframe src="https://www.youtube.com/embed/czc__zANVJc?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		</div>
 		<hr>
 	</div>
 	<div class="col-md-6">
-		<iframe src="https://www.youtube.com/embed/fXjynlYPeBU?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		<div class="iframe-container iframe-container-16x9">
+			<iframe src="https://www.youtube.com/embed/fXjynlYPeBU?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		</div>
 		<hr>
 	</div>
 	<div class="col-md-6">
-		<iframe src="https://www.youtube.com/embed/h6cqpZr4IOA?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		<div class="iframe-container iframe-container-16x9">
+			<iframe src="https://www.youtube.com/embed/h6cqpZr4IOA?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		</div>
 		<hr>
 	</div>
 	<div class="col-md-6">
-		<iframe src="https://www.youtube.com/embed/01FXgJ7gT0Q?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		<div class="iframe-container iframe-container-16x9">
+			<iframe src="https://www.youtube.com/embed/01FXgJ7gT0Q?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		</div>
 		<hr>
 	</div>
 	<div class="col-md-6">
-		<iframe src="https://www.youtube.com/embed/AqJqiE1WXSE?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		<div class="iframe-container iframe-container-16x9">
+			<iframe src="https://www.youtube.com/embed/AqJqiE1WXSE?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		</div>
 		<hr>
 	</div>
 	<div class="col-md-6">
-		<iframe src="https://www.youtube.com/embed/op495Ikwkdg?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		<div class="iframe-container iframe-container-16x9">
+			<iframe src="https://www.youtube.com/embed/op495Ikwkdg?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
+		</div>
 		<hr>
 	</div>
 </div>
