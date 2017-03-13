@@ -1,7 +1,6 @@
 ---
 title: Love is the Foundation
 date: 2017-03-12 22:23:00 -04:00
-published: false
 video_id:
 - KGEPsBJrJ2A
 audio_id:
