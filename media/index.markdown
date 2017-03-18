@@ -6,11 +6,6 @@ navigation_weight: 2
 
 <section>
 <div class="row justify-content-center">
-  <div class="col-md-10 text-center">
-    <hr>
-  </div>
-</div>
-<div class="row justify-content-center">
   <div class="col-md-6">
     <h2 class="text-center">Latest Sermons</h2>
   </div>
@@ -36,6 +31,11 @@ navigation_weight: 2
     </div>
   </div>
   {% endfor %}
+</div>
+<div class="row justify-content-center">
+  <div class="col-md-10 text-center">
+    <hr>
+  </div>
 </div>
 <div class="row justify-content-center">
   <div class="col-md-8 text-center">
