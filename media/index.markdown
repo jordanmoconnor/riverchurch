@@ -3,6 +3,7 @@ title: Media
 layout: media-page
 navigation_weight: 2
 ---
+
 <section>
 <div class="row justify-content-center">
   <div class="col-md-10 text-center">
