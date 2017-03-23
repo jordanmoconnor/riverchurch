@@ -1,7 +1,6 @@
 ---
 title: Earnestly Seek the Gifts
 date: 2017-03-22 17:49:00 -04:00
-published: false
 video_id:
 - jaY2Bjcd24s
 audio_id:
