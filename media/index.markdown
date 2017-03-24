@@ -4,10 +4,9 @@ layout: media-page
 navigation_weight: 2
 ---
 
-<section>
 <div class="row justify-content-center">
   <div class="col-md-6">
-    <h2 class="text-center">Latest Sermons</h2>
+    <h1 class="text-center">Latest Sermons</h1>
   </div>
 </div>
 <div class="row justify-content-center">
@@ -99,4 +98,3 @@ navigation_weight: 2
   </div>
   {% endfor %}
 </div>
-</section>
