@@ -1,8 +1,8 @@
 ---
 title: Winter Revival
-date: 2016-12-31 14:46:00 Z
+date: 2016-12-31 09:46:00 -05:00
 published: false
-position: 3
+position: 7
 image: "/uploads/WR1.jpg"
 ---
 

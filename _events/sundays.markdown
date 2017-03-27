@@ -1,8 +1,8 @@
 ---
 title: Sundays
-date: 2017-01-01 11:20:00 Z
+date: 2017-01-01 06:20:00 -05:00
 published: false
-position: 5
+position: 9
 image: "/uploads/IMG_2078.jpg"
 ---
 

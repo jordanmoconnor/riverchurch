@@ -1,8 +1,8 @@
 ---
 title: WR Jana
-date: 2017-01-01 11:23:00 Z
+date: 2017-01-01 06:23:00 -05:00
 published: false
-position: 4
+position: 8
 image: "/uploads/image1.jpg"
 ---
 
