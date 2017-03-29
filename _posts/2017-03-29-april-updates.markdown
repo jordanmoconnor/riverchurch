@@ -2,6 +2,7 @@
 title: April Updates
 date: 2017-03-29 06:31:00 -04:00
 subtitle: Here is what's happening in April at River Rochester.
+image: "/uploads/sylwia-bartyzel.jpg"
 ---
 
 ## Spring is here.
