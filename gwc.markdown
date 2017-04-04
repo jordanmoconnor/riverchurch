@@ -5,8 +5,8 @@ layout: page
 ---
 
 <div class="row justify-content-center">
-	<div class="col media">
-		<div class="iframe-container iframe-container-16x9" padding-bottom="30px">
+	<div class="col">
+		<div class="iframe-container iframe-container-16x9">
 			<iframe src="https://www.youtube.com/embed/tcNdY91-s38?autoplay=0&showinfo=0&autohide=1&wmode=opaque"></iframe>
 		</div>
 	</div>
