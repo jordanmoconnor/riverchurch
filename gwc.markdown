@@ -1,5 +1,5 @@
 ---
-title: Godly Woman Conf. 2016
+title: GWC 2016
 header-image: assets/img/gwc-bg.jpg
 layout: page
 ---
