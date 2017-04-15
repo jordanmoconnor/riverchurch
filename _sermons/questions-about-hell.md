@@ -4,7 +4,7 @@ image:
 video_id:
 - PPQwZTwaXl0
 audio_id:
-- https://www.dropbox.com/s/p8ehbmo82z76u96/Questions%20About%20Hell.mp3?dl=0
+- https://dl.dropboxusercontent.com/s/p8ehbmo82z76u96/Questions%20About%20Hell.mp3?dl=0
 verses:
 - none
 summary: "Pastor Jeremiah Thomas answers common questions about Hell. \n\nVisit us
