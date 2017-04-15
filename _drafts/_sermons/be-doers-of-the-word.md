@@ -17,5 +17,5 @@ summary: |-
 
   Want to download the audio for this sermon? Visit this link: https://riverrochester.com/sermons/be-doers-of-the-word-md and follow the instructions
 title: Be Doers of the Word
-date: 2017-04-14 22:45
+date: 2017-04-09 10:30
 ---
