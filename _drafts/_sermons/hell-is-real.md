@@ -1,6 +1,6 @@
 ---
 layout: sermon
-image: 
+image: ''
 video_id:
 - none
 audio_id:
@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Hell Is Real
-date: 2017-05-01 09:06
+date: 2017-04-19 05:06
+categories: []
+tags: []
 ---
