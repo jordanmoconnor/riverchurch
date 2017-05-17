@@ -1,13 +1,15 @@
 ---
 layout: sermon
-image: 
+image: ''
 video_id:
-- none
+- UWmZVj7i8sk
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/o7ev3jhwglvlwdw/Peter%27s%20Wife.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Peter's Wife
 date: 2017-05-17 07:20
+categories: []
+tags: []
 ---
