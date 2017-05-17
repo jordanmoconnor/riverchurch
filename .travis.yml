@@ -2,6 +2,9 @@ language: ruby
 rvm:
 - 2.3.3
 
+before_install:
+- nvm install 6.10.3
+
 install: 
 - gem install bundler jekyll
 - npm install -g yarn
