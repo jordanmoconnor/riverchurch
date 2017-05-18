@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: We're All In The Ministry
-date: 2017-04-23 07:13
+date: 2017-04-29 07:13
 categories: []
 tags: []
 ---
