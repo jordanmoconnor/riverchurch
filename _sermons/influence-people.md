@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Influence People
-date: 2017-05-03 07:25
+date: 2017-05-10 07:25
 categories: []
 tags: []
 ---
