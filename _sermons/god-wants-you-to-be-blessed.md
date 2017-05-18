@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: God Wants You To Be Blessed
-date: 2017-05-17 06:54
+date: 2017-04-23 06:54
 categories: []
 tags: []
 ---
