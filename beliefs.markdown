@@ -1,6 +1,6 @@
 ---
 title: What We Believe
-header-image: assets/img/beliefs-bg.jpg
+header-image: assets/img/what-we-believe-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
 layout: page
 ---

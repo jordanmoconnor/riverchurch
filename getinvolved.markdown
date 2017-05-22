@@ -1,5 +1,5 @@
 ---
-title: Ministries of Helps
+title: Join Our Team
 layout: page
 header-image: assets/img/help-bg.jpg
 ---
