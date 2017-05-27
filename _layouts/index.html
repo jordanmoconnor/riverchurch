@@ -23,5 +23,18 @@ layout: compress
         {% include contact.html %}
         {% include footer.html %}
         {% include js.html %}
+        <script>
+            (function($) {
+                $(window).on('load',function () {
+                    $.magnificPopup.open({
+                        items: {
+                            src: 'https://www.youtube.com/watch?v=jIO-RGM06Kw',
+                            autoplay: 1
+                        },
+                        type: 'iframe'
+                    }, 0);
+                });
+            })(jQuery);   
+            </script>
     </body>
 </html>
