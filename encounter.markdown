@@ -27,7 +27,7 @@ Whatever it is that you need, come join us at our Encounter God conference and b
 <div class="row justify-content-center">
     <div class="col-sm-10">
         <div class="iframe-container iframe-container-16x9">
-            <iframe width="100%" src='https://www.youtube.com/embed/WXga9kAmuow?autoplay=0&showinfo=0&autohide=1'></iframe>
+            <iframe width="100%" src='https://www.youtube.com/embed/_ctdIvywYaU?autoplay=0&showinfo=0&autohide=1'></iframe>
         </div>
     </div>
 </div>
