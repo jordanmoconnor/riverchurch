@@ -5,8 +5,9 @@ navigation_weight: 2
 ---
 
 <div class="row justify-content-center">
-  <div class="col-md-6">
-    <h1 class="text-center">Latest Sermons</h1>
+  <div class="col-md-6 text-center">
+    <h1 class="">Latest Sermons</h1>
+    <a href="{{ '/media/sermons' | prepend: site.baseurl }}"><button class="btn btn-xl-dark">View All Sermons</button></a>
   </div>
 </div>
 <div class="row justify-content-center">

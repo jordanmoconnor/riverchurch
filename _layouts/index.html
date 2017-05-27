@@ -8,8 +8,9 @@ layout: compress
         {% include head.html %}
     </head>
     <body id="page-top" class="index">
-        {% include nav.html %}
-        {% include header.html %}    
+        {% include nav.html %}    
+        {% include header.html %}   
+        {% include encounter-image.html %}
         {% include about.html %}
         {% include pastors.html %}
         {% include church_info.html %}
@@ -17,7 +18,7 @@ layout: compress
         {% include give.html %}
         {% include media.html %}
         {% include instagram.html %}
-        {% include gwc.html %}
+        {% include encounter-section.html %}
         {% include kids.html %}
         {% include help.html %}
         {% include contact.html %}
@@ -28,7 +29,7 @@ layout: compress
                 $(window).on('load',function () {
                     $.magnificPopup.open({
                         items: {
-                            src: 'https://www.youtube.com/watch?v=jIO-RGM06Kw',
+                            src: 'https://www.youtube.com/watch?v=WXga9kAmuow',
                             autoplay: 1
                         },
                         type: 'iframe'
