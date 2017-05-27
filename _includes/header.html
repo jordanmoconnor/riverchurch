@@ -22,8 +22,17 @@
                 <strong>{{ page.header-text-bold }} </strong> {{ page.header-text }}
             </div>
             <div>
-                <h1>The River Church</h1>
-                <h2> Sunday || 10:30am</h2>
+                <h2>The River Church</h2>
+                <h3> Sunday || 10:30am</h3>
             </div>
+            <hr class="light">
+            {% assign items = site.sermons | sort: 'date' | reverse %}
+            {% for item in items  limit:1 %}
+            <div class="col">
+                <h3>Latest Sermon</h3>
+                <h1>{{ item.title }}</h2>
+                <a href="{{ item.url | prepend: site.baseurl }}"><button class="btn btn-xl-light">Listen Now</button></a>
+            </div>
+            {% endfor %}
         </div>
     </header>
