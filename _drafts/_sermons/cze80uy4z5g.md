@@ -1,13 +1,15 @@
 ---
 layout: sermon
-image: 
+image: ''
 video_id:
-- none
+- Cze80uY4Z5g
 audio_id:
 - none
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
-title: Cze80uY4Z5g
+title: God Has No Limits
 date: 2017-05-30 15:56
+categories: []
+tags: []
 ---
