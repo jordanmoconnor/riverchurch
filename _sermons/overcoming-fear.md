@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Overcoming Fear
-date: '2017-05-30T19:59:19.701Z'
+date: 2017-05-17 15:59
 categories: []
 tags: []
 ---
