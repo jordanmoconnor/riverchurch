@@ -1,8 +1,8 @@
 ---
 layout: sermon
-image: 
+image: ''
 video_id:
-- none
+- gKJ544_Dn3A
 audio_id:
 - none
 verses:
@@ -10,4 +10,6 @@ verses:
 summary: Check us out online at https://riverrochester.com!
 title: Overcoming Fear
 date: 2017-05-30 15:53
+categories: []
+tags: []
 ---
