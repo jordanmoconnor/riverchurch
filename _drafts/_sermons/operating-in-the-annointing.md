@@ -1,8 +1,8 @@
 ---
 layout: sermon
-image: 
+image: ''
 video_id:
-- none
+- CthOH14QV6M
 audio_id:
 - none
 verses:
@@ -10,4 +10,6 @@ verses:
 summary: Check us out online at https://riverrochester.com!
 title: Operating In The Annointing
 date: 2017-05-30 15:55
+categories: []
+tags: []
 ---
