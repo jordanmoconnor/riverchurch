@@ -1,6 +1,6 @@
 ---
 layout: sermon
-image: ''
+image: http://img.youtube.com/vi/Cze80uY4Z5g/maxresdefault.jpg
 video_id:
 - Cze80uY4Z5g
 audio_id:
