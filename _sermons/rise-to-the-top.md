@@ -1,6 +1,6 @@
 ---
 layout: sermon
-image: ''
+image: https://riverrochester.com/assets/img/logos/black-background.png
 video_id:
 - rYgZy-jabII
 audio_id:
