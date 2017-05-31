@@ -4,7 +4,7 @@ image: ''
 video_id:
 - Cze80uY4Z5g
 audio_id:
-- https://www.dropbox.com/s/g3iawvtudnm43vu/The%20God%20Given%20Life.mp3?dl=0
+- https://dl.dropboxusercontent.com/s/g3iawvtudnm43vu/The%20God%20Given%20Life.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
