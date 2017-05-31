@@ -8,7 +8,7 @@ audio_id:
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
-title: God Has No Limits
+title: The God Given Life
 date: 2017-05-28 11:56
 categories: []
 tags: []
