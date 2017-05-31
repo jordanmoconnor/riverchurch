@@ -6,7 +6,7 @@ video_id:
 audio_id:
 - none
 verses:
-- none
+- https://dl.dropboxusercontent.com/s/dagi8sidhoh26to/Rise%20To%20The%20Top.mp3?dl=0
 summary: Check us out online at https://riverrochester.com!
 title: Rise To The Top
 date: 2017-05-28 11:56
