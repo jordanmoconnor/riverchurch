@@ -9,7 +9,7 @@ verses:
 - 1 Corinthians 12:12-26
 summary: Check us out online at https://riverrochester.com!
 title: Present. Connected. Functioning.
-date: 2017-06-01 13:12
+date: 2017-05-31 09:12
 categories: []
 tags: []
 ---
