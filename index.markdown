@@ -1,6 +1,5 @@
 ---
-title: River Rochester | Impacting the Greater Rochester, NY Area with the Power of
-  God
+title: River Rochester
 header-image: "/uploads/coffee.jpg"
 header-text: Home
 header-text-bold: Welcome
