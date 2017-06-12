@@ -8,7 +8,7 @@ before_install:
 install: 
 - gem install bundler jekyll
 - npm install -g yarn
-- yarn add firebase-tools
+- yarn gobal add firebase-tools
 script: 
 - bundle install
 - bundle exec jekyll build
