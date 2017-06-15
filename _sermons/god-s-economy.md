@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: God's Economy
-date: 2017-06-15 12:23
+date: 2017-06-04 08:23
 categories: []
 tags: []
 ---
