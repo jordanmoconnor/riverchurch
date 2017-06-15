@@ -34,7 +34,7 @@
         <pubDate>{{ sermon.date | date_to_rfc822 }}</pubDate>
         <link>{{ sermon.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid>{{ sermon.audio_id }}</guid>
-        <enclosure url="{{ sermon.audio_id }}" type="audio/mpeg" length="1" />
+        <enclosure url="http://dts.podtrac.com/redirect.mp3/{{ sermon.audio_id }}" type="audio/mpeg" length="1" />
         {% for tag in sermon.tags %}
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
