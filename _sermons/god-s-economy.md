@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/black-background.png
 video_id:
-- none
+- YDgmSKtZdpE
 audio_id:
 - https://dl.dropboxusercontent.com/s/flbvipyro4j31el/God%27s%20Economy.mp3?dl=0
 verses:
