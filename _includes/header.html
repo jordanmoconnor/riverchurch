@@ -21,7 +21,6 @@
             <div class="intro-heading">
                 <strong>{{ page.header-text-bold }} </strong> {{ page.header-text }}
             </div>
-            <hr class="light">
             {% assign items = site.sermons | sort: 'date' | reverse %}
             {% for item in items  limit:1 %}
             <div class="col">
