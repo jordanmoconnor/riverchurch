@@ -25,4 +25,4 @@ env:
 sudo: false # route your build to the container-based infrastructure for a faster build
 
 after_success:
-   - firebase deploy --token ${FIREBASE_TOKEN}
+   - firebase deploy --non-interactive --token ${FIREBASE_TOKEN}
