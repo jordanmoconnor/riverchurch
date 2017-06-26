@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Abased And Abound
-date: 2017-06-26 08:07
+date: 2017-06-05 19:00
 categories: []
 tags: []
 ---
