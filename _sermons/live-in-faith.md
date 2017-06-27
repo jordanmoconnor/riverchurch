@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Live In Faith
-date: 2017-06-05 04:09
+date: 2017-06-05 20:00
 categories: []
 tags: []
 ---
