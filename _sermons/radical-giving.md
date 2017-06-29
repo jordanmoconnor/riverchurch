@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Radical Giving
-date: 2017-06-28 04:15
+date: 2017-06-06 04:15
 categories: []
 tags: []
 ---
