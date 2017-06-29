@@ -1,15 +1,15 @@
 ---
-layout: sermon
-image: https://riverrochester.com/assets/img/logos/black-background.png
-video_id:
-- none
 audio_id:
 - none
+categories: []
+date: 2017-06-14 09:47
+image: https://riverrochester.com/assets/img/logos/black-background.png
+layout: sermon
+summary: Check us out online at https://riverrochester.com!
+tags: []
+title: We Were Healed
 verses:
 - none
-summary: Check us out online at https://riverrochester.com!
-title: We Were Healed
-date: 2017-06-14 09:47
-categories: []
-tags: []
+video_id:
+- u0weDTR0JjA
 ---
