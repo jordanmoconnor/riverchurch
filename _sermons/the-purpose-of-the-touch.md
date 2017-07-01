@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: The Purpose Of The Touch
-date: 06/11/2017 6:0
+date: 2017-06-11 06:00
 categories: []
 tags: []
 ---
