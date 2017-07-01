@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Evangelist Samuel Dent's Testimony
-date: 2017-06-30 22:33
+date: 2017-06-11 18:33
 categories: []
 tags: []
 ---
