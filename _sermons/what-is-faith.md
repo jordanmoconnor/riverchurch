@@ -2,12 +2,14 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/black-background.png
 video_id:
-- none
+- uANGdugXkIk
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/i49wt32ur534yog/What%20Is%20Faith%3F.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: What Is Faith?
 date: 2017-07-09 13:45
+categories: []
+tags: []
 ---
