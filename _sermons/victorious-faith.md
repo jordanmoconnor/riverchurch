@@ -2,7 +2,7 @@
 layout: sermon
 image: ''
 video_id:
-- none
+- j_X_phQxulc
 audio_id:
 - https://dl.dropboxusercontent.com/s/75bqmtv8ulty1ak/Victorious%20Faith.mp3?dl=0
 verses:
