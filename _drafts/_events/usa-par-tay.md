@@ -1,7 +1,0 @@
----
-description: Awesome Event!
-image: "/uploads/USApar-tay(1x1).jpg"
-title: USA PAR-TAY!
-date: 2017-07-02 11:49
-position: ''
----
