@@ -4,12 +4,31 @@ layout: page
 header-image: assets/img/kids-bg.jpg
 ---
 
+<div class="container-fluid text-center">
+    <div class="row justify-content-center">
+        <div class="col-sm-8 col-sm-offset-2">
+            <h1>Giveaway!</h1>
+            <a class="e-widget no-button" href="https://gleam.io/CTYHY/back-to-school-bash-giveaway" rel="nofollow">Back To School Bash Giveaway!</a>
+<script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script>
+        </div>
+    </div>
+</div>
+<div class="container text-center">
+    <div class="row justify-content-center">
+        <div class="col-sm-8 col-sm-offset-2">
+            <h2>Back To School Bash</h2>
+            <h3>Facebook Event</h3>
+            <p>Register for the event here or on our Facebook page.</p>
+            <p>[[ insert facebook event embed here when finished ]]</p>
+            <hr>
+        </div>
+    </div>
+</div>
 <div class="container text-center">
     <div class="row justify-content-center">
         <div class="col-sm-8 col-sm-offset-2">
             <h1>River Kids</h1>
             <h2>Ages 1 - 12</h2>
-            <hr>
         </div>
     </div>
 </div>
@@ -25,6 +44,9 @@ header-image: assets/img/kids-bg.jpg
             <h2 class="text-center">Parent Connect</h2>
             <p>
             You as the parent have a HUGE role in your children’s lives. Parent connect is the place you can come to see what your children are learning each week in River Kids. This gives you a great opportunity to open discussion with your children, reiterate the lesson at home, or answer any further questions they may have. This is also the place you can contact us with any question you may have.
+            </p>
+            <p>
+            Come join us at the River Church and register your kids this Sunday!
             </p>
         </div>
     </div>
