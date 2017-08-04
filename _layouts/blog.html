@@ -3,7 +3,7 @@ layout: post
 ---
 
 <!-- Post Header -->
-<div class="intro-header" style="background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('{{ site.url }}{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}')">
+<div class="intro-header" style="background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('{{ page.image | absolute_url }}')">
     <section>
         <div class="container">
             <div class="row justify-content-center">
@@ -18,7 +18,7 @@ layout: post
                 </div>
             </div>
         </div>
-s    </section>
+    </section>
 </div>
 
 <style>
@@ -49,9 +49,9 @@ s    </section>
                 <div class="h-10"></div>
                 <div class="share-page">
                     <h3>Share</h3>
-                    <a href="https://facebook.com/sharer.php?u={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><button class="btn btn-xl-dark" name="button"><i class="fa fa-facebook" aria-hidden="true"></i></button></a>
-                    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Twitter"><button class="btn btn-xl-dark" name="button"><i class="fa fa-twitter" aria-hidden="true"></i></button></a>
-                    <a href="mailto:?subject=River Rochester - {{ page.title }}&amp;body=Check out this message from River Rochester: {{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" title="Share with Email"><button class="btn btn-xl-dark" name="button"><i class="fa fa-envelope" aria-hidden="true"></i></button></a>
+                    <a href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" rel="nofollow" target="_blank" title="Share on Facebook"><button class="btn btn-xl-dark" name="button"><i class="fa fa-facebook" aria-hidden="true"></i></button></a>
+                    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{  page.url | absolute_url }}" rel="nofollow" target="_blank" title="Share on Twitter"><button class="btn btn-xl-dark" name="button"><i class="fa fa-twitter" aria-hidden="true"></i></button></a>
+                    <a href="mailto:?subject=River Rochester - {{ page.title }}&amp;body=Check out this message from River Rochester: {{ page.url | absolute_url }}" rel="nofollow" title="Share with Email"><button class="btn btn-xl-dark" name="button"><i class="fa fa-envelope" aria-hidden="true"></i></button></a>
                 </div>
                 <div class="col-md-12 container-fluid text-center">
                     <h3>Subscribe to the Newsletter</h3>
@@ -79,7 +79,7 @@ s    </section>
                     <ul class="cat-ul">
                         {% for post in site.posts limit: 5%}
                         <li>
-                            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                            <a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a>
                         </li>
                         {% endfor %}
                     </ul>
