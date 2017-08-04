@@ -17,7 +17,7 @@ navigation_weight: 5
   <div class="col-md-4">
     <div class="card">
       <div class="thumb-crop">
-        <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}" /></a>
+        <a href="{{ item.url | absolute_url }}"><img class="card-img-top" src="{{ item.image | absolute_url }}" alt="{{ item.title }}" /></a>
       </div>
       <div class="card-block">
         <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
