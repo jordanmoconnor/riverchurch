@@ -2,6 +2,11 @@
 title: River Kids
 layout: page
 header-image: assets/img/kids-bg.jpg
+navigation_weight: 5
+image: ''
+header-text: ''
+header-text-bold: ''
+date: ''
 ---
 
 <div class="container-fluid text-center">
