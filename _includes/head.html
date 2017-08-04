@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="description" content="{{ site.description }}">
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/head/apple-touch-icon.png' | absolute_url }}">
 <link rel="icon" type="image/png" href="{{ '/assets/img/head/favicon-32x32.png' | absolute_url }}" sizes="32x32">
 <link rel="icon" type="image/png" href="{{ '/assets/img/head/favicon-16x16.png' | absolute_url }}" sizes="16x16">
@@ -27,6 +27,6 @@
 }
 </script>
 
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.url}}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
 <!-- Magnific Popup core CSS file -->
-<link rel="stylesheet" href="{{ '/assets/css/magnific-popup.css' | prepend: site.url}}">
+<link rel="stylesheet" href="{{ '/assets/css/magnific-popup.css' | absolute_url }}">
