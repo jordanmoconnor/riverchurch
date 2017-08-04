@@ -1,6 +1,6 @@
 ---
 title: River Rochester
-header-image: "/uploads/coffee.jpg"
+header-image: "/_uploads/coffee.jpg"
 header-text: Home
 header-text-bold: Welcome
 navigation_weight: 1
