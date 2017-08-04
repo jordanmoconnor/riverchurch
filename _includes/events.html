@@ -12,7 +12,7 @@
                 </div>-->
               {% assign counter = 0 %}{% assign items = site.events | sort: 'date' | reverse %}{% for item in items limit: 6 %}{% if item.title != "Soul Winning" %}{% if item.title != "Coffee & Donuts" %}{% assign counter = counter | plus: 1 %}
                         <div class="col-6 col-sm-4">
-                            <img src="{{ item.image }}" alt="" />
+                            <img src="{{ item.image | absolute_url }}" alt="" />
                         </div>{% endif %}{% endif %}{% endfor %}
               {% if counter < 5 %}
                 <div class="col-6 col-sm-4">
