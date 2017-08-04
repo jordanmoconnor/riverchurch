@@ -7,7 +7,7 @@ navigation_weight: 2
 <div class="row justify-content-center">
   <div class="col-md-6 text-center">
     <h1 class="">Latest Sermons</h1>
-    <a href="{{ '/media/sermons' | prepend: site.baseurl }}"><button class="btn btn-xl-dark">View All Sermons</button></a>
+    <a href="{{ 'media/sermons' | absolute_url }}"><button class="btn btn-xl-dark">View All Sermons</button></a>
   </div>
 </div>
 <div class="row justify-content-center">
@@ -17,11 +17,11 @@ navigation_weight: 2
     <div class="card">
       {% if item.video_id[0] != "none" %}
       <div class="thumb-crop">
-        <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="https://img.youtube.com/vi/{{ item.video_id[0] }}/maxresdefault.jpg" alt="{{ item.title }}" /></a>
+        <a href="{{ item.url | absolute_url }}"><img class="card-img-top" src="https://img.youtube.com/vi/{{ item.video_id[0] }}/maxresdefault.jpg" alt="{{ item.title }}" /></a>
       </div>
       {% else %}
       <div class="thumb-crop">
-        <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}" /></a>
+        <a href="{{ item.url | absolute_url }}"><img class="card-img-top" src="{{ item.image | absolute_url }}" alt="{{ item.title }}" /></a>
       </div>
       {% endif %}
       <div class="card-block">
@@ -64,7 +64,7 @@ navigation_weight: 2
   <div class="col-md-4">
     <div class="card">
       <div class="thumb-crop">
-        <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}" /></a>
+        <a href="{{ item.url | absolute_url }}"><img class="card-img-top" src="{{ item.image | absolute_url }}" alt="{{ item.title }}" /></a>
       </div>
       <div class="card-block">
         <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
@@ -89,7 +89,7 @@ navigation_weight: 2
   <div class="col-md-4">
     <div class="card">
       <div class="thumb-crop">
-        <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}" /></a>
+        <a href="{{ item.url | absolute_url }}"><img class="card-img-top" src="{{ item.image | absolute_url }}" alt="{{ item.title }}" /></a>
       </div>
       <div class="card-block">
         <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
