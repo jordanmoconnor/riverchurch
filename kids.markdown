@@ -12,15 +12,6 @@ date: ''
 <div class="container-fluid text-center">
     <div class="row justify-content-center">
         <div class="col-sm-8 col-sm-offset-2">
-            <h1>Giveaway!</h1>
-            <a class="e-widget no-button" href="https://gleam.io/CTYHY/back-to-school-bash-giveaway" rel="nofollow">Back To School Bash Giveaway!</a>
-<script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script>
-        </div>
-    </div>
-</div>
-<div class="container-fluid text-center">
-    <div class="row justify-content-center">
-        <div class="col-sm-8 col-sm-offset-2">
             <h2>Back To School Bash</h2>
             <h3>Facebook Event</h3>
             <p>Register for the event here or on our Facebook page.</p>
