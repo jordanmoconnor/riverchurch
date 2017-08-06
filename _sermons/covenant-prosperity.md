@@ -1,13 +1,15 @@
 ---
 layout: sermon
-image: 
+image: ''
 video_id:
-- none
+- OCJ1lCRTCV4
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/q221iy1tz5fym9g/Covenant%20Prosperity.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Covenant Prosperity
 date: 2017-08-06 00:00:00 +00:00
+categories: []
+tags: []
 ---
