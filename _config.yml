@@ -61,7 +61,7 @@ defaults:
     image: ''
 description: We are a church located in Brockport, NY that is impacting the greater
   Rochester area with the gospel of Jesus Christ. Come join us!
-url: http://riverrochester.com
+url: riverrochester.com
 baseurl: 
 logo: assets/img/logos/black-background.png
 email: contact@riverrochester.com
