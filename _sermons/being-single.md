@@ -2,9 +2,9 @@
 layout: sermon
 image: ''
 video_id:
-- none
+- Dc91dt6t17Y
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/c9m174z3052bjv5/Being%20Single.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
