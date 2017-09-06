@@ -1,0 +1,34 @@
+---
+pages:
+- _events/faith.md
+- _events/back-to-school-bash-1.md
+- _events/covenant-prosperity-1.md
+- _events/angels-demons.md
+- _events/by-his-stripes.md
+hide_body: false
+fields:
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: Awesome Event!
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: position
+  label: Position
+  type: text
+  hidden: false
+  default: ''

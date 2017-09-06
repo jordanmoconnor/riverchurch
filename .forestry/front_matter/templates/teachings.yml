@@ -1,0 +1,62 @@
+---
+pages:
+- _teachings/how-to-study-the-bible-part-1.markdown
+- _teachings/how-to-study-intro.markdown
+- _teachings/be-like-abraham.markdown
+- _teachings/should-christians-be-wealthy.markdown
+- _teachings/kingdom-finances---gods-way-with--part-3.markdown
+- _teachings/kingdom-finances---gods-way-with--part-2.markdown
+- _teachings/kingdom-finances---gods-way-with--part-1.markdown
+- _teachings/what-are-you-talking-about.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Jeremiah Thomas
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: Subtitle
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: blog
+- name: video_id
+  label: Video id
+  type: list
+  hidden: false
+  default: ''
+- name: audio_id
+  label: Audio id
+  type: list
+  hidden: false
+  default: ''
+- name: verses
+  label: Verses
+  type: text
+  hidden: false
+  default: ''

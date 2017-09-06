@@ -1,0 +1,174 @@
+---
+pages:
+- _sermons/spiritual-authority-over-demons.md
+- _sermons/supernatural-prosperity.md
+- _sermons/power-over-demons.md
+- _sermons/giving-unlocks-the-blessing.md
+- _sermons/covenant-prosperity.md
+- _sermons/angels-and-demons.md
+- _sermons/victorious-faith.md
+- _sermons/avoid-false-doctrine.md
+- _sermons/how-strong-is-your-faith.md
+- _sermons/you-are-qualified.md
+- _sermons/living-by-faith.md
+- _sermons/faith-begins-where-the-will-of-god-is-known.md
+- _sermons/he-went-to-him.md
+- _sermons/he-wants-to-purify-you.md
+- _sermons/what-s-in-your-heart.md
+- _sermons/a-hunger-to-know-christ.md
+- _sermons/what-will-you-do-with-it.md
+- _sermons/you-have-everything-you-need.md
+- _sermons/the-ingredients-of-favor.md
+- _sermons/you-ll-never-be-the-same-pastor-julia-thomas-testimony.md
+- _sermons/we-were-healed.md
+- _sermons/evangelist-samuel-dent-s-testimony.md
+- _sermons/the-purpose-of-the-touch.md
+- _sermons/pour-out-the-blessing.md
+- _sermons/getting-god-s-attention.md
+- _sermons/radical-giving.md
+- _sermons/faith-to-conquer.md
+- _sermons/what-is-faith.md
+- _sermons/healing-through-the-cross.md
+- _sermons/the-fire-of-god.md
+- _sermons/live-in-faith.md
+- _sermons/abased-and-abound.md
+- _sermons/follow-the-leading-of-the-holy-spirit.md
+- _sermons/god-s-economy.md
+- _sermons/present-connected-functioning.md
+- _sermons/the-god-given-life.md
+- _sermons/rise-to-the-top.md
+- _sermons/overcoming-failure.md
+- _sermons/operating-in-the-annointing.md
+- _sermons/overcoming-fear.md
+- _sermons/show-me-your-glory.md
+- _sermons/god-wants-you-to-be-blessed.md
+- _sermons/peter-s-wife.md
+- _sermons/far-above-all-things.md
+- _sermons/being-in-the-blessing.md
+- _sermons/we-re-all-in-the-ministry.md
+- _sermons/destined-for-greatness-1.md
+- _sermons/our-bodies-in-heaven.md
+- _sermons/raw-timber.md
+- _sermons/unlimited-prosperity.md
+- _sermons/god-s-promises.md
+- _sermons/6-things-jesus-was-called-to-preach.md
+- _sermons/hell-is-real.md
+- _sermons/salvation-based-on-confession.md
+- _sermons/questions-about-hell.md
+- _sermons/be-doers-of-the-word.md
+- _sermons/realities-of-hell.md
+- _sermons/death-and-life-are-in-the-power-of-the-tongue.markdown
+- _sermons/activation-of-the-gifts.markdown
+- _sermons/earnestly-seek-the-gifts.markdown
+- _sermons/love-is-the-foundation.markdown
+- _sermons/foundation-for-the-gifts.markdown
+- _sermons/god-most-high.markdown
+- _sermons/god-our-healer.markdown
+- _sermons/love-sex-and-marriage-part-3.markdown
+- _sermons/god-our-provider.markdown
+- _sermons/love-sex-and-marriage-part-2.markdown
+- _sermons/god-is-love.markdown
+- _sermons/love-sex-and-marriage-part-1.markdown
+- _sermons/praying-in-the-spirit.markdown
+- _sermons/alcohol-in-the-church-part-3.markdown
+- _sermons/three-ways-to-get-breakthrough-in-2017-number-3.markdown
+- _sermons/three-ways-to-get-breakthrough-in-2017-number-1-and-number-2.markdown
+- _sermons/press-into-the-things-of-god.markdown
+- _sermons/alcohol-in-the-church-part-2.markdown
+- _sermons/pray-according-to-the-word.markdown
+- _sermons/alcohol-in-the-church-part-1.markdown
+- _sermons/powerful-prayer.markdown
+- _sermons/the-christmas-story.markdown
+- _sermons/gift-giving-christmas-eve-service.markdown
+- _sermons/the-violent-take-it-by-force.markdown
+- _sermons/john-the-baptist.markdown
+- _sermons/praise-worship-and-thanksgiving.markdown
+- _sermons/walking-on-water.markdown
+- _sermons/the-heart-of-father-god.markdown
+- _sermons/vision-and-faith.markdown
+- _sermons/2-year-anniversary.markdown
+- _sermons/gwc.markdown
+- _sermons/the-ark-of-the-covenant.markdown
+- _sermons/filled-with-the-holy-spirit.markdown
+- _sermons/trust-god-always.markdown
+- _sermons/gods-plan.markdown
+- _sermons/commandments-of-gods-covenant.markdown
+- _sermons/faith-for-others.markdown
+- _sermons/jesus-the-miracle-maker.markdown
+- _sermons/revival-starts-with-you.markdown
+- _sermons/gifts.markdown
+- _sermons/testimonies.markdown
+- _sermons/empowers.markdown
+- _sermons/2016-7-15-entrusted.markdown
+- _sermons/simply-obey.markdown
+- _sermons/you'll-never-be-the-same.markdown
+- _sermons/fire-of-god.markdown
+- _sermons/godly-giving.markdown
+- _sermons/surrender.markdown
+- _sermons/an-encounter-with-god.markdown
+- _sermons/2016-07-3-be-like-jesus.markdown
+- _sermons/the-fire-of-god.markdown
+- _sermons/the-heavenly-vision.markdown
+- _sermons/2016-06-5-interrupting-god.markdown
+- _sermons/the-heavenly-mindset.markdown
+- _sermons/overcoming-failure.markdown
+- _sermons/thoughts.markdown
+- _sermons/2016-05-8-covenant.markdown
+- _sermons/2016-05-1-living-in-victory.markdown
+- _sermons/rooted.markdown
+- _sermons/whats-the-plan.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2017-07-24 09:48:56 +0000
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: sermon
+- name: video_id
+  label: Video id
+  type: list
+  hidden: false
+  default:
+  - none
+- name: audio_id
+  label: Audio id
+  type: list
+  hidden: false
+  default:
+  - none
+- name: verses
+  label: Verses
+  type: list
+  hidden: false
+  default:
+  - none
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: textarea
+  hidden: false
+  default: Check us out online at https://riverrochester.com!

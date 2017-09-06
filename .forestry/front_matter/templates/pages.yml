@@ -1,0 +1,57 @@
+---
+pages:
+- kids.markdown
+- media/sermons/index.markdown
+- media/blog/index.markdown
+- media/index.markdown
+- encounter.markdown
+- beliefs.markdown
+- winter-revival-2017.markdown
+- spring-revival-2017.markdown
+- index.markdown
+- media/teachings/index.markdown
+- gwc.markdown
+- getinvolved.markdown
+- events.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: header-image
+  label: Header image
+  type: file
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: navigation_weight
+  label: Navigation weight
+  type: text
+  hidden: false
+  default: ''
+- name: header-text
+  label: Header text
+  type: text
+  hidden: false
+  default: ''
+- name: header-text-bold
+  label: Header text bold
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
