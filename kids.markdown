@@ -8,18 +8,6 @@ header-text: ''
 header-text-bold: ''
 date: ''
 ---
-
-<div class="container-fluid text-center">
-    <div class="row justify-content-center">
-        <div class="col-sm-8 col-sm-offset-2">
-            <h2>Back To School Bash</h2>
-            <h3>Facebook Event</h3>
-            <p>Register for the event here or on our Facebook page.</p>
-            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Friverrochester%2Fposts%2F1925788077710928&width=auto" width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-            <hr>
-        </div>
-    </div>
-</div>
 <div class="container text-center">
     <div class="row justify-content-center">
         <div class="col-sm-8 col-sm-offset-2">
