@@ -162,11 +162,10 @@ fields:
   hidden: false
   default:
   - none
-- name: image
+- type: file
+  name: image
   label: Image
-  type: text
-  hidden: false
-  default: ''
+  default: "/uploads/RIVERxchurch-1.jpg"
 - name: tags
   label: Tags
   type: tag_list
