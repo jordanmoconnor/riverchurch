@@ -156,16 +156,16 @@ fields:
   hidden: false
   default:
   - none
+- type: text
+  name: image
+  label: Image
+  default: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 - name: verses
   label: Verses
   type: list
   hidden: false
   default:
   - none
-- type: file
-  name: image
-  label: Image
-  default: "/uploads/RIVERxchurch-1.jpg"
 - name: tags
   label: Tags
   type: tag_list
