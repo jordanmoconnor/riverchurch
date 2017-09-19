@@ -1,5 +1,6 @@
 ---
 pages:
+- index.markdown
 - kids.markdown
 - media/sermons/index.markdown
 - media/blog/index.markdown
@@ -8,7 +9,6 @@ pages:
 - beliefs.markdown
 - winter-revival-2017.markdown
 - spring-revival-2017.markdown
-- index.markdown
 - media/teachings/index.markdown
 - gwc.markdown
 - getinvolved.markdown
