@@ -1,6 +1,6 @@
 ---
-date: '2017-05-22T22:41:40.806Z'
-header-image: "/uploads/jeremiah.jpg"
+date: 2017-05-22 22:41:40 +0000
+header-image: "/uploads/jeremiah-1.jpg"
 header-text: Home
 header-text-bold: Welcome
 image: ''
