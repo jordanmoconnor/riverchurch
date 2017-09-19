@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- sv2UfkXwH2Q
+- TybLakgGHZ4
 audio_id:
 - https://dl.dropboxusercontent.com/s/zlttv45uron2tf6/Sustaining%20Church%20Growth.mp3?dl=0
 verses:
