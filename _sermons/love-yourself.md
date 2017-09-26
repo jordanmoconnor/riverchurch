@@ -11,5 +11,5 @@ title: Love Yourself
 verses:
 - none
 video_id:
-- yvoluNYvU2Y
+- lmoAM3LkRDo
 ---
