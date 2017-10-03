@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- AG5RmLoc7_w
 audio_id:
 - https://dl.dropboxusercontent.com/s/pdbry6l4fevn67e/Mindset%20Of%20Victory.mp3?dl=0
 verses:
