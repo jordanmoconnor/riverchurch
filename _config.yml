@@ -23,7 +23,7 @@ defaults:
     type: sermons
   values:
     layout: sermon
-    image: 'http://riverrochester.com/uploads/RIVERxchurch-1.jpg'
+    image: 'https://riverrochester.com/uploads/RIVERxchurch-1.jpg'
     video_id:
     - none
     audio_id:
