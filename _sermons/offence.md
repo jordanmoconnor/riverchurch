@@ -2,12 +2,14 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- FI8uuNsw_1U
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/37nxyp5epesumz9/Offence.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Offence
 date: 2017-10-07 00:00:00 +0000
+categories: []
+tags: []
 ---
