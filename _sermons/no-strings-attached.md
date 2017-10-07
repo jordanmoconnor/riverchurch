@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- MjZGDCSY8vU
 audio_id:
 - https://dl.dropboxusercontent.com/s/ea3ontshaeue0k0/Love%20Without%20Strings%20Attached.mp3?dl=0
 verses:
