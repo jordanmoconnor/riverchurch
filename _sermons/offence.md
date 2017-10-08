@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Offence
-date: 2017-10-07 00:00:00 +0000
+date: 2017-10-04 12:16:11 -0400
 categories: []
 tags: []
 ---
