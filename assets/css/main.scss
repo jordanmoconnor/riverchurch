@@ -236,6 +236,16 @@ section {
 	color:$white;
 }
 
+#merch {
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('https://riverrochester.com/uploads/merge_from_ofoct-min.jpg');
+	background-repeat: none;
+	background-attachment: scroll;
+	background-position: center center;
+	@include background-cover;
+	text-align: center;
+	color:$white;
+}
+
 #kids {
     background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('../img/kids-bg.jpg');
 	background-repeat: none;
