@@ -37,15 +37,6 @@ layout: post
         </div>
         <div class="row justify-content-center">
             <div class="col-sm-10">
-                {% if page.verses[0] != "none" %}
-                <h2>Key Verses</h2>
-                {% for item in page.verses %}
-                <a class="rtBibleRef" href="http://biblia.com/bible/nkjv/{{ item }}" data-reference="{{ item }}" data-version="nkjv" data-purpose="bible-reference" target="_blank"><button class="btn btn-xl-dark">{{ item }}</button></a> {% endfor %}
-                <hr> {% endif %}
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-sm-10">
                 {{ content }}
             </div>
         </div>
