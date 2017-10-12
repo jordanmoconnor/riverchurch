@@ -4,7 +4,7 @@ date: 2016-12-13 09:13:00 -05:00
 video_id:
 - PUmHfM0-z_U
 audio_id:
-- http://a.clyp.it/b4x1rcy5.mp3
+- https://a.clyp.it/b4x1rcy5.mp3
 verses:
 - Psalm 150:3-6
 - Acts 3:4-9

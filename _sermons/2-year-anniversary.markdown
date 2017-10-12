@@ -7,7 +7,7 @@ layout: sermon
 video_id:
 - wVcvaQ-nnVs
 audio_id:
-- http://a.clyp.it/wkgwsv0w.mp3
+- https://a.clyp.it/wkgwsv0w.mp3
 verses:
 - none
 ---

@@ -5,7 +5,7 @@ image: "/uploads/maxresdefault-min.jpg"
 video_id:
 - 2ahouX5ONhw
 audio_id:
-- http://a.clyp.it/h1lqpuil.mp3
+- https://a.clyp.it/h1lqpuil.mp3
 verses:
 - none
 ---
