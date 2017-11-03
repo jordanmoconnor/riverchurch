@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Restoration
-date: 2017-10-29 12:17:33 -0400
+date: 2017-11-02 12:17:33 -0400
 categories: []
 tags: []
 ---
