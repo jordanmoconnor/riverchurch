@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- jspUafO1Yek
 audio_id:
 - https://dl.dropboxusercontent.com/s/6i1a8bppolkoz6g/Revival.mp3?dl=0
 verses:
