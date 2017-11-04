@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- Us5PXyPsNw8
 audio_id:
 - https://dl.dropboxusercontent.com/s/ghwnkyd6f93f5j2/Joy.mp3?dl=0
 verses:
