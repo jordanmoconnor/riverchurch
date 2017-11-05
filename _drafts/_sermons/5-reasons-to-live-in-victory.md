@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- WfMFPhdom1U
 audio_id:
 - https://dl.dropboxusercontent.com/s/r9c9ww05dw8sqei/5%20Reasons%20To%20Live%20In%20Victory.mp3?dl=0
 verses:
