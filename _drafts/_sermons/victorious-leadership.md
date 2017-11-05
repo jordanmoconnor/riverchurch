@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- kOjEyjGLjvg
 audio_id:
 - https://dl.dropboxusercontent.com/s/wyjc9046o5a9mc8/Victorious%20Leadership.mp3?dl=0
 verses:
