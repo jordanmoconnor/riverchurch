@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- hduCSrG4TuU
 audio_id:
 - https://dl.dropboxusercontent.com/s/b9z9yq90v6woz2y/Vessel.mp3?dl=0
 verses:
