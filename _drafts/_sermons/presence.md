@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- hduCSrG4TuU
 audio_id:
 - https://dl.dropboxusercontent.com/s/d8t4it3exex89nq/Presence.mp3?dl=0
 verses:
