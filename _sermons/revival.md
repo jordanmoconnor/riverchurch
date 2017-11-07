@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Revival
-date: 2017-11-03 00:00:00 +0000
+date: 2017-11-04 19:02:42 -0400
 categories: []
 tags: []
 ---
