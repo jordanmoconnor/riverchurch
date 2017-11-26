@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Miracles Cause Revival
-date: 2017-11-26 00:00:00 +0000
+date: 2017-11-19 13:22:23 -0500
+categories: []
+tags: []
 ---
