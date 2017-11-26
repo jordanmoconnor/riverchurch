@@ -4,7 +4,7 @@ image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - none
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/qvwcyhb6mdiu04w/The%20Power%20Of%20Thanksgiving.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
