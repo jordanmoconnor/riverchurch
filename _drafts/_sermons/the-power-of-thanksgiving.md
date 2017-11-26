@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: The Power Of Thanksgiving
-date: 2017-11-26 00:00:00 +0000
+date: 2017-11-22 13:22:51 -0500
+categories: []
+tags: []
 ---
