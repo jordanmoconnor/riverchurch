@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- stAi2MITG60
 audio_id:
 - https://dl.dropboxusercontent.com/s/qvwcyhb6mdiu04w/The%20Power%20Of%20Thanksgiving.mp3?dl=0
 verses:
