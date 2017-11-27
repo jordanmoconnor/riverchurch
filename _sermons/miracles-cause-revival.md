@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- yeqtCHwJTvQ
 audio_id:
 - https://dl.dropboxusercontent.com/s/rasaseuvmray0ug/Miracles%20Cause%20Revivial.mp3?dl=0
 verses:
