@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- _sSTOmLPMZs
 audio_id:
 - https://dl.dropboxusercontent.com/s/4yn0zqn2tvdzf4i/Miracles%20Of%20Healing.mp3?dl=0
 verses:
