@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- p_DO8wBlDn4
 audio_id:
 - https://dl.dropboxusercontent.com/s/miyebof3vbs8pbs/Miracles%20Of%20Provision.mp3?dl=0
 verses:
