@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: The Chastening Of The Lord
-date: 2017-12-14 00:00:00 +0000
+date: 2017-12-06 01:49:37 -0500
 categories: []
 tags: []
 ---
