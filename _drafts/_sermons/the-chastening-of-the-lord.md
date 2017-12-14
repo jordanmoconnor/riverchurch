@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- 9BXiSVvfJbA
 audio_id:
 - https://dl.dropboxusercontent.com/s/li8kxwodmec9nl9/The%20Chastening%20Of%20The%20Lord.mp3?dl=0
 verses:
