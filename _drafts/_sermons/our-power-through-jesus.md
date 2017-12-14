@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Our Power Through Jesus
-date: 2017-12-14 00:00:00 +0000
+date: 2017-12-10 01:50:27 -0500
 categories: []
 tags: []
 ---
