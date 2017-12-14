@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- R-7_Sk6oSZg
 audio_id:
 - https://dl.dropboxusercontent.com/s/tzp6d493r1aysrv/Stewardship.mp3?dl=0
 verses:
