@@ -12,6 +12,17 @@ navigation_weight: 4
     </div>
 </div>
 <div class="row justify-content-center">
+  <div class="col-md-10 text-center">
+    <h2>Sermon Podcast</h2>
+    <p>You can find our sermons on your favorite podcast app by searching "River Rochester".</p>
+    <a class="btn btn-xl-dark" href="https://geo.itunes.apple.com/us/podcast/river-rochester/id1182211082?mt=2">iTunes</a>
+    <a class="btn btn-xl-dark" href="http://www.stitcher.com/podcast/river-rochester"> Stitcher</a>
+    <a class="btn btn-xl-dark" href="http://pca.st/dIb4"> Pocket Casts</a>
+    <a class="btn btn-xl-dark" href="https://overcast.fm/itunes1182211082/river-rochester"> Overcast</a>
+    <a class="btn btn-xl-dark" href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ijbddmopd735kwqpa5reingncou?t%3DRiver_Rochester"> Google Play</a>
+  </div>
+</div>
+<div class="row justify-content-center">
 {% for item in site.sermons reversed %}
 <div class="col-md-4">
     <div class="card">
