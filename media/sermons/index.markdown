@@ -13,7 +13,6 @@ navigation_weight: 4
 </div>
 <div class="row justify-content-center">
   <div class="col-md-10 text-center">
-    <h2>Sermon Podcast</h2>
     <p>You can find our sermons on your favorite podcast app by searching "River Rochester".</p>
     <a class="btn btn-xl-dark" href="https://geo.itunes.apple.com/us/podcast/river-rochester/id1182211082?mt=2">iTunes</a>
     <a class="btn btn-xl-dark" href="http://www.stitcher.com/podcast/river-rochester"> Stitcher</a>
