@@ -24,9 +24,9 @@
             {% assign items = site.sermons | sort: 'date' | reverse %}
             {% for item in items  limit:1 %}
             <div class="col">
-                <h3>Latest Sermon</h3>
-                <h1>{{ item.title }}</h2>
-                <a href="{{ item.url | prepend: site.baseurl }}"><button class="btn btn-xl-light">Listen Now</button></a>
+                <h3><strong>Latest Sermon</strong></h3>
+                <h1><strong>{{ item.title }}</strong></h2>
+                <a href="{{ item.url | prepend: site.baseurl }}"><button class="btn btn-xl-light"><strong>Listen Now</strong></button></a>
             </div>
             {% endfor %}
         </div>
