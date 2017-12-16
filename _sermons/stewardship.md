@@ -19,15 +19,15 @@ tags: []
 
 ## Managing your finances the godly way
 
-If you’re not called to full time ministry, you should be seeking to be used to bring in a large income to the kingdom. The wealth of the wicked is laid up for the just. 
+If you’re not called to full time ministry, you should be seeking to be used to bring in a large income to the kingdom. The wealth of the wicked is laid up for the just.
 
-We can’t just rely on one or two people to do this. We need the whole body to prosper. 
+We can’t just rely on one or two people to do this. We need the whole body to prosper.
 
 There is a time to give radically. The times we have reaped the biggest harvest in life is when we sowed the most.
 
-But, without understanding the full message of sowing generously, people think they should give everything. But the Bible says God will give us bread for eating and bread for sowing. 
+But, without understanding the full message of sowing generously, people think they should give everything. But the Bible says God will give us bread for eating and bread for sowing.
 
-You have to be led by the spirit in your giving. 
+You have to be led by the spirit in your giving.
 
 There’s a spiritual side to prosperity, and a practical side to prosperity. There are certain things that are good practices. Being smart with your money. And then there’s tithing and giving, which allows God to bring in a massive harvest for you.
 
@@ -47,15 +47,15 @@ Are we going to radically believe God for provision? Or, are we going to do thin
 
 If you’ve ever created a whirlpool in an above ground pool, you know it’s hard to go against it. That’s how it is to go against the norm.
 
-Everyone was told to go to college, then they are told to buy a house, and cars, once they have a job. Now, you are going against a huge force that is pulling you towards debt. 
+Everyone was told to go to college, then they are told to buy a house, and cars, once they have a job. Now, you are going against a huge force that is pulling you towards debt.
 
-If you have a financial situation going against you, how can I turn this around to work in my favor? Money is either working for you, or against you. 
+If you have a financial situation going against you, how can I turn this around to work in my favor? Money is either working for you, or against you.
 
 As the body of Christ, we need to figure out how to get our money flowing in the right direction. If you can’t do the practical side of it, and you only focus on the spiritual side of it, you’re going to get stuck in a hole.
 
-## Success in life demands successful patterns. 
+## Success in life demands successful patterns
 
-God won’t bring that dump truck of cash to your house, if you haven’t shown him you can handle that money. 
+God won’t bring that dump truck of cash to your house, if you haven’t shown him you can handle that money.
 
 People that get lots of wealth quickly that don’t have patterns of success, will end up right back where they started before the money.
 
@@ -65,16 +65,16 @@ If you never start making ground in a direction, you’ll never start heading th
 
 In Deuteronomy, God says they he will bless your storehouse. What will he bless if you don’t have a storehouse?
 
-If God want’s me to prosper financially, I have to show God I am ready for it. 
+If God want’s me to prosper financially, I have to show God I am ready for it.
 
-I shouldn’t be believing God for this month’s rent, I should be believing God for next year’s rent. 
+I shouldn’t be believing God for this month’s rent, I should be believing God for next year’s rent.
 
-Challenge yourself: How can I grow to a place of financial dominion? 
+Challenge yourself: How can I grow to a place of financial dominion?
 
 Whatever is average for America isn’t good enough for the Kingdom.
 
-1 Corinthians 16 
+1 Corinthians 16
 
 2 Corinthians 8
 
-The church gave beyond their ability (according to the spirit’s leading) and they were more than willing to give the offering. They were believing for more, so they can be more of a blessing. 
+The church gave beyond their ability (according to the spirit’s leading) and they were more than willing to give the offering. They were believing for more, so they can be more of a blessing.
