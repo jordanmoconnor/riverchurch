@@ -1,5 +1,5 @@
 ---
-title: River Rochester
+title: River Church
 timezone: America/New_York
 collections:
   events:
@@ -59,7 +59,7 @@ defaults:
     author: Jeremiah Thomas
     subtitle: Subtitle
     image: ''
-description: Brockport NY Church
+description: Brockport NY
 url: https://riverrochester.com
 baseurl: 
 logo: uploads/RIVERxchurch-1.jpg
