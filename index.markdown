@@ -6,6 +6,5 @@ header-text-bold: Welcome
 image: "/uploads/RIVERxchurch-1.jpg"
 layout: index
 navigation_weight: 1
-title: River Rochester
 ---
 
