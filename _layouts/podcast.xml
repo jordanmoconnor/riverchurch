@@ -7,18 +7,18 @@
     <language>en-us</language>
     <image>
       <url>http://riverrochester.com/assets/img/logos/podcast-logo.png</url>
-      <title>River Rochester</title>
+      <title>{{ site.title }}</title>
       <link>{{ site.url }}</link>
     </image>
     <atom:link href="{{ '/podcast.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    <itunes:author>River Rochester</itunes:author>
-    <itunes:subtitle>The River Rochester Podcast</itunes:subtitle>
+    <itunes:author>{{ site.title }}</itunes:author>
+    <itunes:subtitle>The River Church Podcast</itunes:subtitle>
     <itunes:summary>We are a church located in Brockport, NY that is impacting the greater Rochester area with the gospel of Jesus Christ. This podcast will feature all of our sermons, Bible studies, and other audio content. Enjoy!</itunes:summary>
     <itunes:owner>
-           <itunes:name>River Rochester</itunes:name>
+           <itunes:name>{{ site.title }}</itunes:name>
            <itunes:email>contact@riverrochester.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
@@ -41,14 +41,14 @@
         {% for cat in sermon.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
-        <itunes:author>River Rochester</itunes:author>
+        <itunes:author>{{ site.title }}</itunes:author>
         {% if sermon.video_id[0] != "none" %}
         <itunes:image href="http://img.youtube.com/vi/{{ sermon.video_id[0] }}/maxresdefault.jpg"/>
         {% endif %}
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle>{{ sermon.subtitle | xml_escape }}</itunes:subtitle>
         <itunes:summary>{{ sermon.summary | xml_escape }}</itunes:summary>
-        <itunes:keywords>River Rochester, The River Church, Rochester, Church, Funny, Jeremiah Thomas, Sermon, Pastor Jeremiah, Jesus, Rochester New York, Preaching, Teaching, Good Sermon</itunes:keywords>
+        <itunes:keywords>{{ site.title }}, The River Church, Rochester, Church, Funny, Jeremiah Thomas, Sermon, Pastor Jeremiah, Jesus, Rochester New York, Preaching, Teaching, Good Sermon</itunes:keywords>
       </item>
       {% endif %}
     {% endfor %}
