@@ -1,10 +1,10 @@
 ---
 pages:
+- media/sermons/index.markdown
+- media/index.markdown
 - index.markdown
 - kids.markdown
-- media/sermons/index.markdown
 - media/blog/index.markdown
-- media/index.markdown
 - encounter.markdown
 - beliefs.markdown
 - winter-revival-2017.markdown
