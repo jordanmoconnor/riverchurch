@@ -161,6 +161,9 @@ header {
 }
 
 // Global Section Styles
+.about {
+	max-width: 100%;
+}
 
 section {
     padding: 100px 0;
@@ -190,10 +193,6 @@ section {
 .service-heading {
 	margin: 15px 0;
 	text-transform: none;
-}
-
-.about {
-	max-width: 100%;
 }
 
 #events{
