@@ -1,18 +1,18 @@
 ---
 pages:
-- media/sermons/index.markdown
-- media/index.markdown
-- index.markdown
-- kids.markdown
-- media/blog/index.markdown
-- encounter.markdown
-- beliefs.markdown
 - winter-revival-2017.markdown
 - spring-revival-2017.markdown
+- kids.markdown
+- index.markdown
+- media/index.markdown
+- media/sermons/index.markdown
 - media/teachings/index.markdown
+- media/blog/index.markdown
 - gwc.markdown
 - getinvolved.markdown
 - events.markdown
+- encounter.markdown
+- beliefs.markdown
 hide_body: false
 fields:
 - name: title
