@@ -2,12 +2,14 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- rj5y5taR5ww
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/zqqt3pmnuzv5thj/Candlelight%20Service%202017.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Candlelight Service 2017
 date: 2018-01-09 00:00:00 +0000
+categories: []
+tags: []
 ---
