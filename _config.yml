@@ -1,6 +1,5 @@
 ---
 title: River Church
-timezone: America/New_York
 collections:
   events:
     title: Events
@@ -83,9 +82,8 @@ kramdown:
 sass:
   sass_dir: assets/css/_sass
   style: compressed
-future: true
 permalink: none
-gems:
+plugins:
 - jekyll-archives
 - jekyll-sitemap
 - jekyll-seo-tag
