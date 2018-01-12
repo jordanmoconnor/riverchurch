@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Candlelight Service 2017
-date: 2018-01-09 00:00:00 +0000
+date: 2017-12-23 19:00:00 -0500
 categories: []
 tags: []
 ---
