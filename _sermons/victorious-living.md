@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Living In Victory
-date: 2018-01-09 00:00:00 +0000
+date: 2017-12-27 19:00:00 -0500
 categories: []
 tags: []
 ---
