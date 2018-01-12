@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Christmas Service 2017
-date: 2018-01-09 00:00:00 +0000
+date: 2017-12-24 19:00:00 -0500
 categories: []
 tags: []
 ---
