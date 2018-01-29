@@ -8,7 +8,7 @@ navigation_weight: 2
 <div class="row justify-content-center">
   <div class="col-md-6 text-center">
     <h1 class="">Latest Sermons</h1>
-    <a href="{{ 'media/sermons' | absolute_url }}"><button class="btn btn-xl-dark">View All Sermons</button></a>
+    <a href="{{ 'sermons/' | absolute_url }}"><button class="btn btn-xl-dark">View All Sermons</button></a>
   </div>
 </div>
 <div class="row justify-content-center">
@@ -56,7 +56,7 @@ navigation_weight: 2
 </div>
 <div class="row justify-content-center">
   <div class="col-md-6 text-center">
-    <h2>Latest <a href="{{ 'media/teachings/' | absolute_url }}">Teachings</a></h2>
+    <h2>Latest <a href="{{ 'teachings/' | absolute_url }}">Teachings</a></h2>
   </div>
 </div>
 <div class="row justify-content-center">
@@ -82,7 +82,7 @@ navigation_weight: 2
 </div>
 <div class="row justify-content-center">
   <div class="col-md-6 text-center">
-    <h2>Latest <a href="{{ 'media/blog/' | absolute_url }}">Posts</a></h2>
+    <h2>Latest <a href="{{ 'blog/' | absolute_url }}">Posts</a></h2>
   </div>
 </div>
 <div class="row justify-content-center">
