@@ -27,7 +27,7 @@
                 <h2>Menu</h2>
                 <ul style="padding: 0px;">
                     {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
-                    <li style="list-style-type:none;"><a href="{{ p.url }}/">{{ p.title }}</a></li>
+                    <li style="list-style-type:none;"><a href="{{ p.url }}">{{ p.title }}</a></li>
                     {% endif %} {% endfor %}
                 </ul>
                 <ul class="list-inline d-inline-flex">
