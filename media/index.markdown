@@ -1,6 +1,7 @@
 ---
 title: Media
 layout: media-page
+permalink: /media/
 navigation_weight: 2
 ---
 
