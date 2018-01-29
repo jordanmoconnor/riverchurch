@@ -3,7 +3,7 @@ title: Teachings
 layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
-permalink: /media/teachings/
+permalink: /teachings/
 navigation_weight: 3
 ---
 

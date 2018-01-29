@@ -3,7 +3,7 @@ title: Sermons
 layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
-permalink: /media/sermons/
+permalink: /sermons/
 navigation_weight: 4
 ---
 
@@ -14,7 +14,7 @@ navigation_weight: 4
 </div>
 <div class="row justify-content-center">
   <div class="col-md-10 text-center">
-    <p>You can find our sermons on your favorite podcast app by searching "River Rochester".</p>
+    <p>You can find our sermons on your favorite podcast app by searching "River Church" and looking for our logo.</p>
     <a class="btn btn-xl-dark" href="https://geo.itunes.apple.com/us/podcast/river-rochester/id1182211082?mt=2">iTunes</a>
     <a class="btn btn-xl-dark" href="http://www.stitcher.com/podcast/river-rochester"> Stitcher</a>
     <a class="btn btn-xl-dark" href="http://pca.st/dIb4"> Pocket Casts</a>
@@ -23,7 +23,8 @@ navigation_weight: 4
   </div>
 </div>
 <div class="row justify-content-center">
-{% for item in site.sermons reversed %}
+{% assign items = site.sermons | sort: 'date' | reverse %}
+{% for item in items limit:6 %}
 <div class="col-md-4">
     <div class="card">
       {% if item.video_id[0] != "none" %}
@@ -38,6 +39,23 @@ navigation_weight: 4
       <div class="card-block">
         <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
         <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+      </div>
+    </div>
+</div>
+{% endfor %}
+</div>
+<div class="row justify-content-center">
+{% assign postsByYearMonth = site.sermons | group_by_exp:"sermon", "sermon.date | date: '%B %Y'"  %}
+{% for yearMonth in postsByYearMonth reversed %}
+<div class="col-md-12">
+    <div class="card">
+      <div class="card-body">
+        <h2 class="card-header">{{ yearMonth.name }}</h2>
+        <ul style="list-style: none">
+          {% for sermon in yearMonth.items reversed%}
+            <li><p class="large"><a href="{{ post.url }}">{{ sermon.title }}</a></p></li>
+          {% endfor %}
+        </ul>
       </div>
     </div>
 </div>

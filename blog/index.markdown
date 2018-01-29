@@ -3,7 +3,7 @@ title: Blog Posts
 layout: media-page
 header-image: assets/img/beliefs-bg.jpg
 image: "/assets/img/beliefs-bg.jpg"
-permalink: /media/blog/
+permalink: /blog/
 navigation_weight: 5
 ---
 
