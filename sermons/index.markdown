@@ -53,7 +53,7 @@ navigation_weight: 4
         <h2 class="card-header">{{ yearMonth.name }}</h2>
         <ul style="list-style: none">
           {% for sermon in yearMonth.items reversed%}
-            <li><p class="large"><a href="{{ post.url }}">{{ sermon.title }}</a></p></li>
+            <li><p class="large"><a href="{{ sermon.url }}">{{ sermon.title }}</a></p></li>
           {% endfor %}
         </ul>
       </div>
