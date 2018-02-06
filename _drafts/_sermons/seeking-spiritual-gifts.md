@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Seeking Spiritual Gifts
-date: 2018-02-06 00:00:00 +0000
+date: 2018-02-04 19:19:43 -0500
+categories: []
+tags: []
 ---
