@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Vision
-date: 2018-02-06 00:00:00 +0000
+date: 2018-01-14 19:08:40 -0500
+categories: []
+tags: []
 ---
