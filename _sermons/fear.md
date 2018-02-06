@@ -4,7 +4,7 @@ image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - none
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/4nl85bg9tcbcr33/Fear.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
