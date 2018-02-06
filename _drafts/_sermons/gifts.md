@@ -8,6 +8,8 @@ audio_id:
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
-title: Gifts
-date: 2018-02-06 00:00:00 +0000
+title: Seeking Spiritual Gifts
+date: 2018-02-04 19:18:47 -0500
+categories: []
+tags: []
 ---
