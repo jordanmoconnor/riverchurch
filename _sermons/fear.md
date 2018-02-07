@@ -2,14 +2,14 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- HNFSbMVWe1o
 audio_id:
 - https://dl.dropboxusercontent.com/s/4nl85bg9tcbcr33/Fear.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Fear
-date: 2018-01-24 19:11:25 -0500
+date: 2018-01-25 00:11:25 +0000
 categories: []
 tags: []
 ---
