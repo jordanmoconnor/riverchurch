@@ -4,7 +4,7 @@ image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - none
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/gr9e0lckxctcgm8/The%20Gifts%20in%20Operation.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
