@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- LIjTQgiY5jA
 audio_id:
 - https://dl.dropboxusercontent.com/s/gr9e0lckxctcgm8/The%20Gifts%20in%20Operation.mp3?dl=0
 verses:
