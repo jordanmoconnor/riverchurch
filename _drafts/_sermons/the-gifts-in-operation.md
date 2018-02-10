@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: The Gifts in Operation
-date: 2018-02-09 00:00:00 +0000
+date: 2018-02-07 14:56:04 -0500
+categories: []
+tags: []
 ---
