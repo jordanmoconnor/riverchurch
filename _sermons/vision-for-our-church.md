@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Vision For Our Church
-date: 2018-02-15 00:00:00 +0000
+date: 2018-02-11 10:55:22 -0500
 categories: []
 tags: []
 ---
