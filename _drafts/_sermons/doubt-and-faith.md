@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Doubt And Faith
-date: 2018-02-21 00:00:00 +0000
+date: 2018-02-18 10:26:56 -0500
+categories: []
+tags: []
 ---
