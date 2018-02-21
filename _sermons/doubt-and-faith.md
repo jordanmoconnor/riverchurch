@@ -2,7 +2,7 @@
 layout: sermon
 image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
 video_id:
-- none
+- C2LRjhxCCDU
 audio_id:
 - https://dl.dropboxusercontent.com/s/muk39pwcplym2np/Doubt%20And%20Faith.mp3?dl=0
 verses:
