@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- MT8SbIMCdk0
 audio_id:
 - https://dl.dropboxusercontent.com/s/pkxca3nd7t46deb/Prayer%20Isn%27t%20Spritual%20Journaling.mp3?dl=0
 verses:
