@@ -211,7 +211,7 @@ fields:
 - type: text
   name: image
   label: Image
-  default: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
+  default: https://riverrochester.com/assets/img/logos/logo-16x9.png
 - name: verses
   label: Verses
   type: list
