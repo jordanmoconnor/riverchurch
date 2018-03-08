@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- vLXuqCfxu6M
 audio_id:
 - https://dl.dropboxusercontent.com/s/o2jvm51bgrp1jrt/Deception%20Of%20The%20Devil.mp3?dl=0
 verses:
