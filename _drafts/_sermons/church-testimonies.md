@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- crkRGHV8UU8
 audio_id:
 - https://dl.dropboxusercontent.com/s/hifs1ussn7yzgn5/Church%20Testimonies.mp3?dl=0
 verses:
