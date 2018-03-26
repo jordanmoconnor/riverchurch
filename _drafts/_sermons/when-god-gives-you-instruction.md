@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: When God Gives You Instruction
-date: 2018-03-26 00:00:00 +0000
+date: 2018-03-21 11:47:53 -0400
+categories: []
+tags: []
 ---
