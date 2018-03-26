@@ -10,4 +10,6 @@ verses:
 summary: Check us out online at https://riverrochester.com!
 title: Speak The Word. Change Your Life.
 date: 2018-03-26 00:00:00 +0000
+categories: []
+tags: []
 ---
