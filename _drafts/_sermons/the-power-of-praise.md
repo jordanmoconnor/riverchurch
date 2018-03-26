@@ -4,7 +4,7 @@ image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
 - 07IJONALZxA
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/zdbnd44dfdouap9/The%20Power%20Of%20Praise.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
