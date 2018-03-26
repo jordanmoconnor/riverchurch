@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- D6GK6ZdCuZs
 audio_id:
 - https://dl.dropboxusercontent.com/s/flvo2gdt9608j89/Speak%20The%20Word.%20Change%20Your%20Life.mp3?dl=0
 verses:
