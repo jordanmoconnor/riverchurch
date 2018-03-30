@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- 5PcavUJ0eo
+- _5PcavUJ0eo
 audio_id:
 - https://dl.dropboxusercontent.com/s/p79e0968tgum4cg/Speak%20Life.mp3?dl=0
 verses:
