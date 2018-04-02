@@ -126,7 +126,8 @@ header {
                 // font-style: italic;
                 font-size: 22px;
                 line-height: 22px;
-                margin-bottom: 25px;
+								margin-bottom: 25px;
+								font-weight: 200;
             }
             .intro-heading {
                 @include heading-font;
@@ -148,6 +149,7 @@ header {
 				font-size: 40px;
 				line-height: 40px;
 				margin-bottom: 25px;
+				font-weight: 200;
 			}
 			.intro-heading {
 				@include heading-font;
@@ -808,4 +810,9 @@ blockquote:before {
 }
 blockquote p {
   display: inline;
+}
+
+.latest-sermon {
+	background: rgb(0, 0, 0); /* Fallback */
+	background: rgba(0, 0, 0, 0.3);
 }

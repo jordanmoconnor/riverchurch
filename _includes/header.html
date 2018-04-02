@@ -16,18 +16,27 @@
     }
     </style>
     <header>
-        <div class="container-flex flex-container">
-            <div class="intro-text editable"><div class="intro-lead-in"></div>
-            <div class="intro-heading">
-                <strong>{{ page.header-text-bold }} </strong> {{ page.header-text }}
+        <div class="flex-container container-flex">
+            <div class="container">
+                <div class="intro-text">
+                    <div class="row text-center">
+                        <div class="col-md-12">
+                            <p class="intro-heading">
+                                <strong>{{ page.header-text-bold }} </strong> {{ page.header-text }}
+                            </p>
+                        </div>
+                    </div>
+                    {% assign items = site.sermons | sort: 'date' | reverse %}
+                    {% for item in items  limit:1 %}
+                    <div class="row text-center justify-content-center">
+                        <div class="col-md-6 latest-sermon m-3">
+                            <p class="intro-lead-in">Latest Sermon</p>
+                            <p class="intro-lead-in"><strong>{{ item.title | capitalize }}</strong></p>
+                            <a class="btn mb-4 btn-xl-light" href="{{ item.url | prepend: site.baseurl }}"><strong>Listen Now</strong></a>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div> 
             </div>
-            {% assign items = site.sermons | sort: 'date' | reverse %}
-            {% for item in items  limit:1 %}
-            <div class="col">
-                <h3><strong>Latest Sermon</strong></h3>
-                <h2><strong>{{ item.title }}</strong></h2>
-                <a class="btn btn-xl-light" href="{{ item.url | prepend: site.baseurl }}"><strong>Listen Now</strong></a>
-            </div>
-            {% endfor %}
         </div>
     </header>
