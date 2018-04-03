@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Jesus Defeated The Devil
-date: 2018-04-03 00:00:00 +0000
+date: 2018-04-01 08:05:41 -0400
+categories: []
+tags: []
 ---
