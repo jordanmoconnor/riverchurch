@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- fP9Hoze3v1k
 audio_id:
 - https://dl.dropboxusercontent.com/s/501f416rnad5sji/Your%20Words%20Create%20The%20Future.mp3?dl=0
 verses:
