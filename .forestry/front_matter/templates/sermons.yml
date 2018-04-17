@@ -1,5 +1,6 @@
 ---
 pages:
+- _sermons/the-fruit-of-your-mouth.md
 - _sermons/break-tradition.md
 - _sermons/your-words-create-the-future.md
 - _sermons/he-is-willing.md
@@ -188,6 +189,7 @@ pages:
 - _sermons/rooted.markdown
 - _sermons/whats-the-plan.markdown
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

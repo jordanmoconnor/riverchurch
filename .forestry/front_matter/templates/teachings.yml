@@ -9,6 +9,7 @@ pages:
 - _teachings/kingdom-finances---gods-way-with--part-1.markdown
 - _teachings/what-are-you-talking-about.markdown
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

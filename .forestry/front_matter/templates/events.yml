@@ -15,6 +15,7 @@ pages:
 - _events/3-years.md
 - _events/life-of-jesus.md
 hide_body: false
+is_partial: false
 fields:
 - name: description
   label: Description
