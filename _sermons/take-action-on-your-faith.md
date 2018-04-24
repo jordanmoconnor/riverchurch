@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Take Action On Your Faith
-date: 2017-07-23 05:48:56 -0400
+date: 2018-04-22 05:48:56 -0400
 categories: []
 tags: []
 ---
