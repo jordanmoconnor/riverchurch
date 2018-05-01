@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: The Truth About Tithing
-date: Invalid date
+date: 2018-04-29 15:31:00 -0400
+categories: []
+tags: []
 ---
