@@ -9,5 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Effective Confession
-date: Invalid date
+date: 2018-04-29 00:00:00 -0400
+categories: []
+tags: []
 ---
