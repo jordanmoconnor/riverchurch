@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- _X_jRKny7q0
 audio_id:
 - none
 verses:
