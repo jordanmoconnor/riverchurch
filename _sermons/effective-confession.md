@@ -2,9 +2,9 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- P4ismU2F5Fk
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/nppjrugd4ui213f/Effective%20Confession.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
