@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- dS_xvWuF-qg
 audio_id:
 - https://dl.dropboxusercontent.com/s/o8gwdlemwsb0pje/Women%20Of%20Faith.mp3?dl=0
 verses:
