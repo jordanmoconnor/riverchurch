@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Women Of Faith
-date: 2017-07-24 09:48:56 +0000
+date: 2018-05-13 05:48:56 -0400
 categories: []
 tags: []
 ---
