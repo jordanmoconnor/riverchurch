@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/don-t-be-afraid-only-believe.md
 - _sermons/boldness-to-save-the-lost.md
 - _sermons/not-ordinary-men.md
 - _sermons/loving-the-lost.md
