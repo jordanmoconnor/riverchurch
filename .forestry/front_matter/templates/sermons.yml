@@ -1,5 +1,65 @@
 ---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2017-07-24 09:48:56 +0000
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: sermon
+- name: video_id
+  label: Video id
+  type: list
+  hidden: false
+  default:
+  - none
+- name: audio_id
+  label: Audio id
+  type: list
+  hidden: false
+  default:
+  - none
+- type: text
+  name: image
+  label: Image
+  default: https://riverrochester.com/assets/img/logos/logo-16x9.png
+- name: verses
+  label: Verses
+  type: list
+  hidden: false
+  default:
+  - none
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: textarea
+  hidden: false
+  default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/4-types-of-hearers.md
+- _sermons/the-truth-about-tithing.md
+- _sermons/effective-confession.md
+- _sermons/practical-teachings-of-jesus.md
+- _sermons/break-tradition.md
 - _sermons/women-of-faith.md
 - _sermons/what-s-your-alabaster-box.md
 - _sermons/inheritance.md
@@ -7,7 +67,6 @@ pages:
 - _sermons/take-action-on-your-faith.md
 - _sermons/jesus-wants-you-blessed.md
 - _sermons/the-fruit-of-your-mouth.md
-- _sermons/break-tradition.md
 - _sermons/your-words-create-the-future.md
 - _sermons/he-is-willing.md
 - _sermons/resurrection-power.md
@@ -194,58 +253,3 @@ pages:
 - _sermons/thoughts.markdown
 - _sermons/rooted.markdown
 - _sermons/whats-the-plan.markdown
-hide_body: false
-is_partial: false
-fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: 2017-07-24 09:48:56 +0000
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: sermon
-- name: video_id
-  label: Video id
-  type: list
-  hidden: false
-  default:
-  - none
-- name: audio_id
-  label: Audio id
-  type: list
-  hidden: false
-  default:
-  - none
-- type: text
-  name: image
-  label: Image
-  default: https://riverrochester.com/assets/img/logos/logo-16x9.png
-- name: verses
-  label: Verses
-  type: list
-  hidden: false
-  default:
-  - none
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: ''
-- name: summary
-  label: Summary
-  type: textarea
-  hidden: false
-  default: Check us out online at https://riverrochester.com!

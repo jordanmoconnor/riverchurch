@@ -1,18 +1,4 @@
 ---
-pages:
-- index.markdown
-- sermons/index.markdown
-- teachings/index.markdown
-- blog/index.markdown
-- winter-revival-2017.markdown
-- spring-revival-2017.markdown
-- kids.markdown
-- media/index.markdown
-- gwc.markdown
-- getinvolved.markdown
-- events.markdown
-- encounter.markdown
-- beliefs.markdown
 hide_body: false
 is_partial: false
 fields:
@@ -56,3 +42,17 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- index.markdown
+- sermons/index.markdown
+- teachings/index.markdown
+- blog/index.markdown
+- winter-revival-2017.markdown
+- spring-revival-2017.markdown
+- kids.markdown
+- media/index.markdown
+- gwc.markdown
+- getinvolved.markdown
+- events.markdown
+- encounter.markdown
+- beliefs.markdown
