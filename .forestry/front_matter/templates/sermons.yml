@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/boldness-to-save-the-lost.md
 - _sermons/not-ordinary-men.md
 - _sermons/loving-the-lost.md
 - _sermons/4-types-of-hearers.md
