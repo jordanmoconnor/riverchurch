@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- gLozYmPkTqk
 audio_id:
 - https://dl.dropboxusercontent.com/s/brkhgz9qdx7xloy/4%20Types%20Of%20Hearers.mp3?dl=0
 verses:
