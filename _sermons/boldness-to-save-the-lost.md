@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- cD_N8zCmZvQ
 audio_id:
 - https://dl.dropboxusercontent.com/s/zt9x37w4bohs1ve/Boldness%20To%20Save%20The%20Lost.mp3?dl=0
 verses:
