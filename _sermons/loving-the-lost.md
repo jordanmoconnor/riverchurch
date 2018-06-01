@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- kN5IH1DLTS0
 audio_id:
 - https://dl.dropboxusercontent.com/s/e64rkjk05evboxc/Loving%20The%20Lost.mp3?dl=0
 verses:
