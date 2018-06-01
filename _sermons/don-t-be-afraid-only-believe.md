@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- XUeqdAAhr3w
 audio_id:
 - https://dl.dropboxusercontent.com/s/omqjggwomn8v7ca/Don%27t%20Be%20Afraid.%20Only%20Believe.mp3?dl=0
 verses:
