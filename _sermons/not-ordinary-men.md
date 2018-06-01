@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- ZIJLcC3RZdc
 audio_id:
 - https://dl.dropboxusercontent.com/s/sag2r8t4g77tmup/Not%20Ordinary%20Men.mp3?dl=0
 verses:
