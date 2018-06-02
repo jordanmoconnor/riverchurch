@@ -15,14 +15,14 @@ navigation_weight: 4
 <div class="row justify-content-center">
   <div class="col-md-10 text-center">
     <p>You can find our sermons on your favorite podcast app by searching "River Church" and looking for our logo.</p>
-    <a class="btn btn-xl-dark" href="https://geo.itunes.apple.com/us/podcast/river-rochester/id1182211082?mt=2">iTunes</a>
-    <a class="btn btn-xl-dark" href="http://www.stitcher.com/podcast/river-rochester"> Stitcher</a>
-    <a class="btn btn-xl-dark" href="http://pca.st/dIb4"> Pocket Casts</a>
-    <a class="btn btn-xl-dark" href="https://overcast.fm/itunes1182211082/river-rochester"> Overcast</a>
-    <a class="btn btn-xl-dark" href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ijbddmopd735kwqpa5reingncou?t%3DRiver_Rochester"> Google Play</a>
+    <a class="btn btn-xl-dark my-3" href="https://geo.itunes.apple.com/us/podcast/river-rochester/id1182211082?mt=2">iTunes</a>
+    <a class="btn btn-xl-dark my-3" href="http://www.stitcher.com/podcast/river-rochester"> Stitcher</a>
+    <a class="btn btn-xl-dark my-3" href="http://pca.st/dIb4"> Pocket Casts</a>
+    <a class="btn btn-xl-dark my-3" href="https://overcast.fm/itunes1182211082/river-rochester"> Overcast</a>
+    <a class="btn btn-xl-dark my-3" href="https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ijbddmopd735kwqpa5reingncou?t%3DRiver_Rochester"> Google Play</a>
   </div>
 </div>
-<div class="row justify-content-center">
+<div class="row justify-content-center my-3">
 {% assign items = site.sermons | sort: 'date' | reverse %}
 {% for item in items limit:6 %}
 <div class="col-md-4">
@@ -36,7 +36,7 @@ navigation_weight: 4
         <a href="{{ item.url | absolute_url }}"><img class="card-img-top" src="{{ item.image | absolute_url }}" alt="{{ item.title }}" /></a>
       </div>
       {% endif %}
-      <div class="card-block">
+      <div class="card-block mx-3 my-3">
         <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
         <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
       </div>
@@ -50,8 +50,8 @@ navigation_weight: 4
 <div class="col-md-12">
     <div class="card">
       <div class="card-body">
-        <h2 class="card-header">{{ yearMonth.name }}</h2>
         <ul style="list-style: none">
+          <h2>{{ yearMonth.name }}</h2>
           {% for sermon in yearMonth.items reversed%}
             <li><p class="large"><a href="{{ sermon.url }}">{{ sermon.title }}</a></p></li>
           {% endfor %}

@@ -2,9 +2,70 @@
 ---
 
 @import url(https://fonts.googleapis.com/css?family=Quicksand:300|Raleway:200,300,500,700);
-@import "bootstrap.scss";
-@import "variables.scss";
-@import "mixins.scss";
+@import "bootstrap";
+
+//Extra Mixins
+@mixin background-cover() {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
+// Bootstrap Button Variant
+
+@mixin button-variant($color, $background, $border) {
+	color: $color;
+	background-color: $background;
+	border-color: $border;
+
+	&:hover,
+	&:focus,
+	&:active,
+	&.active,
+	.open .dropdown-toggle {
+		color: $color;
+		background-color: darken($background, 10%);
+        border-color: darken($border, 12%);
+	}
+	&:active,
+	&.active,
+	.open .dropdown-toggle {
+		background-image: none;
+	}
+	&.disabled,
+	&[disabled],
+	fieldset[disabled] & {
+		&,
+		&:hover,
+		&:focus,
+		&:active,
+		&.active {
+			background-color: $background;
+			border-color: $border;
+		}
+	}
+
+	.badge {
+		color: $background;
+		background-color: $color;
+	}
+}
+
+@mixin box-shadow($shadow...) {
+  @if $enable-shadows {
+    box-shadow: $shadow;
+  }
+}
+
+$brand-primary: #fff;
+$brand-danger: #e74c3c;
+$gray-darkest: #000;
+$gray: #777;
+$gray-lighter: #DEDEDE;
+$placeholder-text: #bbbbbb;
+$white: #fff;
+
 
 // Global Components
 .text-center {
@@ -18,11 +79,10 @@ body
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	@include body-font;
 }
 
 .text-muted {
-	color: $gray;
+	color: gray;
 }
 
 .text-primary {
@@ -41,9 +101,10 @@ a.active {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	@include heading-font;
+	font-family: $headings-font-family;
 	font-weight: 200;
 	padding: 30px 0px;
+	text-transform: uppercase;
 }
 
 p {
@@ -58,28 +119,30 @@ p {
 }
 
 .bg-light-gray {
-	background-color: $gray-lighter;
+	background-color: gray-lighter;
 }
 
 .bg-darkest-gray {
-	background-color: $gray-darkest;
+	background-color: $gray-800;
 }
 
 // Restyled Primary Buttons
 
 .btn-primary {
-	@include button-variant($white, $gray-darkest, $gray-darkest);
-	@include heading-font;
+	@include button-variant($white, $gray-800, $gray-800);
+	font-family: $headings-font-family;
 	font-weight: 200;
+	text-transform: uppercase;
 }
 
 .btn-xl-light {
 	@include button-variant($white, transparent, $white);
-	@include heading-font;
+	font-family: $headings-font-family;
 	font-weight: 200;
 	border-radius: 0px;
 	font-size: 18px;
 	padding: 10px 20px;
+	text-transform: uppercase;
 	-webkit-transition: color 0.5s, background-color 0.5s, -webkit-transform 0.5s;
 	transition: color 0.5s, background-color 0.5s, transform 2s;
 	  &:hover {
@@ -90,11 +153,12 @@ p {
 
 .btn-xl-dark {
 	@include button-variant(black, transparent, black);
-	@include heading-font;
+	font-family: $headings-font-family;
 	font-weight: 200;
 	border-radius: 0px;
 	font-size: 18px;
 	padding: 10px 20px;
+	text-transform: uppercase;
 	-webkit-transition: color 0.5s, background-color 0.5s, -webkit-transform 0.5s;
 	transition: color 0.5s, background-color 0.5s, transform 2s;
 	  &:hover {
@@ -122,7 +186,7 @@ header {
         color:$white;
         .intro-text {
             .intro-lead-in {
-                @include serif-font;
+                font-family: $font-family-base;
                 // font-style: italic;
                 font-size: 22px;
                 line-height: 22px;
@@ -130,11 +194,12 @@ header {
 								font-weight: 200;
             }
             .intro-heading {
-                @include heading-font;
+                font-family: $headings-font-family;
                 font-weight: 200;
                 font-size: 50px;
                 line-height: 50px;
-                margin-bottom: 25px;
+								margin-bottom: 25px;
+								text-transform: uppercase;
             }
         }
     }
@@ -144,7 +209,7 @@ header {
 			letter-spacing: 30px;
 		.intro-text {
 			.intro-lead-in {
-				@include serif-font;
+				font-family: $font-family-base;
 				// font-style: italic;
 				font-size: 40px;
 				line-height: 40px;
@@ -152,11 +217,12 @@ header {
 				font-weight: 200;
 			}
 			.intro-heading {
-				@include heading-font;
+				font-family: $headings-font-family;
 				font-weight: 200;
 				font-size: 75px;
 				line-height: 75px;
 				margin-bottom: 50px;
+				text-transform: uppercase;
 			}
 		}
 	}
@@ -173,7 +239,7 @@ section {
     }
     h3.section-subheading {
 		font-size: 16px;
-		@include serif-font;
+		font-family: $font-family-base;
 		text-transform: none;
 		font-style: italic;
 		font-weight: 400;
@@ -196,7 +262,7 @@ section {
 
 #events{
 	height: 100%;
-  background-color: $gray-lighter;
+  background-color: gray-lighter;
   color: black;
   h2, h3 {
     font-weight: 400;
@@ -298,17 +364,18 @@ section {
 }
 
 .modal-content {
-  background-color: black;
+	background-color: white;
+	color: black;
 }
 
 #pastor-social {
   padding: 0px;
   li {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    list-style-type: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    list-style-type: inline;
     a {
-      color: white;
+      color: black;
     }
   }
 }
@@ -344,22 +411,22 @@ section#contact{
 		box-shadow: none;
 	}
 	::-webkit-input-placeholder {
-	   @include heading-font;
+	   font-family: $headings-font-family;
 	   font-weight: 700;
 	   color: $placeholder-text;
 	}
 	:-moz-placeholder { /* Firefox 18- */
-	   @include heading-font;
+	   font-family: $headings-font-family;
 	   font-weight: 700;
 	   color: $placeholder-text;
 	}
 	::-moz-placeholder {  /* Firefox 19+ */
-	   @include heading-font;
+	   font-family: $headings-font-family;
 	   font-weight: 700;
 	   color: $placeholder-text;
 	}
 	:-ms-input-placeholder {
-	   @include heading-font;
+	   font-family: $headings-font-family;
 	   font-weight: 700;
 	   color: $placeholder-text;
 	}
@@ -374,13 +441,13 @@ footer {
 	text-align: center;
 	span.copyright {
 		line-height: 40px;
-		@include heading-font;
+		font-family: $headings-font-family;
 		text-transform: none;
 	}
 	ul.quicklinks {
 		margin-bottom: 0;
 		line-height: 40px;
-		@include heading-font;
+		font-family: $headings-font-family;
 		text-transform: none;
 	}
 }
@@ -392,7 +459,7 @@ ul.social-buttons {
 	li {
 		a {
 			display: block;
-			background-color: $gray-darkest;
+			background-color: $gray-800;
 			height: 40px;
 			width: 40px;
 			border-radius: 100%;
@@ -406,10 +473,14 @@ ul.social-buttons {
 	        &:hover,
 	        &:focus,
 	        &:active {
-				background-color: lighten($gray-darkest, 10%);
+				background-color: lighten($gray-800, 10%);
 	        }
 		}
 	}
+}
+
+button {
+	text-transform: capitalize;
 }
 
 .btn:focus,
