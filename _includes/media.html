@@ -29,7 +29,7 @@
                     <a href="{{ item.url | prepend: site.baseurl }}"><img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}" /></a>
                   </div>
                   {% endif %}
-                  <div class="card-block">
+                  <div class="card-block mx-3 my-3">
                     <h4 class="card-text"><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h4>
                     <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
                   </div>
