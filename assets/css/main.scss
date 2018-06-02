@@ -103,15 +103,15 @@ a.active {
 h1, h2, h3, h4, h5, h6 {
 	font-family: $headings-font-family;
 	font-weight: 200;
-	padding: 30px 0px;
+	margin: 20px 0px;
 	text-transform: uppercase;
 }
 
 p {
-	font-size: 20px;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	font-size: 22px;
+	margin: 15px 0px;
 	line-height: 1.6;
+	font-weight: 300;
 }
 
 .img-centered {
