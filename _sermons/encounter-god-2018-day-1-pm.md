@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- nKDzmQcKsms
 audio_id:
 - https://dl.dropboxusercontent.com/s/nvgiad0cof1koig/Encounter%20God%202018%20-%20Day%201%20PM.mp3?dl=0
 verses:
