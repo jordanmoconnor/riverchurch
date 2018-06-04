@@ -1,8 +1,7 @@
 ---
 layout: sermon
 image: https://riverrochester.com/uploads/encounter-2018.jpg
-video_id:
-- 02qLwY-Z6zI
+video_id: []
 audio_id:
 - https://dl.dropboxusercontent.com/s/ubm2hjljkcqtxlv/Encounter%20God%202018%20-%20Day%201%20AM.mp3?dl=0
 verses:
