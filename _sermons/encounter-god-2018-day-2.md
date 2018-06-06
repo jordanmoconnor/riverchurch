@@ -12,5 +12,4 @@ title: Encounter God 2018 - Day 2
 date: 2018-06-04 18:03:53 -0400
 categories: []
 tags: []
-published: false
 ---
