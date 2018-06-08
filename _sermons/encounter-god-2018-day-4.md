@@ -2,13 +2,14 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- SBZemAVljw4
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/lrbxknbkm3anjrg/Encounter%20God%202018%20-%20Day%204.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Encounter God 2018 - Day 4
-date: 2018-06-08 00:00:00 +0000
-published: false
+date: 2018-06-06 12:19:08 -0400
+categories: []
+tags: []
 ---
