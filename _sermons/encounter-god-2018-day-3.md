@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Encounter God 2018 - Day 3
-date: 2018-06-06 00:00:00 +0000
+date: 2018-06-05 17:43:06 -0400
 categories: []
 tags: []
 ---
