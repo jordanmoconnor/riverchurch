@@ -4,11 +4,13 @@ image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
 - none
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/5pc128jbxq2dtpp/Encounter%20God%202018%20-%20Day%206.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Encounter God 2018 - Day 6
-date: 2018-06-09 00:00:00 +0000
+date: 2018-06-08 21:04:40 -0400
+categories: []
+tags: []
 published: false
 ---
