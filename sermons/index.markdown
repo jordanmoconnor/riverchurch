@@ -47,7 +47,7 @@ navigation_weight: 4
 <div class="row justify-content-center">
 {% assign postsByYearMonth = site.sermons | group_by_exp:"sermon", "sermon.date | date: '%B %Y'"  %}
 {% for yearMonth in postsByYearMonth reversed %}
-<div class="col-md-12">
+<div class="col-md-6">
     <div class="card">
       <div class="card-body">
         <ul style="list-style: none">
