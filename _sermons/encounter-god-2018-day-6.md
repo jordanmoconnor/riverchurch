@@ -12,5 +12,4 @@ title: Encounter God 2018 - Day 6
 date: 2018-06-08 21:04:40 -0400
 categories: []
 tags: []
-published: false
 ---
