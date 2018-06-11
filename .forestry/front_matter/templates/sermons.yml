@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/pressing-on-towards-the-goal.md
 - _sermons/encounter-god-2018-day-6.md
 - _sermons/encounter-god-2018-day-5.md
 - _sermons/encounter-god-2018-day-4.md

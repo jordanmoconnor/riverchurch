@@ -43,7 +43,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- sermons/index.markdown
+- sermons/index.html
 - encounter.html
 - winter-revival-2017.html
 - spring-revival-2017.html
