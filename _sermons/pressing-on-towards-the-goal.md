@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- oHbAO4Ubi1A
 audio_id:
 - https://dl.dropboxusercontent.com/s/kxentucl5b5bf8b/Pressing%20On%20Towards%20The%20Goal.mp3?dl=0
 verses:
