@@ -28,17 +28,17 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/_events/christmas.md
 - _events/_events/victorious.md
 - _events/_events/new-years-eve.md
 - _events/_events/miracles.md
 - _events/_events/love-walk.md
-- _events/_events/lifestyle-of-the-believer.md
-- _events/_events/faith.md
 - _events/_events/dr-rodney-howard-brownr.md
-- _events/_events/covenant-prosperity-1.md
-- _events/_events/christmas.md
-- _events/_events/by-his-stripes.md
-- _events/_events/back-to-school-bash-1.md
-- _events/_events/angels-demons.md
+- _events/_events/lifestyle-of-the-believer.md
 - _events/_events/3-years.md
 - _events/life-of-jesus.md
+- _events/_events/covenant-prosperity-1.md
+- _events/_events/back-to-school-bash-1.md
+- _events/_events/angels-demons.md
+- _events/_events/faith.md
+- _events/_events/by-his-stripes.md

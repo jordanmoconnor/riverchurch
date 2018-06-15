@@ -43,13 +43,13 @@ fields:
   hidden: false
   default: ''
 pages:
+- beliefs.markdown
 - sermons/index.html
-- encounter.html
 - winter-revival-2017.html
+- gwc.html
+- encounter.html
+- getinvolved.markdown
+- index.html
 - spring-revival-2017.html
 - kids.html
-- index.html
-- gwc.html
-- getinvolved.markdown
 - events.markdown
-- beliefs.markdown
