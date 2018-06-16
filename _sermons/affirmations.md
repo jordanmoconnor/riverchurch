@@ -12,5 +12,4 @@ title: Affirmations
 date: 2018-06-13 10:01:52 -0400
 categories: []
 tags: []
-published: false
 ---
