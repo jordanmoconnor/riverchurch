@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- zNXPbWiSgo4
 audio_id:
 - https://dl.dropboxusercontent.com/s/hkrabz0qwrmr50t/The%20Will%20Of%20God.mp3?dl=0
 verses:
