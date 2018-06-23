@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/the-will-of-god.md
 - _sermons/the-godly-father.md
 - _sermons/affirmations.md
 - _sermons/encounter-god-2018-day-5.md
