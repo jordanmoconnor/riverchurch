@@ -12,5 +12,4 @@ title: The Will Of God
 date: 2018-06-20 09:28:31 -0400
 categories: []
 tags: []
-published: false
 ---
