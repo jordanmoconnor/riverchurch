@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: media-page
 title: Biblical Affirmations
 ---
 
@@ -11,7 +11,7 @@ title: Biblical Affirmations
 
 # Biblical Affirmations
 
-### Speaking God’s Word Over Your Life
+`Speaking God’s Word Over Your Life`
 
 <a class="my-3" href="{{ '/biblical-affirmations.pdf' | absolute_url }}"><button class="btn btn-xl-dark">Download PDF Version</button></a>
 
@@ -33,7 +33,7 @@ Thank You Father God, Christ has redeemed me from the curse of the law. The curs
 
 Thank You Father God, I am blessed. This means everything that I set my hand to is blessed!  The Lord has opened His good treasure to me. The Lord causes me to be plenteous in goods. My storehouses, which include my bank accounts, are blessed. I lend to many and borrow from none. I am blessed going in and I am blessed going out. I am blessed in the city and in the country. Blessed is the fruit of my body, the produce of my ground and the increase of my herds or my business(es).  Whatever carries my resources is blessed, whatever produces my food is blessed. The Lord has opened the heavens to give me rain in its season. Any enemy that rises against me will easily be defeated. The land that I am living in is blessed. People all around the world will see that I belong to God and that He has blessed me. I am the head and not the tail. I am above only and not beneath. I am blessed!
 
-* *Galatians 3:13-14, Hebrews 8:6, Deuteronomy 28 (Blessings v.1-14, curse v.15-68)
+* *Galatians 3:13-14, Hebrews 8:6, Deuteronomy 28 (Blessings v.1-14, curse v.15-68)*
 
 Thank You Father God, You always lead me in triumph in Christ. Jesus disarmed the devil and He triumphed over him, therefore I triumph over the devil. I am an overcomer because I have the greater one living in me. I am well able to do anything because Jesus Christ gives me strength. I have the wisdom of God in me. I have the mind of Christ. You always give me the victory through Jesus Christ. 
 
@@ -77,7 +77,7 @@ Thank You Father God, You are meeting all of my needs according to Your riches i
 
 ## SPEAKING THE WORD
 
-### Foundational Scriptures
+`Foundational Scriptures`
 
 *Proverbs 18:20-21*
 *Mark 11:22 -24*
