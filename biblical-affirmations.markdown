@@ -8,7 +8,7 @@ navigation_weight: 3
   #content li {
     list-style-type: none;
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
   }
   code {
     color: black;
