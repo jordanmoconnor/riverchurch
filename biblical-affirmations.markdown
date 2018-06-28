@@ -17,7 +17,7 @@ navigation_weight: 3
 
 # Biblical Affirmations
 
-`Speaking God’s Word Over Your Life`
+**SPEAKING GOD'S WORD OVER YOUR LIFE**
 
 <a class="my-3" href="{{ '/biblical-affirmations.pdf' | absolute_url }}"><button class="btn btn-xl-dark">Download PDF Version</button></a>
 
@@ -85,7 +85,7 @@ Thank You Father God, You are meeting all of my needs according to Your riches i
 
 ## SPEAKING THE WORD
 
-`Foundational Scriptures`
+**FOUNDATIONAL SCRIPTURES**
 
 *Proverbs 18:20-21*, 
 *Mark 11:22 -24*, 
