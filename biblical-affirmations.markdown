@@ -96,4 +96,4 @@ Thank You Father God, You are meeting all of my needs according to Your riches i
 *James 1:5 -6*,
 *James 1:17*,
 *1 John 3:22*,
-*1 John 5:14-15*,
+*1 John 5:14-15*.
