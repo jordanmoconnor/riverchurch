@@ -9,6 +9,9 @@ title: Biblical Affirmations
     font-size: 20px;
     font-weight: 200;
   }
+  code {
+    color: black;
+  }
 </style>
 
 # Biblical Affirmations
