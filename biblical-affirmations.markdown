@@ -81,14 +81,14 @@ Thank You Father God, You are meeting all of my needs according to Your riches i
 
 `Foundational Scriptures`
 
-*Proverbs 18:20-21*
-*Mark 11:22 -24*
-*Matthew 21:-22*
-*John 14:13 -14*
-*John 15:7, 16*
-*John 16:23-24*
-*Matthew 18:19*
-*James 1:5 -6*
-*James 1:17*
-*1 John 3:22*
-*1 John 5:14-15*
+*Proverbs 18:20-21*, 
+*Mark 11:22 -24*, 
+*Matthew 21:-22*,
+*John 14:13 -14*,
+*John 15:7, 16*,
+*John 16:23-24*,
+*Matthew 18:19*,
+*James 1:5 -6*,
+*James 1:17*,
+*1 John 3:22*,
+*1 John 5:14-15*,
