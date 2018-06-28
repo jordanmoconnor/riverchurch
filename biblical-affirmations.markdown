@@ -19,6 +19,8 @@ Listed below are a series of affirmations that are based directly on the Word of
 
 If you would like teaching or have questions about the importance of speaking God’s Word, refer to the foundational scriptures at the end of this document or contact us via https://riverrochester.com.
 
+-----
+
 ## VICTORIOUS LIVING
 
 Thank You Father God, I am the Body Christ, I was crucified with Christ, I died with Christ, I was buried with Christ, I was raised with Christ, I was seated with Christ, therefore I rule and reign with Christ. 
