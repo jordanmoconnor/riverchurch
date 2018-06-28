@@ -7,6 +7,7 @@ title: Biblical Affirmations
   li {
     list-style-type: none;
     font-size: 22px;
+    font-weight: 200;
   }
 </style>
 
