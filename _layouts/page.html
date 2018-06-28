@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-{% include page-header.html %}
+{% if page.header-image != null %}{% include page-header.html %}{% endif %}
 <section>
     <div class="container my-3">
         {{content}}
