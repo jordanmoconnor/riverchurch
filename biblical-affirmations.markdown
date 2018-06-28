@@ -4,7 +4,7 @@ title: Biblical Affirmations
 ---
 
 <style>
-  li {
+  #content li {
     list-style-type: none;
     font-size: 22px;
     font-weight: 200;
