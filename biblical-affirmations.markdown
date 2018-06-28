@@ -7,7 +7,7 @@ title: Biblical Affirmations
 
 > Speaking God’s Word Over Your Life
 
-< a href="{{ /biblical-affirmations.pdf | absolute_url }}"><button class="btn btn-xl-dark">Download PDF Version </button></a>
+<a class="my-3" href="{{ '/biblical-affirmations.pdf' | absolute_url }}"><button class="btn btn-xl-dark">Download PDF Version</button></a>
 
 Listed below are a series of affirmations that are based directly on the Word of God. Speak the affirmations **out loud every day**, or multiple times a day, as often as you can! Read the scriptures that correlate with each affirmation (see John 15:7). 
 
