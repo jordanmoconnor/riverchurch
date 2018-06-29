@@ -1,6 +1,7 @@
 ---
 layout: media-page
 title: Biblical Affirmations
+image: '/uploads/biblical-affirmations.jpg'
 navigation_weight: 8
 ---
 
