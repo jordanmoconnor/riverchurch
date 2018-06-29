@@ -43,8 +43,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- beliefs.markdown
 - sermons/index.html
+- beliefs.markdown
 - winter-revival-2017.html
 - gwc.html
 - encounter.html
