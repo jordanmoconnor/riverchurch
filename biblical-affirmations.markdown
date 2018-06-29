@@ -4,7 +4,6 @@ title: Biblical Affirmations
 image: '/uploads/biblical-affirmations.jpg'
 navigation_weight: 8
 ---
-
 <style>
   #content li {
     list-style-type: none;
@@ -99,3 +98,16 @@ Thank You Father God, You are meeting all of my needs according to Your riches i
 *James 1:17*,
 *1 John 3:22*,
 *1 John 5:14-15*.
+
+ <script id="bw-highlighter-config" data-version="AMP">
+(function(w, d, s, e, id) {
+  w._bhparse = w._bhparse || [];
+  function l() {
+    if (d.getElementById(id)) return;
+    var n = d.createElement(s), x = d.getElementsByTagName(s)[0];
+    n.id = id; n.async = true; n.src = '//bibles.org/linker/js/client.js';
+    x.parentNode.insertBefore(n, x);
+  }
+  (w.attachEvent) ? w.attachEvent('on' + e, l) : w.addEventListener(e, l, false);
+})(window, document, 'script', 'load', 'bw-highlighter-src');
+</script>  
