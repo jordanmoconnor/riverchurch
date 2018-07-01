@@ -3,7 +3,25 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
-collections: 
+collections:
+- path: _uploads
+  label: Uploads
+  create: all
+- path: _posts
+  label: Posts
+  create: all
+- path: _events
+  label: Events
+  create: all
+- path: _sermons
+  label: Sermons
+  create: all
+- path: _teachings
+  label: Teachings
+  create: all
+- path: ''
+  label: Pages
+  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
