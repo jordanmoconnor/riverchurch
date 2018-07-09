@@ -1,4 +1,5 @@
 ---
+label: Events
 hide_body: false
 is_partial: false
 fields:
@@ -28,17 +29,17 @@ fields:
   hidden: false
   default: ''
 pages:
-- _drafts/_events/victorious.md
-- _drafts/_events/new-years-eve.md
-- _drafts/_events/miracles.md
-- _drafts/_events/love-walk.md
-- _drafts/_events/lifestyle-of-the-believer.md
-- _drafts/_events/faith.md
-- _drafts/_events/dr-rodney-howard-brownr.md
-- _drafts/_events/covenant-prosperity-1.md
-- _drafts/_events/christmas.md
-- _drafts/_events/by-his-stripes.md
-- _drafts/_events/back-to-school-bash-1.md
-- _drafts/_events/angels-demons.md
 - _drafts/_events/3-years.md
+- _drafts/_events/angels-demons.md
+- _drafts/_events/back-to-school-bash-1.md
+- _drafts/_events/by-his-stripes.md
+- _drafts/_events/christmas.md
+- _drafts/_events/covenant-prosperity-1.md
+- _drafts/_events/dr-rodney-howard-brownr.md
+- _drafts/_events/faith.md
+- _drafts/_events/lifestyle-of-the-believer.md
+- _drafts/_events/love-walk.md
+- _drafts/_events/miracles.md
+- _drafts/_events/new-years-eve.md
+- _drafts/_events/victorious.md
 - _events/life-of-jesus.md
