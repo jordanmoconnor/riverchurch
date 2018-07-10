@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Be The Light
-date: 2018-07-08 20:24:50 -0400
+date: 2018-07-08 13:24:50 -0400
 categories: []
 tags: []
 ---
