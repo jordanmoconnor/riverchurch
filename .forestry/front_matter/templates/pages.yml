@@ -45,12 +45,12 @@ fields:
   default: ''
 pages:
 - sermons/index.html
-- events.markdown
 - gwc.html
 - winter-revival-2017.html
 - index.html
 - kids.html
 - spring-revival-2017.html
+- events.markdown
 - beliefs.markdown
 - getinvolved.markdown
 - encounter.html
