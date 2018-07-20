@@ -9,7 +9,9 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: The Harvest Is Ready
-date: 2018-07-19 00:00:00 +0000
+date: 2018-07-18 23:19:18 -0400
+categories: []
+tags: []
 published: false
 
 ---
