@@ -197,8 +197,8 @@ header {
             .intro-heading {
                 font-family: $headings-font-family;
                 font-weight: 200;
-                font-size: 50px;
-                line-height: 50px;
+                font-size: 40px;
+                line-height: 40px;
 								margin-bottom: 25px;
 								text-transform: uppercase;
             }
@@ -300,6 +300,16 @@ section {
 	color:$white;
 }
 
+#rbi {
+background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('../img/rbi-bg.jpg');
+background-repeat: none;
+background-attachment: scroll;
+background-position: center center;
+@include background-cover;
+text-align: center;
+color:$white;
+}
+
 #merch {
     background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('../img/t-shirts.jpg');
 	background-repeat: none;
@@ -359,7 +369,7 @@ section {
 }
 
 @media(min-width:768px) {
-  #pastors, #kids, #help, #give, #encounter, #merch, #revival {
+  #pastors, #kids, #help, #give, #encounter, #merch, #revival, #rbi {
     background-attachment:fixed;
   }
 }
