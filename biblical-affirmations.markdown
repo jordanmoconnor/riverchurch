@@ -145,7 +145,7 @@ Thank You Father God, You are meeting all of my needs according to Your riches i
 *1 John 3:22*,
 *1 John 5:14-15*.
 
- <script id="bw-highlighter-config" data-version="NKJV">
+ <script id="bw-highlighter-config" data-version="KJV">
 (function(w, d, s, e, id) {
   w._bhparse = w._bhparse || [];
   function l() {
