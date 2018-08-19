@@ -9,7 +9,9 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Take Action On The Word
-date: 2018-08-19 00:00:00 +0000
+date: 2018-08-15 14:30:12 -0400
+categories: []
+tags: []
 published: false
 
 ---
