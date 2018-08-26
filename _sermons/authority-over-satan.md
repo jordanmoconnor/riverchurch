@@ -2,14 +2,15 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- gddkEkKERm4
 audio_id:
-- none
+- https://dl.dropboxusercontent.com/s/w5ka5lu92luju80/Authority%20Over%20Satan.mp3?dl=0
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Authority Over Satan
 date: 2018-08-26 00:00:00 +0000
-published: false
+categories: []
+tags: []
 
 ---
