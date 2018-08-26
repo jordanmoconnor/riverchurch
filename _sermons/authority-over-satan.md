@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Authority Over Satan
-date: 2018-08-26 00:00:00 +0000
+date: 2018-08-22 15:51:08 -0400
 categories: []
 tags: []
 
