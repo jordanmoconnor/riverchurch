@@ -56,6 +56,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/the-gift-in-you.md
 - _sermons/authority-over-satan.md
 - _sermons/take-action-on-the-word.md
 - _sermons/5-keys-to-success.md
