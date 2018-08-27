@@ -25,58 +25,43 @@ header-image: assets/img/help-bg.jpg
     </p>
   </div>
   <div class="control-group form-group center">
-    <h2>I'm interested in:</h2>
-    <div class="container">
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Worship">Worship</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Sound Board">Sound Board</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Housekeeping">Housekeeping</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Cafe">Cafe</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Photography">Photography</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Ushering">Ushering</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Greeting">Greeting</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Kid's Church">Kid's Church</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Media">Media</label>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="checkbox">
-          <label><input type="checkbox" name="interest" value="Other">Other (Please Specify)</label>
-        </div>
-      </div>
+  <h2>I'm interested in:</h2>
+  <div class="control-group form-group">
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Worship" class="form-check-input" id="worship">
+      <label class="form-check-label" for="worship">Worship</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Sound" class="form-check-input" id="sound">
+      <label class="form-check-label" for="sound">Sound Board</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Housekeeping" class="form-check-input" id="housekeeping">
+      <label class="form-check-label" for="housekeeping">Housekeeping</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Photography" class="form-check-input" id="photography">
+      <label class="form-check-label" for="photography">Photography</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Ushering" class="form-check-input" id="Ushering">
+      <label class="form-check-label" for="Ushering">Ushering</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Greeting" class="form-check-input" id="Greeting">
+      <label class="form-check-label" for="Greeting">Greeting</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Kids" class="form-check-input" id="Kids">
+      <label class="form-check-label" for="Kids">Kid's Church</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Media" class="form-check-input" id="Media">
+      <label class="form-check-label" for="Media">Media</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" name="interest" value="Other" class="form-check-input" id="Other-tasks">
+      <label class="form-check-label" for="Other">Other (Please Specify)</label>
     </div>
     <input type="text" class="form-control" name="other" placeholder="Other Tasks" id="other">
   </div>
