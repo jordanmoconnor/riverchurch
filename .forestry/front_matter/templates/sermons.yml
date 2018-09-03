@@ -56,6 +56,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/faith-makes-the-invisible-visible.md
 - _sermons/count-the-cost.md
 - _sermons/overcoming-fear.md
 - _sermons/operating-in-the-annointing.md
