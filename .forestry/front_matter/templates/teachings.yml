@@ -54,6 +54,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _sermons/count-the-cost.md
 - _teachings/kingdom-finances---gods-way-with--part-3.markdown
 - _teachings/should-christians-be-wealthy.markdown
 - _teachings/be-like-abraham.markdown
