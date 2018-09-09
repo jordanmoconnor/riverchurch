@@ -56,6 +56,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/rbi-kickoff-night-3.md
 - _sermons/rbi-kickoff-night-2.md
 - _sermons/rbi-kickoff-night-1.md
 - _sermons/faith-makes-the-invisible-visible.md
