@@ -20,6 +20,10 @@
             </div>
             <div class="col-lg-4">
                 <ul style="padding: 0px;">
+                    <li style="list-style-type:none;"><a href="{{ '/helps' | absolute_url }}">Helps Ministry</a>
+                    </li>
+                    <li style="list-style-type:none;"><a href="https://www.amazon.com/s/ref=w_bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=River+Merch">River Merch</a>
+                    </li>
                     {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
                     <li style="list-style-type:none;"><a href="{{ p.url }}">{{ p.title }}</a></li>
                     {% endif %} {% endfor %}

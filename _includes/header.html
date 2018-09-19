@@ -26,15 +26,13 @@
                             </p>
                         </div>
                     </div>
-                    {% assign items = site.sermons | sort: 'date' | reverse %}
-                    {% for item in items  limit:1 %}
                     <div class="row text-center justify-content-center">
                         <div class="col-md-6 latest-sermon m-3">
-                            <p class="intro-lead-in">{{ item.title | upcase }}</p>
-                            <a class="btn mb-4 btn-xl-light" href="{{ item.url | prepend: site.baseurl }}"><strong>Listen Now</strong></a>
+                            <p class="intro-lead-in">{{ 'New Here?' | upcase }}</p>
+                            <p class="lead">{{ 'Find out more about us' | upcase }}</p>
+                            <a class="btn mb-4 btn-xl-light" href="{{ '/new' | absolute_url }}"><strong>Learn More</strong></a>
                         </div>
                     </div>
-                    {% endfor %}
                 </div> 
             </div>
         </div>
