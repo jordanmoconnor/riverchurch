@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Fundamentals Of The Gospel
-date: 2018-09-30 00:00:00 +0000
+date: 2018-09-23 09:08:49 -0400
 categories: []
 tags: []
 
