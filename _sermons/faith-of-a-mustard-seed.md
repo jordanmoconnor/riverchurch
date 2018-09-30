@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Faith Of A Mustard Seed
-date: 2018-09-30 00:00:00 +0000
+date: 2018-09-19 09:07:35 -0400
 categories: []
 tags: []
 
