@@ -9,7 +9,9 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: The Highest Command
-date: 2018-10-03 00:00:00 +0000
+date: 2018-09-30 07:42:41 -0400
+categories: []
+tags: []
 published: false
 
 ---
