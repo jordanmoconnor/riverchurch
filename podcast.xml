@@ -1,4 +1,10 @@
 ---
-layout: podcast
 ---
 
+<!doctype html>
+<html>
+    <head>
+      <meta http-equiv="refresh" content="0; url=https://anchor.fm/s/4c61b60/podcast/rss">
+      <link rel="canonical" href="{{ '/podcast.xml' | absolute_url }}" />
+    </head>
+</html>
