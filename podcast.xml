@@ -1,3 +1,6 @@
----
-layout: podcast
----
+<?xml version="1.0" encoding="UTF-8"?>
+<redirect>
+  <newLocation>
+    https://anchor.fm/s/4c61b60/podcast/rss
+  </newLocation>
+</redirect>
