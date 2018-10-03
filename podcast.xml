@@ -1,6 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<redirect>
-  <newLocation>
-    https://anchor.fm/s/4c61b60/podcast/rss
-  </newLocation>
-</redirect>
+---
+---
+
+<xml version="1.0" encoding="UTF-8"?>
+    <title>{{ site.title }}</title>
+    <htmlData><![CDATA[<html>
+        <head>
+            <meta http-equiv="refresh" content="0;url=https://anchor.fm/s/4c61b60/podcast/rss" />
+        </head>
+        </html>
+     ]]>
+    </htmlData>
+</xml>
