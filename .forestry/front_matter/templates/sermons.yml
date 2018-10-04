@@ -56,8 +56,9 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
-- _sermons/the-highest-command.md
+- _sermons/heavenly-boldness.md
 - _sermons/3-steps-to-walking-in-confidence.md
+- _sermons/the-highest-command.md
 - _sermons/fundamentals-of-the-gospel.md
 - _sermons/faith-of-a-mustard-seed.md
 - _sermons/full-armor-of-god.md
