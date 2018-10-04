@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: Heavenly Boldness
-date: 2018-10-04 00:00:00 +0000
+date: 2018-10-03 14:25:46 -0400
 categories: []
 tags: []
 
