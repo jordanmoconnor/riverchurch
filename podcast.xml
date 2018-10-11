@@ -1,3 +1,8 @@
-<script xmlns="http://www.w3.org/1999/xhtml"><![CDATA[
+---
+layout: podcast
+---
+
+<!-- <script xmlns="http://www.w3.org/1999/xhtml"><![CDATA[
 window.location.replace("https://anchor.fm/s/4c61b60/podcast/rss");
 ]]></script>
+ -->
