@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- nVeLA3PJQBc
 audio_id:
 - https://dl.dropboxusercontent.com/s/jzvlolp116it6k0/The%20Highest%20Command%20II.mp3?dl=0
 verses:
