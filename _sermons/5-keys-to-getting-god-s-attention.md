@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverrochester.com!
 title: 5 Keys To Getting God's Attention
-date: 2018-10-20 00:00:00 +0000
+date: 2018-10-14 07:49:44 -0400
 categories: []
 tags: []
 
