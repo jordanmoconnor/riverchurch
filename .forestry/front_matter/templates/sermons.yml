@@ -56,6 +56,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverrochester.com!
 pages:
+- _sermons/5-keys-to-getting-god-s-attention.md
 - _sermons/use-your-talents-to-lead.md
 - _sermons/3-steps-to-walking-in-confidence.md
 - _sermons/dream-like-a-drunk.md
