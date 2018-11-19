@@ -2,9 +2,9 @@
 title: By Faith
 layout: sermon
 video_id:
-- https://dl.dropboxusercontent.com/s/lg5mxpv937rrv9x/By%20Faith.mp3?dl=0
-audio_id:
 - none
+audio_id:
+- https://dl.dropboxusercontent.com/s/lg5mxpv937rrv9x/By%20Faith.mp3?dl=0
 image: https://riverrochester.com/assets/img/logos/logo-16x9.png
 verses:
 - none
