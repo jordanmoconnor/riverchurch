@@ -84,10 +84,10 @@ sass:
   style: compressed
 permalink: none
 plugins:
-- jekyll-archives
-- jekyll-sitemap
+# - jekyll-archives
+# - jekyll-sitemap
 - jekyll-seo-tag
-- jekyll-feed
+# - jekyll-feed
 exclude:
 - Gemfile
 - Gemfile.lock
