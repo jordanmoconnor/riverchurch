@@ -134,8 +134,24 @@
 
         <script>
             $(function () {
-                toggleStickyNav();
-                
+                toggleStickyNav();   
+                $('.navbar-toggler').click(function() {
+                    if($(window).scrollTop() > 0) {
+                        console.log("scroll > 0");
+                        $(".navbar").removeClass('navbar-dark');
+                        $(".navbar").addClass('navbar-light');
+                        $(".navbar").addClass('bg-light');
+                        $(".give").removeClass('btn-outline-light');
+                        $(".give").addClass('btn-outline-dark');
+                    } else {
+                        console.log("scroll == 0");
+                        $(".navbar").toggleClass('navbar-dark');
+                        $(".navbar").toggleClass('navbar-light');
+                        $(".navbar").toggleClass('bg-light');
+                        $(".give").toggleClass('btn-outline-light');
+                        $(".give").toggleClass('btn-outline-dark');
+                    }
+                });
                 $(document).scroll(function () {
                     toggleStickyNav();
                 });
@@ -143,7 +159,7 @@
             function toggleStickyNav() {
                 var $nav = $(".navbar");
                 var $give = $(".give");
-                if($(this).scrollTop() > $nav.height()) {
+                if($(this).scrollTop() > 0) {
                         $nav.removeClass('navbar-dark');
                         $nav.addClass('navbar-light');
                         $nav.addClass('bg-light');
