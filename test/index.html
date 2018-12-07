@@ -17,6 +17,7 @@
         <meta name="msapplication-config" content="{{ '/assets/img/head/browserconfig.xml' | absolute_url }}">
         <meta name="theme-color" content="#ffffff">
         <!-- {% seo %} -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"></html>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -134,17 +135,34 @@
 
         <script>
             $(function () {
+                function isScrolledIntoView(elem) {
+                    var docViewTop = $(window).scrollTop();
+                    var docViewBottom = docViewTop + $(window).height();
+
+                    var elemTop = $(elem).offset().top;
+                    var elemBottom = elemTop + $(elem).height();
+
+                    return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+                }
+                // If element is scrolled into view, fade it in
+                $(window).scroll(function() {
+                    $('.scroll-animations .animated').each(function() {
+                    if (isScrolledIntoView(this) === true) {
+                        $(this).removeClass('invisible');
+                        $(this).addClass('fadeInUp fast');
+                    }
+                    });
+                });
+
                 toggleStickyNav();   
                 $('.navbar-toggler').click(function() {
                     if($(window).scrollTop() > 0) {
-                        console.log("scroll > 0");
                         $(".navbar").removeClass('navbar-dark');
                         $(".navbar").addClass('navbar-light');
                         $(".navbar").addClass('bg-light');
                         $(".give").removeClass('btn-outline-light');
                         $(".give").addClass('btn-outline-dark');
                     } else {
-                        console.log("scroll == 0");
                         $(".navbar").toggleClass('navbar-dark');
                         $(".navbar").toggleClass('navbar-light');
                         $(".navbar").toggleClass('bg-light');
@@ -221,13 +239,13 @@
         <div class="section split pastors fill-space text-white">
             <div class="container-fluid full-height">
                 <div class="row h-100">
-                    <div class="col-md left-side">
-                        <h2 class="pastor-header">Pastors</br> 
+                    <div class="col-md left-side scroll-animations">
+                        <h2 class="pastor-header animated invisible">Pastors</br> 
                         Jeremiah</br>                      
                         &</br>                  
                         Julia</h2>                      
-                        <div class="eyebrow-feature-text">Our Mission</div>
-                        <p class="mr-5 mb-5"> We are a church located in Brockport, NY that is impacting our region with the gospel of Jesus Christ. We would love to have you come and be a part of what God is doing here. </p> 
+                        <div class="eyebrow-feature-text animated invisible">Our Mission</div>
+                        <p class="mr-5 mb-5 animated invisible"> We are a church located in Brockport, NY that is impacting our region with the gospel of Jesus Christ. We would love to have you come and be a part of what God is doing here. </p> 
                     </div>
                     <div class="col-md right-side pastors-bg">
                     </div>
@@ -236,16 +254,16 @@
         </div>
 
         <div class="section text-center bg-light">
-            <div class="container py-5">
-                <div class="eyebrow-feature-text">
+            <div class="container py-5 scroll-animations">
+                <div class="eyebrow-feature-text animated invisible">
                     Events
                 </div>
                 <div class="row">
                     <div class="col-md mb-5">
-                        <h2 class="mx-auto">What's Going On</h2>
+                        <h2 class="mx-auto animated invisible">What's Going On</h2>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row animated invisible">
                     <div class="col-md">
                         <img src="https://scontent-ort2-1.cdninstagram.com/vp/8f1e5251f0b9f9db6b8c4e429a1a9778/5C9AD40A/t51.2885-15/e35/46005725_259590981398671_5657863543849202846_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-5">
                     </div>
@@ -256,7 +274,7 @@
                         <img src="https://scontent-ort2-1.cdninstagram.com/vp/aa6436c24eb3de873ed2cbfa61701c7e/5C93F78F/t51.2885-15/sh0.08/e35/s640x640/38446196_1746329392087522_5201294687826083840_n.jpg" alt="" class="w-100 image-fluid my-5">
                     </div>
                 </div>
-                <div class="row">
+                <div class="row animated invisible">
                         <div class="col-md">
                             <img src="https://scontent-ort2-1.cdninstagram.com/vp/8f1e5251f0b9f9db6b8c4e429a1a9778/5C9AD40A/t51.2885-15/e35/46005725_259590981398671_5657863543849202846_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-5">
                         </div>
@@ -273,10 +291,10 @@
         <div class="section full-height split kids fill-space">
             <div class="container-fluid h-100">
                 <div class="row h-100">
-                    <div class="col-md left-side">
-                        <div class="eyebrow-feature-text">Kids Church</div>
-                        <h2>We've got <br>you covered.</h2>
-                        <p>River Kids is designed with you and your children in mind. We want to partner with you as you lead your children in a growing relationship with Jesus. We strive to create a safe and fun environment for your children to learn and grow in the things of God.</p>
+                    <div class="col-md left-side scroll-animations">
+                        <div class="eyebrow-feature-text animated invisible bounceInDown animated invisible">Kids Church</div>
+                        <h2 class="animated invisible">We've got <br>you covered.</h2>
+                        <p class="animated invisible">River Kids is designed with you and your children in mind. We want to partner with you as you lead your children in a growing relationship with Jesus. We strive to create a safe and fun environment for your children to learn and grow in the things of God.</p>
                     </div>
                     <div class="col-md right-side">
 
@@ -286,12 +304,12 @@
         </div>
 
         <div class="information section text-center">
-            <div class="container py-5">
-                <div class="eyebrow-feature-text">Location & Service Time</div>
-                <h2 class="mb-5">We can't wait to see you.</h2>
-                <p>Sundays: 10:30 AM</p>
-                <p>Wednesdays: 7:00 PM</p>
-                <p>3723 Sweden Walker Rd. Brockport, NY 14420</p>
+            <div class="container py-5 scroll-animations">
+                <div class="eyebrow-feature-text animated invisible">Location & Service Time</div>
+                <h2 class="mb-5 animated invisible">We can't wait to see you.</h2>
+                <p class="animated invisible">Sundays: 10:30 AM</p>
+                <p class="animated invisible">Wednesdays: 7:00 PM</p>
+                <p class="animated invisible">3723 Sweden Walker Rd. Brockport, NY 14420</p>
 
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11629.114255324164!2d-77.8906375!3d43.2246189!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd881d75c1eba2525!2sRiver+Church!5e0!3m2!1sen!2sus!4v1527937292977" style="width: 100%;height: 500px;" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
