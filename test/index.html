@@ -131,6 +131,32 @@
                 padding-top: 10px;
                 padding-bottom: 10px;
             }
+
+            /* .animated {
+                visibility: hidden;
+                -webkit-transition: all 0.5s linear;
+                -moz-transition: all 0.5s linear;
+                -o-transition: all 0.5s linear;
+                transition: all 0.5s linear;
+            }
+
+            .animated.fadeInUp {
+                visibility: visible;
+            } */
+
+            .navbar-light {
+                -webkit-transition: all 0.5s linear;
+                -moz-transition: all 0.5s linear;
+                -o-transition: all 0.5s linear;
+                transition: all 0.5s linear;
+            }
+            .navbar-dark {
+                -webkit-transition: all 0.5s linear;
+                -moz-transition: all 0.5s linear;
+                -o-transition: all 0.5s linear;
+                transition: all 0.5s linear;
+            }
+
         </style>
 
         <script>
@@ -147,11 +173,18 @@
                 // If element is scrolled into view, fade it in
                 $(window).scroll(function() {
                     $('.scroll-animations .animated').each(function() {
+                        if (isScrolledIntoView(this) === true) {
+                            $(this).removeClass('invisible');
+                            $(this).addClass('fadeIn fast');
+                        }
+                    });
+                });
+
+                $('.scroll-animations .animated').each(function() {
                     if (isScrolledIntoView(this) === true) {
                         $(this).removeClass('invisible');
-                        $(this).addClass('fadeInUp fast');
+                        $(this).addClass('fadeIn fast');
                     }
-                    });
                 });
 
                 toggleStickyNav();   
@@ -194,13 +227,13 @@
         </script>
     </head>
     <body>
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-light">
-            <a class="navbar-brand" href="#"><h1>River Church</h1></a>
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-light scroll-animations">
+            <a class="navbar-brand animated" href="#"><h1>River Church</h1></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon animated"></span>
             </button>
             
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse animated" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto text-center">
                     <li class="nav-item active">
                         <a class="nav-link" href="https://instagram.com/riverrochester"><i class="fab fa-instagram fa-3x"></i></a>
@@ -259,30 +292,30 @@
                     Events
                 </div>
                 <div class="row">
-                    <div class="col-md mb-5">
+                    <div class="col-md mb-5 scroll-animations">
                         <h2 class="mx-auto animated invisible">What's Going On</h2>
                     </div>
                 </div>
-                <div class="row animated invisible">
+                <div class="row scroll-animations">
                     <div class="col-md">
-                        <img src="https://scontent-ort2-1.cdninstagram.com/vp/8f1e5251f0b9f9db6b8c4e429a1a9778/5C9AD40A/t51.2885-15/e35/46005725_259590981398671_5657863543849202846_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-5">
+                        <img src="https://scontent-ort2-1.cdninstagram.com/vp/8f1e5251f0b9f9db6b8c4e429a1a9778/5C9AD40A/t51.2885-15/e35/46005725_259590981398671_5657863543849202846_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-3 animated invisible">
                     </div>
                     <div class="col-md">
-                        <img src="https://scontent-ort2-1.cdninstagram.com/vp/f7d1e443be37500667a2d65bbeabba50/5CAA3FD8/t51.2885-15/sh0.08/e35/s640x640/43985678_353707735398087_3119116915217744259_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-5">
+                        <img src="https://scontent-ort2-1.cdninstagram.com/vp/f7d1e443be37500667a2d65bbeabba50/5CAA3FD8/t51.2885-15/sh0.08/e35/s640x640/43985678_353707735398087_3119116915217744259_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-3 animated invisible">
                     </div>
                     <div class="col-md">
-                        <img src="https://scontent-ort2-1.cdninstagram.com/vp/aa6436c24eb3de873ed2cbfa61701c7e/5C93F78F/t51.2885-15/sh0.08/e35/s640x640/38446196_1746329392087522_5201294687826083840_n.jpg" alt="" class="w-100 image-fluid my-5">
+                        <img src="https://scontent-ort2-1.cdninstagram.com/vp/aa6436c24eb3de873ed2cbfa61701c7e/5C93F78F/t51.2885-15/sh0.08/e35/s640x640/38446196_1746329392087522_5201294687826083840_n.jpg" alt="" class="w-100 image-fluid my-3 animated invisible">
                     </div>
                 </div>
-                <div class="row animated invisible">
+                <div class="row scroll-animations">
                         <div class="col-md">
-                            <img src="https://scontent-ort2-1.cdninstagram.com/vp/8f1e5251f0b9f9db6b8c4e429a1a9778/5C9AD40A/t51.2885-15/e35/46005725_259590981398671_5657863543849202846_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-5">
+                            <img src="https://scontent-ort2-1.cdninstagram.com/vp/8f1e5251f0b9f9db6b8c4e429a1a9778/5C9AD40A/t51.2885-15/e35/46005725_259590981398671_5657863543849202846_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-3 animated invisible">
                         </div>
                         <div class="col-md">
-                            <img src="https://scontent-ort2-1.cdninstagram.com/vp/f7d1e443be37500667a2d65bbeabba50/5CAA3FD8/t51.2885-15/sh0.08/e35/s640x640/43985678_353707735398087_3119116915217744259_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-5">
+                            <img src="https://scontent-ort2-1.cdninstagram.com/vp/f7d1e443be37500667a2d65bbeabba50/5CAA3FD8/t51.2885-15/sh0.08/e35/s640x640/43985678_353707735398087_3119116915217744259_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com" alt="" class="w-100 image-fluid my-3 animated invisible">
                         </div>
                         <div class="col-md">
-                            <img src="https://scontent-ort2-1.cdninstagram.com/vp/aa6436c24eb3de873ed2cbfa61701c7e/5C93F78F/t51.2885-15/sh0.08/e35/s640x640/38446196_1746329392087522_5201294687826083840_n.jpg" alt="" class="w-100 image-fluid my-5">
+                            <img src="https://scontent-ort2-1.cdninstagram.com/vp/aa6436c24eb3de873ed2cbfa61701c7e/5C93F78F/t51.2885-15/sh0.08/e35/s640x640/38446196_1746329392087522_5201294687826083840_n.jpg" alt="" class="w-100 image-fluid my-3 animated invisible">
                         </div>
                     </div>
             </div>  
