@@ -38,23 +38,32 @@
             .navbar-light .navbar-nav .nav-link {
                 color: #000;
             }
-            .splash .carousel-item {
-                background-position: center center;
-                background-size: cover;
-                height: 100vh;
+
+            .christmas-font {
+                font-family: Gastromond, sans-serif;
             }
-            .splash .carousel-caption {
+            .splash {
+                position: relative;
+            }
+            .splash video {
+                width: 100%;
+            }
+            .splash h1 {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: #fff;
                 font-size: 12vw;
-                font-weight: bold;
-                bottom: 35%;
-                line-height: 1;
-                left: 0;
-                right: 0;
+                text-align: center;
             }
-            @media (max-width: 767px) {
-                .splash .carousel-caption {
-                    font-size: 21vw;
-                }
+            .splash .overlay {
+                position: absolute;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                background: rgba(0, 0, 0, 0.1);
             }
 
             .pastor-header {
@@ -156,7 +165,7 @@
         </style>
     </head>
     <body>
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top navbar-light scroll-animations">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top scroll-animations">
             <a class="navbar-brand animated" href="#"><h3>River Church</h3></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon animated"></span>
@@ -182,20 +191,11 @@
         </nav>
 
         <div class="splash">
-            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active full-height scroll-animations" style="background-image: url('https://images.unsplash.com/photo-1528828085966-aff4e01c5f2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80');">
-                        <div class="carousel-caption d-md-block animated">
-                            Welcome home.
-                        </div>
-                    </div>
-                    <div class="carousel-item full-height scroll-animations" style="background-image: url('https://images.unsplash.com/photo-1522158637959-30385a09e0da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80');">
-                        <div class="carousel-caption d-md-block animated">
-                            You belong.
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <div class="overlay"></div>
+            <video id="splash-video" autoplay loop muted poster="/assets/img/christmas-header.png">
+                <source src="/assets/img/christmas-min.mp4" type="video/mp4">
+            </video>
+            <h1 class="christmas-font">Season's Greetings</h1>
         </div>
 
         <div class="section split pastors fill-space text-white">
@@ -299,6 +299,8 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
         <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
         <script>
+          document.getElementById('splash-video').playbackRate = 0.5;
+
           $(function () {
             function isScrolledIntoView(elem) {
               var docViewTop = $(window).scrollTop();
