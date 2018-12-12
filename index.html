@@ -45,10 +45,22 @@
             .splash {
                 position: relative;
                 font-size: 0;
+                overflow: hidden;
+                background-attachment: fixed;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
             }
             .splash video {
-                width: 100%;
-            }
+                right: 0; 
+                bottom: 0;
+                min-width: 100%; 
+                min-height: 100%;
+                width: auto; 
+                height: auto;
+                z-index: -100;
+                }
             .splash h1 {
                 position: absolute;
                 top: 50%;
@@ -88,7 +100,7 @@
             /** General **/
             @media (min-width: 768px) {
                 .full-height {
-                    height: 93vh;
+                    height: 100vh;
                 }
             }
             .eyebrow-feature-text {
@@ -194,8 +206,17 @@
                     <li class="nav-item">
                         <a class="nav-link" href="https://facebook.com/riverbrockport">Facebook</a>
                     </li>
+                    <li id="bordered" class="nav-item ">
+                        <a id="bordered-link" class="nav-link" href="https://youtube.com/riverrochester">YouTube</a>
+                    </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://youtube.com/riverrochester">YouTube</a>
+                        <a class="nav-link" href="#pastors">Our Pastors</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#christmas">Christmas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="#info">Information</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://cash.me/riverrochester"><button class="btn btn-lg give">G I V E</button></a>
@@ -213,7 +234,7 @@
             <h1 class="christmas-font">Season's Greetings</h1>
         </div>
 
-        <div class="section split pastors fill-space text-white">
+        <div id="pastors" class="section split pastors fill-space text-white">
             <div class="container-fluid full-height">
                 <div class="row h-100">
                     <div class="col-md left-side scroll-animations">
@@ -230,7 +251,7 @@
             </div>
         </div>
 
-        <div class="section christmas bg-christmas text-center text-white">
+        <div id="christmas" class="section christmas bg-christmas text-center text-white">
                 <div class="container py-5 scroll-animations">
                     <div class="eyebrow-feature-text animated invisible">
                             Join Us For
@@ -241,44 +262,40 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-12 embed-responsive embed-responsive-16by9">
+                        <div class="col-md-12 embed-responsive embed-responsive-16by9 mx-1">
                                 <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/HF43bOF5UpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div class="row my-5">
-                            <div class="card-deck">
-                            <div class="card border-0 bg-white my-3 rounded-0 shadow-lg text-dark">
-                                <div class="card-body bg-light-christmas">
+                        <div class="card-deck">
+                            <div class="card border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
+                                <div class="card-body animated bg-light-christmas">
                                     <h5 class="card-title ">DEC. 19</h5>
                                     <h1 class="card-text christmas-font mb-4">Toy Giveaway</h1>
                                     <p class="card-text">A gift for every child! Register now.</p>
                                     <a href="https://www.facebook.com/events/354728845283645/" class="btn btn-outline-dark">Learn More</a>
                                 </div>
                             </div>
-                        
-                                <div class="card animated border-0 bg-white my-3 rounded-0 shadow-lg text-dark">
-                                    <div class="card-body bg-light-christmas">
-                                        <h5 class="card-title">DEC. 25</h5>
-                                        <h1 class="card-text christmas-font mb-4">Candlelight Service</h1>
-                                        <p class="card-text">Join us Christmas Eve to celebrate the birth of Jesus.</p>
-                                        <a href="https://www.facebook.com/events/346158812842392/" class="btn btn-outline-dark">Learn More</a>
-                                    </div>
+                            <div class="card border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
+                                <div class="card-body animated bg-light-christmas">
+                                    <h5 class="card-title">DEC. 25</h5>
+                                    <h1 class="card-text christmas-font mb-4">Candlelight Service</h1>
+                                    <p class="card-text">Join us Christmas Eve to celebrate the birth of Jesus.</p>
+                                    <a href="https://www.facebook.com/events/346158812842392/" class="btn btn-outline-dark">Learn More</a>
                                 </div>
-                            
-                                    <div class="card animated border-0 bg-white my-3 rounded-0 shadow-lg text-dark">
-                                        <div class="card-body bg-light-christmas">
-                                            <h5 class="card-title ">DEC. 23</h5>
-                                            <h1 class="card-text christmas-font mb-4">Christmas Service</h1>
-                                            <p class="card-text mb-4">Join us Sunday morning to celebrate Christmas and see the kids perform their special performance!</p>
-                                        </div>
-                                    </div>
-                                </div>        
+                            </div>
+                            <div class="card border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
+                                <div class="card-body animated bg-light-christmas">
+                                    <h5 class="card-title ">DEC. 23</h5>
+                                    <h1 class="card-text christmas-font mb-4">Christmas Service</h1>
+                                    <p class="card-text mb-4">Join us Sunday morning to celebrate Christmas and see the kids perform their special performance!</p>
+                                </div>
+                            </div>
+                        </div>        
                     </div>
                 </div>
             </div>
-    
-
-        <div class="section full-height split kids fill-space">
+        <div id="kids" class="section full-height split kids fill-space">
             <div class="container-fluid h-100">
                 <div class="row h-100">
                     <div class="col-md left-side scroll-animations">
@@ -293,7 +310,7 @@
             </div>
         </div>
 
-        <div class="information section text-center">
+        <div id="info" class="information section text-center">
             <div class="container py-5 scroll-animations">
                 <div class="eyebrow-feature-text animated invisible">Location & Service Time</div>
                 <h2 class="mb-5 animated invisible">We can't wait to see you.</h2>
@@ -393,6 +410,29 @@
               $give.removeClass('btn-outline-dark');
             }
           }
-        </script>
+
+            var $window = $(window);
+            if ($window.width() > 991) {
+                $('#bordered').addClass('border-right');
+                $('#bordered').addClass('mr-3');
+                $('#bordered-link').addClass('mr-3');
+            } else {
+                $('#bordered').removeClass('border-right');
+                $('#bordered').removeClass('mr-3');
+                $('#bordered-link').removeClass('mr-3');
+            }
+            function resize() {
+                if ($window.width() > 991) {
+                    $('#bordered').addClass('border-right');
+                    $('#bordered').addClass('mr-3');
+                    $('#bordered-link').addClass('mr-3');
+                } else {
+                    $('#bordered').removeClass('border-right');
+                    $('#bordered').removeClass('mr-3');
+                    $('#bordered-link').removeClass('mr-3');
+                }
+            }
+            $window.resize(resize).trigger('resize');
+            </script>
     </body>
 </html>
