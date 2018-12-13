@@ -174,10 +174,6 @@
             .text-christmas {
                 color: #a3c3b3;
             }
-
-            .section {
-                padding-top: 40px;
-            }
            
             @media ( max-width: 991px ) {
                 .card-deck {
@@ -223,7 +219,7 @@
 
         <div class="splash scroll-animations">
             <div class="overlay"></div>
-            <video id="splash-video" autoplay loop muted poster="/assets/img/christmas-header.png">
+            <video id="splash-video" autoplay loop muted playsinline poster="/assets/img/christmas-header.png">
                 <source src="/assets/img/christmas-min.mp4" type="video/mp4">
             </video>
             <h1 class="christmas-font animated invisible">Season's Greetings</h1>
@@ -232,7 +228,7 @@
         <div id="pastors" class="section split pastors fill-space text-white">
             <div class="container-fluid full-height">
                 <div class="row h-100">
-                    <div class="col-md left-side px-5 py-5 scroll-animations">
+                    <div class="col-md left-side px-md-5 px-3 py-5 scroll-animations">
                         <h2 class="pastor-header animated invisible">Pastors</br>
                         Jeremiah</br>
                         &</br>
@@ -264,24 +260,24 @@
                         </div>
                     </div>
                     <div class="row my-5 scroll-animations">
-                        <div class="card-deck animated invisible">
-                            <div class="card border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
+                        <div class="card-deck ">
+                            <div class="card animated invisible border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
                                 <div class="card-body bg-light-christmas">
                                     <h5 class="card-title ">DEC. 19</h5>
                                     <h1 class="card-text christmas-font mb-4">Toy Giveaway</h1>
                                     <p class="card-text">A gift for every child! Register now.</p>
-                                    <a href="https://www.facebook.com/events/354728845283645/" class="btn btn-outline-dark">Learn More</a>
+                                    <a href="https://www.facebook.com/events/354728845283645/" class="btn btn-lg btn-outline-dark">LEARN MORE</a>
                                 </div>
                             </div>
-                            <div class="card border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
+                            <div class="card animated invisible border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
                                 <div class="card-body bg-light-christmas">
                                     <h5 class="card-title">DEC. 25</h5>
                                     <h1 class="card-text christmas-font mb-4">Candlelight Service</h1>
                                     <p class="card-text">Join us Christmas Eve to celebrate the birth of Jesus.</p>
-                                    <a href="https://www.facebook.com/events/346158812842392/" class="btn btn-outline-dark">Learn More</a>
+                                    <a href="https://www.facebook.com/events/346158812842392/" class="btn btn-lg btn-outline-dark">LEARN MORE</a>
                                 </div>
                             </div>
-                            <div class="card border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
+                            <div class="card animated invisible border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
                                 <div class="card-body bg-light-christmas">
                                     <h5 class="card-title ">DEC. 23</h5>
                                     <h1 class="card-text christmas-font mb-4">Christmas Service</h1>
@@ -295,7 +291,7 @@
         <div id="kids" class="section full-height split kids fill-space">
             <div class="container-fluid h-100">
                 <div class="row h-100">
-                    <div class="col-md left-side px-5 py-5 scroll-animations">
+                    <div class="col-md left-side px-md-5 px-3 py-5 scroll-animations">
                         <div class="eyebrow-feature-text animated invisible bounceInDown animated invisible">Kids Church</div>
                         <h2 class="animated invisible">We've got <br>you covered.</h2>
                         <p class="animated invisible">River Kids is designed with you and your children in mind. We want to partner with you as you lead your children in a growing relationship with Jesus. We strive to create a safe and fun environment for your children to learn and grow in the things of God.</p>
@@ -313,9 +309,10 @@
                 <h2 class="mb-5 animated invisible">We can't wait to see you.</h2>
                 <p class="animated invisible"><strong>Sundays</strong>: 10:30 AM</p>
                 <p class="animated invisible"><strong>Wednesdays</strong>: 7:00 PM</p>
-                <p class="animated invisible text-uppercase">3723 Sweden Walker Rd. Brockport, NY 14420</p>
-
-                <iframe class="animated invisible" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11629.114255324164!2d-77.8906375!3d43.2246189!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd881d75c1eba2525!2sRiver+Church!5e0!3m2!1sen!2sus!4v1527937292977" style="width: 100%;height: 500px;" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <p class="animated invisible text-uppercase "><a class="text-dark" href="https://www.google.com/maps/place/River+Church/@43.224619,-77.890638,14z/data=!4m5!3m4!1s0x0:0xd881d75c1eba2525!8m2!3d43.2246189!4d-77.8906375?hl=en-US">3723 Sweden Walker Rd. Brockport, NY 14420</a></p>
+                <div class="w-100 my-5 embed-responsive embed-responsive-21by9">
+                    <iframe class="embed-responsive-item animated invisible" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11629.114255324164!2d-77.8906375!3d43.2246189!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd881d75c1eba2525!2sRiver+Church!5e0!3m2!1sen!2sus!4v1527937292977" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
             </div>
         </div>
 
@@ -343,7 +340,10 @@
         <script>
           document.getElementById('splash-video').playbackRate = 0.5;
           $('.navbar .nav-link').on('click', function(){
+                var $window = $(window);
+                if ($window.width() < 991) {
                 $('.navbar-toggler').click(); //bootstrap 4.x
+                }
             });
 
 
