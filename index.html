@@ -120,10 +120,6 @@
             /** END General **/
 
             .split .left-side {
-                padding-top: 60px;
-                padding-bottom: 60px;
-                padding-left: 40px;
-                padding-right: 40px;
                 display: flex;
                 flex-direction: column;
             }
@@ -177,6 +173,10 @@
 
             .text-christmas {
                 color: #a3c3b3;
+            }
+
+            .section {
+                padding-top: 40px;
             }
            
             @media ( max-width: 991px ) {
@@ -232,7 +232,7 @@
         <div id="pastors" class="section split pastors fill-space text-white">
             <div class="container-fluid full-height">
                 <div class="row h-100">
-                    <div class="col-md left-side scroll-animations">
+                    <div class="col-md left-side px-5 py-5 scroll-animations">
                         <h2 class="pastor-header animated invisible">Pastors</br>
                         Jeremiah</br>
                         &</br>
@@ -295,7 +295,7 @@
         <div id="kids" class="section full-height split kids fill-space">
             <div class="container-fluid h-100">
                 <div class="row h-100">
-                    <div class="col-md left-side scroll-animations">
+                    <div class="col-md left-side px-5 py-5 scroll-animations">
                         <div class="eyebrow-feature-text animated invisible bounceInDown animated invisible">Kids Church</div>
                         <h2 class="animated invisible">We've got <br>you covered.</h2>
                         <p class="animated invisible">River Kids is designed with you and your children in mind. We want to partner with you as you lead your children in a growing relationship with Jesus. We strive to create a safe and fun environment for your children to learn and grow in the things of God.</p>
@@ -342,8 +342,12 @@
         <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
         <script>
           document.getElementById('splash-video').playbackRate = 0.5;
+          $('.navbar .nav-link').on('click', function(){
+                $('.navbar-toggler').click(); //bootstrap 4.x
+            });
 
-          $(function () {
+
+          $(function () {            
             function isScrolledIntoView(elem) {
               var docViewTop = $(window).scrollTop();
               var docViewBottom = docViewTop + $(window).height();
