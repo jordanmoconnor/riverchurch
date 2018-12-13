@@ -404,11 +404,13 @@
               $give.removeClass('btn-outline-light');
               $give.addClass('btn-outline-dark');
             } else {
-              $nav.removeClass('navbar-light');
-              $nav.addClass('navbar-dark');
-              $nav.removeClass('bg-light');
-              $give.addClass('btn-outline-light');
-              $give.removeClass('btn-outline-dark');
+                if(!($("#navbarSupportedContent").hasClass("show"))) {
+                    $nav.removeClass('navbar-light');
+                    $nav.addClass('navbar-dark');
+                    $nav.removeClass('bg-light');
+                    $give.addClass('btn-outline-light');
+                    $give.removeClass('btn-outline-dark');
+                }
             }
           }
 
