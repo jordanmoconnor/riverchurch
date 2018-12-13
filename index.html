@@ -46,11 +46,6 @@
                 position: relative;
                 font-size: 0;
                 overflow: hidden;
-                background-attachment: fixed;
-                -webkit-background-size: cover;
-                -moz-background-size: cover;
-                -o-background-size: cover;
-                background-size: cover;
             }
             .splash video {
                 right: 0; 
@@ -226,12 +221,12 @@
             </div>
         </nav>
 
-        <div class="splash">
+        <div class="splash scroll-animations">
             <div class="overlay"></div>
             <video id="splash-video" autoplay loop muted poster="/assets/img/christmas-header.png">
                 <source src="/assets/img/christmas-min.mp4" type="video/mp4">
             </video>
-            <h1 class="christmas-font">Season's Greetings</h1>
+            <h1 class="christmas-font animated invisible">Season's Greetings</h1>
         </div>
 
         <div id="pastors" class="section split pastors fill-space text-white">
@@ -260,16 +255,16 @@
                     </div>
                     <div class="row scroll-animations">
                         <div class="col-md mb-5">
-                            <h1 class="mx-auto animated christmas-font invisible">Christmas</h1>
+                            <h1 class="mx-auto animated invisible christmas-font invisible">Christmas</h1>
                         </div>
                     </div>
-                    <div class="row justify-content-center">
-                        <div class="col-md-12 embed-responsive embed-responsive-16by9 mx-2">
+                    <div class="row justify-content-center scroll-animations">
+                        <div class="col-md-12 animated invisible embed-responsive embed-responsive-16by9 mx-2">
                                 <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/HF43bOF5UpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div class="row my-5 scroll-animations">
-                        <div class="card-deck animated">
+                        <div class="card-deck animated invisible">
                             <div class="card border-0 mx-3 bg-white my-3 rounded-0 shadow-lg text-dark">
                                 <div class="card-body bg-light-christmas">
                                     <h5 class="card-title ">DEC. 19</h5>
@@ -320,7 +315,7 @@
                 <p class="animated invisible"><strong>Wednesdays</strong>: 7:00 PM</p>
                 <p class="animated invisible text-uppercase">3723 Sweden Walker Rd. Brockport, NY 14420</p>
 
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11629.114255324164!2d-77.8906375!3d43.2246189!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd881d75c1eba2525!2sRiver+Church!5e0!3m2!1sen!2sus!4v1527937292977" style="width: 100%;height: 500px;" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe class="animated invisible" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11629.114255324164!2d-77.8906375!3d43.2246189!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd881d75c1eba2525!2sRiver+Church!5e0!3m2!1sen!2sus!4v1527937292977" style="width: 100%;height: 500px;" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>
 
@@ -354,7 +349,7 @@
               var docViewBottom = docViewTop + $(window).height();
 
               var elemTop = $(elem).offset().top;
-              var elemBottom = elemTop + $(elem).height();
+              var elemBottom = elemTop + $(elem).height()/2;
 
               return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
             }
