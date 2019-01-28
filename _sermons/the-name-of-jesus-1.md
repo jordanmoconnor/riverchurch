@@ -12,6 +12,5 @@ title: The Name Of Jesus
 date: 2018-12-23 10:30:00 -0500
 categories: []
 tags: []
-published: false
 
 ---
