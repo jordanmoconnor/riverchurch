@@ -8,7 +8,7 @@ audio_id:
 verses:
 - none
 summary: Check us out online at https://riverrochester.com!
-title: Dependently Independent
+title: Dependably Independent
 date: 2019-01-16 00:00:00 -0500
 categories: []
 tags: []
