@@ -12,6 +12,5 @@ title: Light Of The World
 date: 2018-12-24 19:00:00 -0500
 categories: []
 tags: []
-published: false
 
 ---
