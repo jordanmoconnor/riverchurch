@@ -11,7 +11,7 @@ summary: |-
   Visit us at our website: http://riverrochester.com/
   Instagram: https://www.instagram.com/riverrochester/
   Facebook: https://www.facebook.com/TheRiverAtRochester/
-  Giving / Tithing: http://cash.me/$riverrochester
+  Giving / Tithing: http://cash.me/$riverbrockport
 
   Want to download the audio for this sermon? Visit this link: https://riverrochester.com/sermons/activation-of-the-gifts and follow the instructions
 ---

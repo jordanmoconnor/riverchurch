@@ -13,7 +13,7 @@ summary: |-
   Visit us at our website: http://riverrochester.com/
   Instagram: https://www.instagram.com/riverrochester/
   Facebook: https://www.facebook.com/TheRiverAtRochester/
-  Giving / Tithing: http://cash.me/$riverrochester
+  Giving / Tithing: http://cash.me/$riverbrockport
 
   Want to download the audio for this sermon? Visit this link: https://riverrochester.com/sermons/god-s-promises and follow the instructions
 title: God's Promises
