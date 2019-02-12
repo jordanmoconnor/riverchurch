@@ -1,13 +1,13 @@
 ---
 layout: sermon
-image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
+image: http://riverbrockport.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - B6PSvmpXrQc
 audio_id:
 - https://dl.dropboxusercontent.com/s/rwdtwee1gmyvqcj/Storms.mp3?dl=0
 verses:
 - none
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 title: Storms
 date: 2018-01-11 00:08:15 +0000
 categories: []

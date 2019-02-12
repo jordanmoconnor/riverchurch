@@ -5,7 +5,7 @@ categories: []
 date: 2017-09-06 08:37:11 -0400
 image: "/uploads/RIVERxchurch-1.jpg"
 layout: sermon
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 tags: []
 title: The Purpose Of Prayer
 verses:

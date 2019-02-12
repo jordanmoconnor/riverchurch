@@ -16,7 +16,7 @@ The start of a new month means exciting news for The River Church! Before we get
 
 Pastor Julia and I traveled to Tampa Fl. to our home church with our baby Zara to receive a fresh impartation from the Holy Ghost- and we got it!! Also Zara was dedicated which was a powerful moment for all of us. You can watch a video of Zara being dedicated and a word we received for Rochester on our [facebook page](https://www.facebook.com/TheRiverAtRochester/).
 
-Lastly we finished our month series on prayer which, if applied- will totally transform your life! Make sure to listen to those messages if you haven't heard them (or again if you have). You can listen to those messages via our website on [river media](https://riverrochester.com/media/) , [podcast](https://geo.itunes.apple.com/us/podcast/river-rochester/id1182211082?mt=2) , or [YouTube channel](https://youtube.com/riverrochester).
+Lastly we finished our month series on prayer which, if applied- will totally transform your life! Make sure to listen to those messages if you haven't heard them (or again if you have). You can listen to those messages via our website on [river media](https://riverbrockport.com/media/) , [podcast](https://geo.itunes.apple.com/us/podcast/river-rochester/id1182211082?mt=2) , or [YouTube channel](https://youtube.com/riverrochester).
 
 ![77eb9d0f-6168-4e53-984c-7e421a202892.jpg](/uploads/77eb9d0f-6168-4e53-984c-7e421a202892.jpg)
 

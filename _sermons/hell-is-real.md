@@ -10,12 +10,12 @@ verses:
 summary: |-
   Pastor Jeremiah Thomas preaches about the realities of hell.
 
-  Visit us at our website: http://riverrochester.com/
+  Visit us at our website: http://riverbrockport.com/
   Instagram: https://www.instagram.com/riverrochester/
   Facebook: https://www.facebook.com/TheRiverAtRochester/
   Giving / Tithing: http://cash.me/$riverbrockport
 
-  Want to download the audio for this sermon? Visit this link: https://riverrochester.com/sermons/hell-is-real and follow the instructions
+  Want to download the audio for this sermon? Visit this link: https://riverbrockport.com/sermons/hell-is-real and follow the instructions
 title: What Is Hell Like?
 date: 2017-04-19 05:06
 categories: []

@@ -8,11 +8,11 @@ audio_id:
 summary: |-
   Pastor Jeremiah Thomas preaches about seeking the gifts of the Spirit, and how to properly seek the best gifts.
 
-  Visit us at our website: http://riverrochester.com/
+  Visit us at our website: http://riverbrockport.com/
   Instagram: https://www.instagram.com/riverrochester/
   Facebook: https://www.facebook.com/TheRiverAtRochester/
   Giving / Tithing: http://cash.me/$riverbrockport
 
-  Want to download the audio for this sermon? Visit this link: https://riverrochester.com/sermons/earnestly-seek-the-gifts.html and follow the instructions
+  Want to download the audio for this sermon? Visit this link: https://riverbrockport.com/sermons/earnestly-seek-the-gifts.html and follow the instructions
 ---
 

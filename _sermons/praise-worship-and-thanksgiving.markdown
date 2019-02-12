@@ -18,7 +18,7 @@ verses:
 
 Pastor Jeremiah Thomas preaches about the importance of worship in our relationship with God, and how it's not just a religious custom.
 
-[riverrochester.com](https://riverrochester.com/) | 
+[riverbrockport.com](https://riverbrockport.com/) | 
 [@riverrochester](https://www.instagram.com/riverrochester/) | 
 [facebook.com/TheRiverAtRochester/](https://www.facebook.com/TheRiverAtRochester/) | 
 [cash.me/$riverbrockport/](https://cash.me/$riverbrockport/)

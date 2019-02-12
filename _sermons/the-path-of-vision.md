@@ -1,13 +1,13 @@
 ---
 layout: sermon
-image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
+image: http://riverbrockport.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - NpQTe6b5nn4
 audio_id:
 - https://dl.dropboxusercontent.com/s/utpqgpgnzrnsi77/The%20Path%20Of%20Vision.mp3?dl=0
 verses:
 - none
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 title: The Path Of Vision
 date: 2018-01-22 00:09:43 +0000
 categories: []

@@ -5,7 +5,7 @@ categories: []
 date: 2017-09-03 07:35:59 -0400
 image: "/uploads/lifestyle02(1x1).jpg"
 layout: sermon
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 tags: []
 title: Being Single
 verses:

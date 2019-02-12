@@ -1,13 +1,13 @@
 ---
 layout: sermon
-image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
+image: http://riverbrockport.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - nNcoOLkodpg
 audio_id:
 - https://dl.dropboxusercontent.com/s/xbrbvgsgf3tzkna/The%20Kingdom%20Of%20Heaven.mp3?dl=0
 verses:
 - none
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 title: " The Kingdom Of Heaven"
 date: 2017-12-17 15:04:30 -0500
 categories: []

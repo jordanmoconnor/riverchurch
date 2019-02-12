@@ -9,11 +9,11 @@ audio_id:
 summary: |-
   Pastor Jeremiah Thomas preaches about the foundational characteristics of a person who practices the gifts of the spirit.
 
-  Visit us at our website: http://riverrochester.com/
+  Visit us at our website: http://riverbrockport.com/
   Instagram: https://www.instagram.com/riverrochester/
   Facebook: https://www.facebook.com/TheRiverAtRochester/
   Giving / Tithing: http://cash.me/$riverbrockport
 
-  Want to download the audio for this sermon? Visit this link: https://riverrochester.com/sermons/foundation-for-the-gifts.html and follow the instructions
+  Want to download the audio for this sermon? Visit this link: https://riverbrockport.com/sermons/foundation-for-the-gifts.html and follow the instructions
 ---
 

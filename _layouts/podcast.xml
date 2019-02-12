@@ -6,7 +6,7 @@
     <link>{{ site.url }}{{ site.baseurl }}</link>
     <language>en-us</language>
     <image>
-      <url>http://riverrochester.com/assets/img/logos/podcast-logo.png</url>
+      <url>http://riverbrockport.com/assets/img/logos/podcast-logo.png</url>
       <title>{{ site.title }}</title>
       <link>{{ site.url }}</link>
     </image>
@@ -19,10 +19,10 @@
     <itunes:summary>We are a church located in Brockport, NY that is impacting the greater Rochester area with the gospel of Jesus Christ. This podcast will feature all of our sermons, Bible studies, and other audio content. Enjoy!</itunes:summary>
     <itunes:owner>
            <itunes:name>{{ site.title }}</itunes:name>
-           <itunes:email>contact@riverrochester.com</itunes:email>
+           <itunes:email>contact@riverbrockport.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://riverrochester.com/assets/img/logos/podcast-logo.png"/>
+    <itunes:image href="http://riverbrockport.com/assets/img/logos/podcast-logo.png"/>
     <itunes:category text="Religion &amp; Spirituality">
     <itunes:category text="Christianity"/>
     </itunes:category>

@@ -1,13 +1,13 @@
 ---
 layout: sermon
-image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
+image: http://riverbrockport.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - bFHd0aO3D54
 audio_id:
 - https://dl.dropboxusercontent.com/s/abj8fhwln9t8pm4/Discipleship.mp3?dl=0
 verses:
 - none
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 title: Discipleship
 date: 2018-02-01 00:18:03 +0000
 categories: []

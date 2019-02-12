@@ -5,7 +5,7 @@ categories: []
 date: 2017-07-16 10:30
 image: ''
 layout: sermon
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 tags: []
 title: How Strong Is Your Faith?
 verses:

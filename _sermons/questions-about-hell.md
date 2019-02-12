@@ -8,9 +8,9 @@ audio_id:
 verses:
 - none
 summary: "Pastor Jeremiah Thomas answers common questions about Hell. \n\nVisit us
-  at our website: http://riverrochester.com/\nInstagram: https://www.instagram.com/riverrochester/\nFacebook:
+  at our website: http://riverbrockport.com/\nInstagram: https://www.instagram.com/riverrochester/\nFacebook:
   https://www.facebook.com/TheRiverAtRochester/\nGiving / Tithing: http://cash.me/$riverbrockport\n\nWant
-  to download the audio for this sermon? Visit this link: https://riverrochester.com/sermons/questions-about-hell
+  to download the audio for this sermon? Visit this link: https://riverbrockport.com/sermons/questions-about-hell
   and follow the instructions"
 title: Questions About Hell
 date: 2017-04-12 19:00

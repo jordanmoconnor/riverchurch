@@ -1,13 +1,13 @@
 ---
 layout: sermon
-image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
+image: http://riverbrockport.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - none
 audio_id:
 - https://dl.dropboxusercontent.com/s/lv07kvcvq1cl1pa/Vision.mp3?dl=0
 verses:
 - none
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 title: Vision
 date: 2018-01-14 19:08:40 -0500
 categories: []

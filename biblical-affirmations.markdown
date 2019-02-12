@@ -24,7 +24,7 @@ navigation_weight: 8
 
 Listed below are a series of affirmations that are based directly on the Word of God. Speak the affirmations **out loud every day**, or multiple times a day, as often as you can! Read the scriptures that correlate with each affirmation (see John 15:7). 
 
-If you would like teaching or have questions about the importance of speaking God’s Word, refer to the foundational scriptures at the end of this document or contact us at <a href="mailto:contact@riverrochester.com">contact@riverrochester.com</a>.
+If you would like teaching or have questions about the importance of speaking God’s Word, refer to the foundational scriptures at the end of this document or contact us at <a href="mailto:contact@riverbrockport.com">contact@riverbrockport.com</a>.
 
 -----
 

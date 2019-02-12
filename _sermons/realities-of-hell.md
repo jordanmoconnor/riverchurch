@@ -10,12 +10,12 @@ verses:
 summary: |-
   Pastor Jeremiah Thomas preaches about Hell and the biblical accounts of what is experienced there.
 
-  Visit us at our website: http://riverrochester.com/
+  Visit us at our website: http://riverbrockport.com/
   Instagram: https://www.instagram.com/riverrochester/
   Facebook: https://www.facebook.com/TheRiverAtRochester/
   Giving / Tithing: http://cash.me/$riverbrockport
 
-  Want to download the audio for this sermon? Visit this link: https://riverrochester.com/sermons/realities-of-hell and follow the instructions
+  Want to download the audio for this sermon? Visit this link: https://riverbrockport.com/sermons/realities-of-hell and follow the instructions
 title: Realities of Hell
 date: 2017-04-05 19:00
 ---

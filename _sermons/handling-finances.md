@@ -1,6 +1,6 @@
 ---
 layout: sermon
-image: http://riverrochester.com/uploads/RIVERxchurch-1.jpg
+image: http://riverbrockport.com/uploads/RIVERxchurch-1.jpg
 video_id:
 - none
 audio_id:
@@ -10,7 +10,7 @@ verses:
 - Proverbs 22:7
 - Proverbs 21:5
 - Proverbs 22:6
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 title: Handling Finances
 date: 2017-12-20 09:31:32 -0500
 categories: []

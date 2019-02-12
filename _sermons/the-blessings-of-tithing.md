@@ -5,7 +5,7 @@ categories: []
 date: 2017-08-27 07:32:45 -0400
 image: ''
 layout: sermon
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 tags: []
 title: The Blessings Of Tithing
 verses:

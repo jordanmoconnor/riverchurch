@@ -5,7 +5,7 @@ categories: []
 date: 2017-08-13 17:39:10 -0400
 image: ''
 layout: sermon
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 tags: []
 title: Giving Unlocks The Blessing
 verses:

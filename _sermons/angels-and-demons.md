@@ -5,7 +5,7 @@ categories: []
 date: 2017-08-02 00:00:00 +00:00
 image: ''
 layout: sermon
-summary: Check us out online at https://riverrochester.com!
+summary: Check us out online at https://riverbrockport.com!
 tags: []
 title: Angels And Demons
 verses:
