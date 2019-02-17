@@ -38,7 +38,7 @@ fields:
 - type: text
   name: image
   label: Image
-  default: https://riverbrockport.com/assets/img/logos/logo-16x9.png
+  default: https://riverrochester.com/assets/img/logos/logo-16x9.png
 - name: verses
   label: Verses
   type: list
@@ -54,7 +54,7 @@ fields:
   label: Summary
   type: textarea
   hidden: false
-  default: Check us out online at https://riverbrockport.com!
+  default: Check us out online at https://riverrochester.com!
 pages:
 - _sermons/the-soon-return-of-jesus.md
 - _sermons/what-eternal-fruit-is-your-life-producing.md
@@ -257,6 +257,7 @@ pages:
 - _sermons/filled-to-overflowing.md
 - _sermons/not-ordinary-men.md
 - _sermons/be-the-light.md
+- _sermons/vision-1.md
 - _sermons/vision-for-our-church.md
 - _sermons/empowers.markdown
 - _sermons/testimonies.markdown
