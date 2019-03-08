@@ -1,7 +1,6 @@
 ---
 label: Pages
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -46,10 +45,10 @@ fields:
 pages:
 - kids.html
 - sermons/index.html
-- winter-revival-2017.html
-- index.html
-- spring-revival-2017.html
-- encounter.html
-- events.markdown
-- gwc.html
 - beliefs.markdown
+- gwc.html
+- events.markdown
+- winter-revival-2017.html
+- encounter.html
+- spring-revival-2017.html
+- index.html

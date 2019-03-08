@@ -1,7 +1,6 @@
 ---
 label: Teachings
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -55,10 +54,10 @@ fields:
   default: ''
 pages:
 - _teachings/kingdom-finances---gods-way-with--part-2.markdown
-- _teachings/kingdom-finances---gods-way-with--part-3.markdown
-- _teachings/should-christians-be-wealthy.markdown
-- _teachings/be-like-abraham.markdown
-- _teachings/what-are-you-talking-about.markdown
-- _teachings/how-to-study-intro.markdown
-- _teachings/how-to-study-the-bible-part-1.markdown
 - _teachings/kingdom-finances---gods-way-with--part-1.markdown
+- _teachings/how-to-study-the-bible-part-1.markdown
+- _teachings/how-to-study-intro.markdown
+- _teachings/what-are-you-talking-about.markdown
+- _teachings/be-like-abraham.markdown
+- _teachings/should-christians-be-wealthy.markdown
+- _teachings/kingdom-finances---gods-way-with--part-3.markdown
