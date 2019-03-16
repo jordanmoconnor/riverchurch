@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/hyper-grace-and-sexual-immorality.md
 - _sermons/choose-life.md
 - _sermons/marriage-for-men-marriage-for-women.md
 - _sermons/what-is-love.md
