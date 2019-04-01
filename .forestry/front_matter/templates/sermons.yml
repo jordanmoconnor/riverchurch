@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/sacrifice.md
 - _sermons/hunger-and-discipline.md
 - _sermons/raising-godly-children.md
 - _sermons/christianity-vs-culture-alcohol.md
