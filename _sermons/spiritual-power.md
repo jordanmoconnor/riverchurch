@@ -12,6 +12,5 @@ title: Spiritual Power
 date: 2019-04-10 00:00:00 -0400
 categories: []
 tags: []
-published: false
 
 ---
