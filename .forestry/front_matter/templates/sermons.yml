@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/spiritual-power.md
 - _sermons/bridges-of-faith.md
 - _sermons/god-s-word-has-the-answers-for-life.md
 - _sermons/hyper-grace-and-sexual-immorality.md
