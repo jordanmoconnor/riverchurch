@@ -12,6 +12,5 @@ title: The Law of Faith
 date: 2019-04-14 10:30:00 -0400
 categories: []
 tags: []
-published: false
 
 ---
