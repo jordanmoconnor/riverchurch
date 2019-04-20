@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverbrockport.com/assets/img/logos/logo-16x9.png
 video_id:
-- 391cMqYCIxU
+- 391cMqYCIxU&t
 audio_id:
 - https://dl.dropboxusercontent.com/s/uctfx56uyrf6ft4/The%20Law%20of%20Faith.mp3?dl=0
 verses:
