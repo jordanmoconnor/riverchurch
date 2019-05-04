@@ -12,5 +12,6 @@ title: Commanding The Sick To Be Healed
 date: 2019-05-01 00:00:00 -0400
 categories: []
 tags: []
+published: false
 
 ---
