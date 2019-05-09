@@ -38,6 +38,6 @@ fields:
   hidden: false
   default: Jeremiah Thomas
 pages:
-- _posts/2016-12-05-its-december.markdown
-- _posts/2017-03-29-april-updates.markdown
 - _posts/2017-02-01-happy-february.markdown
+- _posts/2017-03-29-april-updates.markdown
+- _posts/2016-12-05-its-december.markdown
