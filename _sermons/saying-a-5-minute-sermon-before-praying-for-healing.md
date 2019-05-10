@@ -12,6 +12,5 @@ title: Saying a 5 Minute Sermon Before Praying for Healing
 date: 2019-05-08 00:00:00 -0400
 categories: []
 tags: []
-published: false
 
 ---
