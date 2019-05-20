@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/jehovah-jireh-god-our-provider.md
 - _sermons/saying-a-5-minute-sermon-before-praying-for-healing.md
 - _sermons/the-law-of-faith.md
 - _sermons/what-s-your-alabaster-box.md
