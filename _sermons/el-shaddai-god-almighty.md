@@ -12,6 +12,5 @@ title: El Shaddai - God Almighty
 date: 2019-05-05 00:00:00 -0400
 categories: []
 tags: []
-published: false
 
 ---
