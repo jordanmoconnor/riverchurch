@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverbrockport.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- I-_laj2RcWs
 audio_id:
 - https://dl.dropboxusercontent.com/s/n42p58konhzsx48/El%20Shaddai%20-%20God%20Almighty.mp3?dl=0
 verses:
