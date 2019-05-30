@@ -8,7 +8,7 @@ audio_id:
 verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
-title: Uploading Faith Hall Of Fame - Abel
+title: Faith Hall Of Fame - Abel
 date: 2019-05-29 00:00:00 -0400
 categories: []
 tags: []
