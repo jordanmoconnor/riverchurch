@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
 title: Remove Bad People From Your Life
-date: 
+date: 2019-06-12 00:00:00 -0400
 categories: []
 tags: []
 
