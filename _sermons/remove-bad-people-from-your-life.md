@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverbrockport.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- oA_OU8V_3OQ
 audio_id:
 - https://dl.dropboxusercontent.com/s/0qrkmtbbiknbmrg/Remove%20Bad%20People%20From%20Your%20Life.mp3?dl=0
 verses:
