@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/imitate-the-father.md
 - _sermons/remove-bad-people-from-your-life.md
 - _sermons/the-holy-spirit.md
 - _sermons/faith-hall-of-fame-noah.md
