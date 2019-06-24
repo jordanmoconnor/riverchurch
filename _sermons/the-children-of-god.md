@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
 title: The Children Of God
-date: 
+date: 2019-06-23 00:00:00 -0400
 categories: []
 tags: []
 
