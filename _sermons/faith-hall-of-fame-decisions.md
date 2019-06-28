@@ -12,6 +12,5 @@ title: Faith Hall of Fame - Decisions
 date: 2019-06-26 19:00:00 -0400
 categories: []
 tags: []
-published: false
 
 ---
