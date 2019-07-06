@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/faith-hall-of-fame-isaac.md
 - _sermons/the-power-within-you.md
 - _sermons/faith-hall-of-fame-decisions.md
 - _sermons/the-children-of-god.md
