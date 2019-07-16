@@ -12,6 +12,5 @@ title: The Power of Positive Confession
 date: 2019-07-14 10:30:00 -0400
 categories: []
 tags: []
-published: false
 
 ---
