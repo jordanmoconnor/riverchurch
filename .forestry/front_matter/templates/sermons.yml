@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/faith-hall-of-fame-joseph.md
 - _sermons/the-power-of-positive-confession.md
 - _sermons/faith-hall-of-fame-jacob.md
 - _sermons/the-seed-in-you.md
