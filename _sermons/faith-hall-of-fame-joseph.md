@@ -12,6 +12,5 @@ title: Faith Hall Of Fame - Joseph
 date: 2019-07-17 00:00:00 -0400
 categories: []
 tags: []
-published: false
 
 ---
