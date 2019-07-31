@@ -8,7 +8,7 @@ audio_id:
 verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
-title: The Power Of Positive Confession
+title: The Power Of Positive Confession 2
 date: 2019-07-21 00:00:00 -0400
 categories: []
 tags: []
