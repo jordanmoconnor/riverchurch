@@ -12,6 +12,5 @@ title: The Power Of Positive Confession 3
 date: 2019-07-28 22:30:00 -0400
 categories: []
 tags: []
-published: false
 
 ---
