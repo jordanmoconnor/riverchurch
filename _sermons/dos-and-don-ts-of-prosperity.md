@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
 title: Dos and Don'ts of Prosperity
-date: 
+date: 2019-08-11 00:00:00 -0400
 categories: []
 tags: []
 published: false
