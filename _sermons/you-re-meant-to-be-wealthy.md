@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverbrockport.com/assets/img/logos/logo-16x9.png
 video_id:
-- none
+- k9-UJKDXGKY
 audio_id:
 - https://dl.dropboxusercontent.com/s/1w9cualz8l3zbh3/You%27re%20Meant%20To%20Be%20Wealthy.mp3?dl=0
 verses:
