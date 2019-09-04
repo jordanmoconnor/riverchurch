@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/generosity.md
 - _sermons/deception-of-the-enemy.md
 - _sermons/you-re-meant-to-be-wealthy.md
 - _sermons/faith-hall-of-fame-rahab.md
