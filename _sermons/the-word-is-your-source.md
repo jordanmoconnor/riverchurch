@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
 title: The Word Is Your Source
-date: 
+date: 2019-09-11 00:00:00 -0400
 categories: []
 tags: []
 
