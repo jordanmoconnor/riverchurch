@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/follow-the-word.md
 - _sermons/the-blessing-of-the-lord.md
 - _sermons/generosity.md
 - _sermons/deception-of-the-enemy.md
