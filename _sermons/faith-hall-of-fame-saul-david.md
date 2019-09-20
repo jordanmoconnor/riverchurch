@@ -2,7 +2,7 @@
 layout: sermon
 image: https://riverbrockport.com/assets/img/logos/logo-16x9.png
 video_id:
-- H5tDD1NbMxQ
+- T_Vlbml6fh8
 audio_id:
 - https://dl.dropboxusercontent.com/s/2iytyhwupnpuma7/Saul%20%26%20David.mp3?dl=0
 verses:
