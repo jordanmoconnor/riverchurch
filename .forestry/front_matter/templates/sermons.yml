@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/the-supernatural.md
 - _sermons/faith-hall-of-fame-david.md
 - _sermons/empowered-to-be-a-witness.md
 - _sermons/faith-hall-of-fame-saul-david.md
