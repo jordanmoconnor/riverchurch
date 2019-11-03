@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/it-s-not-hard-to-get-the-holy-spirit.md
 - _sermons/lean-on-god-not-man.md
 - _sermons/by-your-faith.md
 - _sermons/galatians-1-3-7.md
