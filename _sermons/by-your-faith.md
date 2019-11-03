@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
 title: By Your Faith!
-date: 2019-10-26 14:30:00 -0400
+date: 2019-10-27 00:00:00 -0400
 categories: []
 tags: []
 
