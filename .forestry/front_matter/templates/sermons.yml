@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/the-fruit-of-the-holy-spirit-solves-all-your-problems.md
 - _sermons/being-filled-with-the-spirit.md
 - _sermons/faith-in-love.md
 - _sermons/get-the-holy-spirit-anytime-anywhere.md
