@@ -4,22 +4,24 @@ layout: compress
 
 <!DOCTYPE html>
 <html>
-    <head>
-        {% include head-index.html %}
-    </head>
-    <body id="page-top" class="index">
-        {% include nav.html %}   
-        {% include moving.html %} 
-        {% include header.html %}  
-        <div id="content">
-            {% include about.html %}
-            {% include pastors.html %}
-            {% include church_info.html %}
-            {% include kids.html %}
-            {% include rbi.html %}
-            {% include give.html %}
-        </div> 
-        {% include footer.html %}
-    </body>
-    {% include js.html %}
+
+<head>
+    {% include head-index.html %}
+</head>
+
+<body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header.html %}
+    <div id="content">
+        {% include about.html %}
+        {% include pastors.html %}
+        {% include church_info.html %}
+        {% include kids.html %}
+        {% include rbi.html %}
+        {% include give.html %}
+    </div>
+    {% include footer.html %}
+</body>
+{% include js.html %}
+
 </html>
