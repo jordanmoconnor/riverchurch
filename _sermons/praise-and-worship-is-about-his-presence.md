@@ -12,6 +12,5 @@ title: Praise and worship is about His presence
 date: 2019-12-01 00:00:00 -0500
 categories: []
 tags: []
-published: false
 
 ---
