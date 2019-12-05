@@ -55,6 +55,7 @@ fields:
   hidden: false
   default: Check us out online at https://riverbrockport.com!
 pages:
+- _sermons/walking-in-abundant-life.md
 - _sermons/praise-and-worship-is-about-his-presence.md
 - _sermons/thankful.md
 - _sermons/everyone-can-have-the-holy-spirit.md
