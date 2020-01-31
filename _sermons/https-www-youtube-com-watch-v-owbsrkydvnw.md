@@ -8,7 +8,7 @@ audio_id:
 verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
-title: https://www.youtube.com/watch?v=oWBSRkYdvnw
+title: The Same Yesterday, Today, And Forever
 date: 2020-01-19 00:00:00 -0500
 categories: []
 tags: []
