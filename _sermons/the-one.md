@@ -9,7 +9,7 @@ verses:
 - none
 summary: Check us out online at https://riverbrockport.com!
 title: The One
-date: 
+date: 2020-02-09 00:00:00 -0500
 categories: []
 tags: []
 
