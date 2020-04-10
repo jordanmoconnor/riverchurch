@@ -21,4 +21,4 @@ Pastor Jeremiah Thomas preaches about the importance of worship in our relations
 [riverbrockport.com](https://riverbrockport.com/) | 
 [@riverrochester](https://www.instagram.com/riverrochester/) | 
 [facebook.com/TheRiverAtRochester/](https://www.facebook.com/TheRiverAtRochester/) | 
-[cash.me/$riverbrockport/](https://cash.me/$riverbrockport/)
+[tithe.ly/give?c=717924/](https://tithe.ly/give?c=717924/)

@@ -9,7 +9,7 @@
                     <li>Our Pastor: <a href="https://pastorjeremiah.com">Jeremiah Thomas</a>
                     </li>
                 </ul>
-            </div>  
+            </div>
             <div class="col-lg-4">
                 <ul class="list-inline d-inline-flex my-3">
                     {% for network in site.social %}
@@ -22,14 +22,17 @@
                 <ul style="padding: 0px;">
                     <li style="list-style-type:none;"><a href="{{ '/helps' | absolute_url }}">Helps Ministry</a>
                     </li>
-                    <li style="list-style-type:none;"><a href="https://www.amazon.com/s/ref=w_bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=River+Merch">River Merch</a>
+                    <li style="list-style-type:none;"><a
+                            href="https://www.amazon.com/s/ref=w_bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=River+Merch">River
+                            Merch</a>
                     </li>
-                    {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
+                    {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+                    {% for p in navigation_pages %} {% if p.navigation_weight %}
                     <li style="list-style-type:none;"><a href="{{ p.url }}">{{ p.title }}</a></li>
                     {% endif %} {% endfor %}
-                    <li style="list-style-type:none;"><a href="https://cash.me/$riverbrockport">G I V E</a></li>
+                    <li style="list-style-type:none;"><a href="https://tithe.ly/give?c=717924">G I V E</a></li>
                 </ul>
-            </div> 
+            </div>
         </div>
     </div>
 </footer>

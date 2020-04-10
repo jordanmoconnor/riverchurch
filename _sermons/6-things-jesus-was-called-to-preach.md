@@ -13,7 +13,7 @@ summary: |-
   Visit us at our website: http://riverbrockport.com/
   Instagram: https://www.instagram.com/riverrochester/
   Facebook: https://www.facebook.com/TheRiverAtRochester/
-  Giving / Tithing: http://cash.me/$riverbrockport
+  Giving / Tithing: http://tithe.ly/give?c=717924
 
   Want to download the audio for this sermon? Visit this link: https://riverbrockport.com/sermons/6-things-jesus-was-called-to-preach and follow the instructions
 title: 6 Things Jesus Was Called To Preach

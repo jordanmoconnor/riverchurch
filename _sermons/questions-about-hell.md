@@ -9,7 +9,7 @@ verses:
 - none
 summary: "Pastor Jeremiah Thomas answers common questions about Hell. \n\nVisit us
   at our website: http://riverbrockport.com/\nInstagram: https://www.instagram.com/riverrochester/\nFacebook:
-  https://www.facebook.com/TheRiverAtRochester/\nGiving / Tithing: http://cash.me/$riverbrockport\n\nWant
+  https://www.facebook.com/TheRiverAtRochester/\nGiving / Tithing: http://tithe.ly/give?c=717924\n\nWant
   to download the audio for this sermon? Visit this link: https://riverbrockport.com/sermons/questions-about-hell
   and follow the instructions"
 title: Questions About Hell
